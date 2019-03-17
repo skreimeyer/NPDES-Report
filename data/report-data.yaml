@@ -2,3 +2,31 @@ meta:
   reportDate: 2019-04-01
   preparedBy: Samuel Kreimeyer
   year: 2018
+  permitDate: 2012-04-01
+summary:
+  cost: "$25 million"
+  annexed: 0
+ARDOT:
+  budget: "$900,000"
+CLR:
+  budget:
+    employees: 215
+    maintenanceTotal: "$9 million"
+    maintenanceFuture: "$8.5 million"
+    administration: "$2.1 million"
+    administrationFuture: "$2.5 million"
+    capitalWard: "$2.6 million"
+    capitalTotal: "$18.6 million"
+tables:
+  operatingExpenses:
+    index: 1
+    name: "Operating Expenses"
+    data:
+      administration:
+        current: 1014776
+        next: 984491
+figures:
+  qualitySummary:
+    index: 1
+    name: "Water Quality Parameters for 2018"
+    url: "./static/radar.png"
