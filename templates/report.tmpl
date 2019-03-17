@@ -9,47 +9,89 @@
 # Table of Contents
 
 [1.0 Introduction](# 1.0 Introduction)
+
 [2.0 Executive Summary](# 2.0 Executive Summary)
+
 [3.0 Municipal Separate Storm Sewer Report](# 3.0 Municipal Separate Storm Sewer Report)
+
 [3.1 Changes to Sormwater Quality Management Program](# 3.1 Changes to Sormwater Quality Management Program)
+
 [3.2 Revisions to Assessments and Fiscal Analysis](# 3.2 Revisions to Assessments and Fiscal Analysis)
+
 [3.3 Discharge Monitoring Report Summary](# 3.3 Discharge Monitoring Report Summary)
+
 [3.4 MS4 Budget Summary](# 3.4 MS4 Budget Summary)
+
 [3.5 Enforcement, Inspection and Education](# 3.5 Enforcement, Inspection and Education)
+
 [3.5.1 ARDOT Enforcement, Inspection and Education](# 3.5.1 ARDOT Enforcement, Inspection and Education)
+
 [3.5.2 Little Rock Enforcement, Inspection and Education](# 3.5.2 Little Rock Enforcement, Inspection and Education)
+
 [3.6 Changes to Water Quality](# 3.6 Changes to Water Quality)
+
 [3.7 Pollution Prevention measures](# 3.7 Pollution Prevention measures)
+
 [3.7.2 Household Hazardous Waste](# 3.7.2 Household Hazardous Waste)
+
 [3.8 Structural Controls](# 3.8 Structural Controls)
+
 [3.8.1 ARDOT Drainage Maintenance Report](# 3.8.1 ARDOT Drainage Maintenance Report)
+
 [3.8.2 Little Rock Drainage Maintenance Report](# 3.8.2 Little Rock Drainage Maintenance Report)
+
 [3.9 Areas of New Development](# 3.9 Areas of New Development)
+
 [3.9.1 ARDOT New Development Summary](# 3.9.1 ARDOT New Development Summary)
+
 [3.9.2 Little Rock New Development Summary](# 3.9.2 Little Rock New Development Summary)
+
 [3.10 Roadways](# 3.10 Roadways)
+
 [3.10.1 ARDOT Roadway Maintenance](# 3.10.1 ARDOT Roadway Maintenance)
+
 [3.10.2 Little Rock Roadway Maintenance](# 3.10.2 Little Rock Roadway Maintenance)
+
 [3.11 Flood Control Projects](# 3.11 Flood Control Projects)
+
 [3.11.1 ARDOT Flood Control](# 3.11.1 ARDOT Flood Control)
+
 [3.11.2 Little Rock Flood Control](# 3.11.2 Little Rock Flood Control)
+
 [3.12 Spill Prevention and Response](# 3.12 Spill Prevention and Response)
+
 [3.12.1 ARDOT Spill Response Summary](# 3.12.1 ARDOT Spill Response Summary)
+
 [3.12.2 Little Rock Spill Response Summary](# 3.12.2 Little Rock Spill Response Summary)
+
 [3.13 Construction Site Runoff](# 3.13 Construction Site Runoff)
+
 [3.13.1 ARDOT Construction Runoff Reduction](# 3.13.1 ARDOT Construction Runoff Reduction)
+
 [3.13.2 Little Rock Construction Runoff Reduction](# 3.13.2 Little Rock Construction Runoff Reduction)
+
 [3.14 Changes to Roles and Responsibility](# 3.14 Changes to Roles and Responsibility)
+
 [3.15 Monitoring and Reporting](# 3.15 Monitoring and Reporting)
+
 [3.15.1 Representative Monitoring](# 3.15.1 Representative Monitoring)
+
 [3.15.2 Storm Event Data](# 3.15.2 Storm Event Data)
+
 [3.15.3 Sampling](# 3.15.3 Sampling)
+
 [3.15.4 Seasonal Loadings and Event Mean Concentrations](# 3.15.4 Seasonal Loadings and Event Mean Concentrations)
+
 [3.16 Changes to Legal Authority](# 3.16 Changes to Legal Authority)
+
 [3.17 Changes to SWQMP Resources](# 3.17 Changes to SWQMP Resources)
+
 [3.18 Changes to SWQMP Review](# 3.18 Changes to SWQMP Review)
+
 [4.0 Conclusions](# 4.0 Conclusions)
+
 [5.0 Certifications](# 5.0 Certifications)
+
 [6.0 Appendices](# 6.0 Appendices)
 
 # Appendices
