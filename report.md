@@ -117,7 +117,7 @@
 [Table 1: Operating Expenses](#[Table-1:-Operating Expenses])
 
 
-# 1.0 Introduction<a name="1.0-Introduction"></a><a name="1.0-Introduction<a-name="1.0-Introduction"></a>"></a>
+# 1.0 Introduction<a name="1.0-Introduction"></a>
 The City of Little Rock (City) and the Arkansas Department of Transportation (ARDOT) are co-permittees under the National Pollutant Discharge Elimination System (NPDES) permit ARS000002 (Permit) in accordance with the Arkansas Water and Air Pollution Control Act and the Clean Water Act. The purpose of the Permit is to outline the activities required for ARDOT and the City of Little Rock to lawfully discharge waters from within the territorial boundaries of the City via the municipal separate storm sewer system (MS4) into the Arkansas River and its tributaries.  Compliance with the terms of the permit is assured by the adoption of storm water quality management plans (SWQMP) which provide guidance on best practices to mitigate the pollution of waterways to the maximum extent practicable (MEP). The Permit became effective 2012-04-01 and is currently administratively effective at the time of this report.
 
 Each section of this report follows the reporting requirements as identified in section 6.9 of the Permit. For clarity, the requirements as given in the permit are shown in quotes, followed by a description of compliance activity associated with the requirement. Where separate reporting by the co-permittees is required, subsections for each permittee are provided.
