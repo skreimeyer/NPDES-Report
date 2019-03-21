@@ -511,5 +511,5 @@ figures:
   waterQuality:
     index: 1 # Unnecessary if order is preserved
     title: "Water Quality Parameters for 2018"
-    caption: "Represents a summary 
+    caption: "Represents a summary" 
     location: "./static/radar.png"
