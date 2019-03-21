@@ -7,7 +7,12 @@ summary:
   cost: "$25 million"
   annexed: 0
 ARDOT:
-  budget: "$900,000"
+  budget:
+    total: "$900,000"
+    majorDrain: "$12,902"
+    minorDrain: "$107,000"
+    erosionRepair: "$436"
+    ditchRehab: "$3,636"
   projects:
     - "060395 – Union Pacific RR Overpass (Arch St.) (LR)"
     - "061275 – Arkansas River Str. & Apprs. (Broadway) (LR/NLR)"
@@ -15,6 +20,11 @@ ARDOT:
     - "061333 – I-430/Hwy 10 Interchange Impvt. (LR)"
     - "061390 – Crooked Creek Channel Impvts. (I-30)"
     - "061437 – I-30 / I-430 Interchange Impvt. (LR) (Phase II)"
+  recycle:
+    oil: "1,035 gallons"
+  training:
+    primary: 2018-02-13
+    secondary: 2018-04-24
 CLR:
   budget:
     employees: 215
@@ -24,6 +34,34 @@ CLR:
     administrationFuture: "$2.5 million"
     capitalWard: "$2.6 million"
     capitalTotal: "$18.6 million"
+    lrtv: "$300,000"
+  enforcementActions: 41
+  sustainabilityEvents: 45
+  murals:
+    current: 12
+    proposed: 18
+  rrwrdBudget: "$40,000"
+  recycle:
+    oil: "1,375 gallons"
+  adopt:
+    groups: 212
+    miles: 158.25
+  cleanup:
+    recycle: "390 pounds"
+    waste: "24 tons"
+    blocks: 249
+    acres: 161
+    waters: "2.6 miles"
+    tires: 378
+  sweepers:
+    miles: "21,197 curb-miles"
+    volume: "1,784 cubic yards"
+    cost: "$692,700"
+  construction:
+    permits: 117
+    disturbed: 5100
+    loss: 4900
+  
 tables:
   operatingExpenses:
     index: 1 # Not sure if this will be entirely necessary
@@ -143,35 +181,35 @@ tables:
         - 255
         - "LF"
         - "$37,741"
-      - - "Ditch maintenance: hand cleaning"
+      - - "Ditch maintenance, hand cleaning"
         - 629746
         - "LF"
         - "$752,228"
-      - - "Ditch maintenance: Excavation"
+      - - "Ditch maintenance, Excavation"
         - 21532
         - "LF"
         - "$116799"
-      - - "Ditch maintenance: Channel construction"
+      - - "Ditch maintenance, Channel construction"
         - 12998
         - "LF"
         - "$177,451"
-      - - "Ditch maintenance: Litter removal"
+      - - "Ditch maintenance, Litter removal"
         - 802994
         - "LF"
         - "$98,203"
-      - - "Ditch maintenance: Mowing"
+      - - "Ditch maintenance, Mowing"
         - 524
         - "Ac"
         - "$83,138"
-      - - "Ditch maintenance: Stabilization (rip-rap)"
+      - - "Ditch maintenance, Stabilization (rip-rap)"
         - 465
         - "sq-yd"
         - "$46,332"
-      - - "Street sweeping: Miles swept"
+      - - "Street sweeping, Miles swept"
         - 21197
         - "curb-mi"
         - "$660,718"
-      - - "Street sweeping: Litter removed"
+      - - "Street sweeping, Litter removed"
         - 1784
         - "cyd"
         - "$31,977"
