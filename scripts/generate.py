@@ -1,6 +1,8 @@
 #! /usr/env/python3
-
-# Generate a markdown report
+"""
+Generates a markdown-formatted report from the templates directory using data
+from the report-data.yml file in the data folder. Nothing more, nothing less.
+"""
 
 from jinja2 import Template
 import yaml
