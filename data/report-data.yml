@@ -61,7 +61,7 @@ CLR:
     permits: 117
     disturbed: 5100
     loss: 4900
-  
+
 tables:
   operatingExpenses:
     index: 1 # Not sure if this will be entirely necessary
@@ -157,7 +157,7 @@ tables:
         - 87
   serviceCost:
     index: 5
-    title: "Public Works Operations MS4 Maintenance Summary
+    title: "Public Works Operations MS4 Maintenance Summary"
     caption: "Unit quantities and costs associated directly with the maintenance of the MS4"
     headers:
       - "Activity"
@@ -511,5 +511,5 @@ figures:
   waterQuality:
     index: 1 # Unnecessary if order is preserved
     title: "Water Quality Parameters for 2018"
-    caption: "Represents a summary" 
+    caption: "Represents a summary"
     location: "./static/radar.png"
