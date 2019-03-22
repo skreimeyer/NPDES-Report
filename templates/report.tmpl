@@ -107,14 +107,14 @@
 
 # Table of Figures<a name="Table-of-Figures"></a>
 
-{% for f in figures %}
-[Figure {{f.index}}: {{f.name}}](#Figure-{{f.index}}:-{{f.name}})
+{% for key,val in figures %}
+[Figure {{val.index}}: {{val.title}}](#Figure-{{val.index}}:-{{val.title}})
 {% endfor %}
 
 # Table of Tables<a name="Table-of-Tables"></a>
 
-{% for t in tables %}
-[Table {{t.index}}: {{t.name}}](#[Table-{{t.index}}:-{{t.name}}])
+{% for key,val in tables %}
+[Table {{val.index}}: {{val.title}}](#[Table-{{val.index}}:-{{val.title|slugify}}])
 {% endfor %}
 
 # 1.0 Introduction<a name="1.0-Introduction"></a>
@@ -151,7 +151,7 @@ Discharge sampling shows a high level of variability between sampling locations 
 
 Figure 1 presents all reported measurements represented as a percentage of recommended limits for aquatic life as given in the EPA’s Regulation No. 2: Regulation Establishing Water Quality Standards for Surface Waters of the State of Arkansas. Recommended limits for nitrogen and phosphorous are have been derived from the EPA’s ecoregional criteria for Region IX: Southeastern Temperate Forested Plains and Hills. Where specific guidance has is not provided (including hardness, flow, total suspended solids and biological oxygen demand), these factors are represented as a percentage of 95th percentile of all measurements taken from the area since the beginning of the discharge monitoring program.
 
-Figure 1: {{meta.year}} Discharge by Quarter
+// TODO: FIGURE LOOP //
 
 Additional tables and charts of discharge monitoring are provided in Appendix C.
 
@@ -164,9 +164,14 @@ City maintenance of the MS4 is paid for by the City Street Fund and is tasked to
 
 Operations and maintenance costs of the MS4 are met by the City Street Fund. These expenses are summarized in the table below.
 
-Public Works Street Fund Operating Expenses
-// TODO
-Table 1: Operating Expenses
+{% set localTable = 'operatingExpenses' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 ## 3.5 Enforcement, Inspection and Education<a name="3.5-Enforcement,-Inspection-and-Education"></a>
 **Requirement:**
