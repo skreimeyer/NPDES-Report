@@ -183,11 +183,16 @@ ARDOT conducts inspections of its construction projects and maintenance faciliti
 ## 3.5.2 Little Rock Enforcement, Inspection and Education<a name="3.5.2-Little-Rock-Enforcement,-Inspection-and-Education"></a>
 Enforcement
 
-The City Public Works is authorized by ordinance to enforce City codes pertaining to stormwater management plans and flood prevention. Through the performance of periodic inspections and complaints, the Public Works took 41 enforcement actions in {{meta.year}}. The majority of enforcement activity is the issuance of notices of violations by Public Works inspectors for grading permit violations. A summary is given in the table below.
+The City Public Works is authorized by ordinance to enforce City codes pertaining to stormwater management plans and flood prevention. Through the performance of periodic inspections and complaints, the Public Works took {{tables.enforcementActions.data.4.1}} enforcement actions in {{meta.year}}. The majority of enforcement activity is the issuance of notices of violations by Public Works inspectors for grading permit violations. A summary is given in the table below.
 
-Enforcement Actions
-// TODO
-Table 2: Enforcement
+{% set localTable = 'enforcementActions' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 ### Inspections<a name="Inspections"></a>
 
@@ -199,9 +204,9 @@ The City Public Works serves as a repository of information for the Public for t
 
 The Mayor’s Sustainability Commission was established in 2008 to advise the City on sustainable practices. Since that time, the Commission has worked with various groups in the City to develop new environmentally green policies that have positively impacted city government and the residents of Little Rock.
 
-The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately 45 outreach events in {{meta.year}}. Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
+The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately {{sustainabilityEvents}} outreach events in {{meta.year}}. Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
-Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. Audubon Arkansas is a partner with the City on the Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In {{meta.year}} 12 murals were commissioned, and another 18 locations are proposed for {{meta.year + 1}}.
+Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. Audubon Arkansas is a partner with the City on the Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In {{meta.year}} {{CLR.murals.current}} murals were commissioned, and another {{CLR.murals.proposed}} locations are proposed for {{meta.year + 1}}.
 
 ## 3.6 Changes to Water Quality<a name="3.6-Changes-to-Water-Quality"></a>
 **Requirement:**
@@ -214,26 +219,31 @@ The City of Little Rock is supported by the Pulaski County Regional Recycling & 
 
 Residents are provided with a 65-gallon bin for curbside collection of papers, plastics, glass and metals for recycling. Bins can be requested online or by phone through the City’s 3-1-1 non-emergency service request system. RRWRD also coordinates the operation of Green Stations, which dispose of automotive fluid and fluorescent lighting. The Green Station in Little Rock is located at 10001 Kanis Road which is collocated with the electronic waste recycling drop off.
 
-Approximately $40,000 is spent annually to support the Pulaski County RRWRD. Public promotion of these measures is included within annual expenses of both the Sustainability Summit and the Wetlands Maintenance and Sustainability Summit which totaled $64,000 in {{meta.year}}. Public service announcements are given on LRTV and are included in the annual operating expenses of $300,000 for the LRTV program.
+Approximately {{CLR.rrwrdBudget}} is spent annually to support the Pulaski County RRWRD. Public promotion of these measures is included within annual expenses of both the Sustainability Summit and the Wetlands Maintenance and Sustainability Summit which totaled $64,000 in {{meta.year}}. Public service announcements are given on LRTV and are included in the annual operating expenses of {{CLR.budget.lrtv}} for the LRTV program.
 
 ## 3.7.1 Motor Vehicle Fluids<a name="3.7.1-Motor-Vehicle-Fluids"></a>
 **Requirement:**
 >The co-permittees shall ensure the establishment or availability of a program to collect used motor vehicle fluids for recycle or proper disposal. The program will identify locations where used vehicle fluids may be taken for recycling or disposal in accordance with state requirements. The City of Little Rock will publicize materials which can be recycled or disposed, times available to the public for using the facilities, and locations. The annual report shall include the amount of materials collected (weight or volume), the amount of money used for advertising, the method of advertising used to inform the public, and the overall cost of the program.
 
 ## 3.7.1.1 ARDOT Motor Vehicle Fluids<a name="3.7.1.1-ARDOT-Motor-Vehicle-Fluids"></a>
-ARDOT implemented a program to recycle automotive oil as well as oil from its equipment before March 1, 1997. During the {{meta.year}}, 1,035 gallons of oil and gas products were recycled from equipment used by crews working in Little Rock.
+ARDOT implemented a program to recycle automotive oil as well as oil from its equipment before March 1, 1997. During the {{meta.year}}, {{ARDOT.recycle.oil}} of oil and gas products were recycled from equipment used by crews working in Little Rock.
 
 ## 3.7.1.2 Little Rock Motor Vehicle Fluids<a name="3.7.1.2-Little-Rock-Motor-Vehicle-Fluids"></a>
- In Little Rock, 1,375 gallons of oil, antifreeze and gasoline were collected by the RRWRD Green Station in {{meta.year}}. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
+ In Little Rock, {{CLR.recycle.oil}} of oil, antifreeze and gasoline were collected by the RRWRD Green Station in {{meta.year}}. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
 
 ### 3.7.2 Household Hazardous Waste<a name="3.7.2-Household-Hazardous-Waste"></a>
 **Requirement:**
 >The City of Little Rock shall ensure the establishment or availability of a program to collect household hazardous waste materials for recycle, reuse, or proper disposal. The amount of materials collected (weight or volume), the amount of money used for advertising, the method of advertising used to inform the public, and the overall cost of the program will be included in the annual report.
 Recycling of household hazardous waste is promoted at speaking events by the City sustainability officer as well as by content on social media and LRTV. The City does not collect itemized advertising costs for household hazardous waste recycling. The household hazardous waste collected in {{meta.year}} by the Little Rock Green Station is shown in table the table below.
 
-Recycled Household Hazardous Waste
-// TODO
-Table 3: Hazardous Waste
+{% set localTable = 'hazardousWaste' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 ## 3.8 Structural Controls<a name="3.8-Structural-Controls"></a>
 **Requirement:**
@@ -243,24 +253,34 @@ Table 3: Hazardous Waste
 **Requirement:**
 >Arkansas State Highway and Transportation Department will inspect the drainage system for which it is responsible at least once/month. The inspections should include a schedule of maintenance for correcting deficiencies in the system.
 
-ARDOT spent $12,902 to purchase materials to construct or repair catch basins, junction boxes, and ditch paving, and to purchase replacement drainage culverts.  ARDOT spent a total of $107,000 for materials and installation and associated ditch cleaning of minor drainage structures.
-ARDOT spent $3,636 to machine clean and reshape existing ditches, remove and properly dispose of 15 CY of excess material.  ARDOT spent $436 to purchase riprap, matting, geotextiles, sod, seed, and fertilizer to repair and prevent ditch and slope erosion.  The total cost of purchase and installation was $4,008.
+ARDOT spent {{ARDOT.budget.majorDrain}} to purchase materials to construct or repair catch basins, junction boxes, and ditch paving, and to purchase replacement drainage culverts.  ARDOT spent a total of {{ARDOT.budget.minorDrain}} for materials and installation and associated ditch cleaning of minor drainage structures.
+ARDOT spent {{ARDOT.budget.ditchRehab}} to machine clean and reshape existing ditches, remove and properly dispose of 15 CY of excess material.  ARDOT spent {{ARDOT.budget.erosionRepair}} to purchase riprap, matting, geotextiles, sod, seed, and fertilizer to repair and prevent ditch and slope erosion.  The total cost of purchase and installation was {{ARDOT.budget.ditchRehab + ARDOT.budget.erosionRepair}}.
 
 ## 3.8.2 Little Rock Drainage Maintenance Report<a name="3.8.2-Little-Rock-Drainage-Maintenance-Report"></a>
 **Requirement:**
 >The City of Little Rock will inspect 20 percent of the drainage system each year. The drainage system consists of curb and guttering, piping, and open ditches in the City of Little Rock right-of-way and public easements. Areas with recurring drainage problems shall be inspected more frequently. The City of Little Rock will also maintain and clean the ponds along Coleman Creek and within War Memorial Park. These ponds should be inspected twice per year.
 
-The City of Little Rock Public Works Operations provides preventative and complaint-driven maintenance for the MS4. Annual inspections for inadequate drainage are conducted for each of the seven wards as well as periodic inspections of streets and drainage by the street foremen. The 3-1-1 service provides residence with the ability to create and document requests for service and also acts as a scheduling tool for maintenance activity. Over 2,500 requests for service were made in {{meta.year}} for repairs and maintenance to the MS4.
+The City of Little Rock Public Works Operations provides preventative and complaint-driven maintenance for the MS4. Annual inspections for inadequate drainage are conducted for each of the seven wards as well as periodic inspections of streets and drainage by the street foremen. The 3-1-1 service provides residence with the ability to create and document requests for service and also acts as a scheduling tool for maintenance activity. Over !!TODO!! requests for service were made in {{meta.year}} for repairs and maintenance to the MS4.
 
-3-1-1 Maintenance Requests for Little Rock MS4
-// TODO
-Table 4: 311 Requests
+{% set localTable = 'serviceRequests' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 The requests for maintenance in the 3-1-1 service only partially address the scope of the maintenance activity provided by the Public Works Operations staff. A complete list of the maintenance operations performed by the Public Works and associated costs is given in the table below.
 
-Public Works Operations MS4 Maintenance Summary
-// TODO
-Table 5: MS4 Maintenance
+{% set localTable = 'serviceCost' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Maintenance activity includes the removal of litter as well as regular mowing. Parks has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park.
 
@@ -272,22 +292,24 @@ The City of Little Rock shall notify construction sites disturbing (clearing, gr
 
 ## 3.9.1 ARDOT New Development Summary<a name="3.9.1-ARDOT-New-Development-Summary"></a>
 The following projects were under contract in Little Rock at various times during {{meta.year}}:
-- 060395 – Union Pacific RR Overpass (Arch St.) (LR)
-- 061275 – Arkansas River Str. & Apprs. (Broadway) (LR/NLR)
-- 061277 – Union Pacific RR Str. & Apprs (Roosevelt Rd) (LR)
-- 061333 – I-430/Hwy 10 Interchange Impvt. (LR)
-- 061390 – Crooked Creek Channel Impvts. (I-30)
-- 061437 – I-30 / I-430 Interchange Impvt. (LR) (Phase II)
+{% for li in ARDOT.projects %}
+- {{li}}
+{% endfor %}
 
 Quantities and associated costs of erosion control materials are listed in the table below.
-ARDOT Erosion controls
-// TODO
-Table 6: ARDOT Erosion Controls
+{% set localTable = 'ardotControls' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 ## 3.9.2 Little Rock New Development Summary<a name="3.9.2-Little-Rock-New-Development-Summary"></a>
 Chapter 29 of City code requires that all construction, subdivision approvals and remodeling activities have a stormwater management and drainage plan approved by the Public Works with the exceptions of residential single family or duplex structures, commercial or industrial structures on lots less than one acre or additions of less than 500 square feet to existing commercial or industrial structures. Permitted stormwater management and drainage plans must conform to the City SWQMP and City Storm Water Management and Drainage Manual.
 
-Review of stormwater management and drainage plans for new construction projects is the responsibility of the City Public Works and includes the evaluation of construction plans for compliance of erosion control, detention and storm sewer design. All construction projects on lots larger than one acre are instructed to contact ADEQ to obtain the necessary permitting. In {{meta.year}} Public Works reviewed 117 new construction permits.
+Review of stormwater management and drainage plans for new construction projects is the responsibility of the City Public Works and includes the evaluation of construction plans for compliance of erosion control, detention and storm sewer design. All construction projects on lots larger than one acre are instructed to contact ADEQ to obtain the necessary permitting. In {{meta.year}} Public Works reviewed {{CLR.construction.permits}} new construction permits.
 
 ## 3.10 Roadways<a name="3.10-Roadways"></a>
 **Requirement:**
@@ -295,16 +317,16 @@ Review of stormwater management and drainage plans for new construction projects
 
 ## 3.10.1 ARDOT Roadway Maintenance<a name="3.10.1-ARDOT-Roadway-Maintenance"></a>
 ARDOT reports the following actions to meet this requirement:
-    • Spent $700 to purchase material to pickup litter by ARDOT personnel; $342, 428 total cost to pickup litter by ARDOT Personnel and contract; 3,711 CY of litter picked up and disposed of by ARDOT personnel and contract; $0 to purchase materials to pickup litter by jail inmate program.
-    • Adopt-A-Highway Litter Pickup:  $653 total cost to provide bags, pick up filled bags and dispose of Adopt-A-Highway litter; The Adopt-A-Highway groups did not report the amount of litter they collected.  There are currently 27 Adopt-A-Highway groups in Little Rock who have adopted 37 Miles of highway.
-    • Street Sweeping: ARDOT spent $205,992 total cost to operate 2 vacuum sweepers in Little Rock which picked up 1,559 CYs of debris during the year.
+- Spent $700 to purchase material to pickup litter by ARDOT personnel; $342, 428 total cost to pickup litter by ARDOT Personnel and contract; 3,711 CY of litter picked up and disposed of by ARDOT personnel and contract; $0 to purchase materials to pickup litter by jail inmate program.
+- Adopt-A-Highway Litter Pickup:  $653 total cost to provide bags, pick up filled bags and dispose of Adopt-A-Highway litter; The Adopt-A-Highway groups did not report the amount of litter they collected.  There are currently 27 Adopt-A-Highway groups in Little Rock who have adopted 37 Miles of highway.
+- Street Sweeping: ARDOT spent $205,992 total cost to operate 2 vacuum sweepers in Little Rock which picked up 1,559 CYs of debris during the year.
 
 ## 3.10.2 Little Rock Roadway Maintenance<a name="3.10.2-Little-Rock-Roadway-Maintenance"></a>
 The City of Little Rock services public streets through cleaning, debris removal and repair. Streets are maintained by City employees with assistance provided by volunteers organized by community members, local non-profits and City staff.
 
-- The City of Little Rock supports the Adopt-A-Street program which currently has 212 groups who have adopted 158.25 miles of streets. These volunteer groups do not report quantities of litter removed.
-- The City Wide Cleanup, an effort by the Keep Little Rock Beautiful organization is an annual drive to remove litter from the City. In March {{meta.year}} 733 volunteers collected 390 pounds of recyclables and 24 tons of waste. The event covered 249 city blocks, 161 acres of parks and 2.6 miles of waterways, resulting in the removal of 378 tires from Fourche Creek.
-- The Public Works operates nine sweepers which swept 21,197 curb miles and collected 1,784 cubic yards of litter in {{meta.year}} at an estimated cost of $692,700.
+- The City of Little Rock supports the Adopt-A-Street program which currently has {{CLR.adopt.groups}} groups who have adopted {{CLR.adopt.miles}} miles of streets. These volunteer groups do not report quantities of litter removed.
+- The City Wide Cleanup, an effort by the Keep Little Rock Beautiful organization is an annual drive to remove litter from the City. In March {{meta.year}} {{CLR.cleanup.volunteers}} volunteers collected {{CLR.cleanup.recycle}} of recyclables and {{CLR.cleanup.waste}} of waste. The event covered {{CLR.cleanup.blocks}} city blocks, {{CLR.cleanup.acres}} of parks and {{CLR.cleanup.waters}} of waterways, resulting in the removal of {{CLR.cleanup.tires}} tires from Fourche Creek.
+- The Public Works operates nine sweepers which swept {{CLR.sweepers.miles}} and collected {{CLR.sweepers.volume}} of litter in {{meta.year}} at an estimated cost of {{CLR.sweepers.cost}}.
 
 ## 3.11 Flood Control Projects<a name="3.11-Flood-Control-Projects"></a>
 **Requirement:**
@@ -315,6 +337,7 @@ ARDOT reports no flood control projects for {{meta.year}}.
 
 ## 3.11.2 Little Rock Flood Control<a name="3.11.2-Little-Rock-Flood-Control"></a>
 The City of Little Rock reports no flood control projects for {{meta.year}}.
+!!TODO!!
 
 ## 3.12 Spill Prevention and Response<a name="3.12-Spill-Prevention-and-Response"></a>
 **Requirement:**
@@ -328,9 +351,14 @@ Members of the Department’s NPDES Section provided annual training, including 
 ## 3.12.2 Little Rock Spill Response Summary<a name="3.12.2-Little-Rock-Spill-Response-Summary"></a>
 The City of Little Rock identifies spills by public reporting through 3-1-1 as well as by observations made by City personnel. Spill reports are investigated by the City Public Works, and upon identification of an unlawful discharge into the MS4, ADEQ is provided notification within 24 hours. Following the initial notification, the City conducts enforcement actions and investigation necessary to mitigate the spill. A formal written response is provided to ADEQ Water Quality division within 5 working days of the initial notification. Records of notices of violation and relevant documentation are maintained at the City Public Works. A summary of spill responses is given in the table below.
 
-Unlawful Discharge Summary
-// TODO
-Table 7: Discharge Violations
+{% set localTable = 'spillResponse' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 ## 3.13 Construction Site Runoff<a name="3.13-Construction-Site-Runoff"></a>
 **Requirement:**
@@ -352,16 +380,21 @@ Beginning in February 2010, the Department instituted an erosion and sediment co
 SWMP Reporting Requirement: The Department of Transportation will report annually the job numbers, job locations, and dates of site visits.
 Program Activities:
 Members of the Department’s Environmental Division visited the following area jobs during the Permit year. Job 061102 was visited since there were few active jobs within the city of Little Rock; however the job is within the highly urbanized area.
-ARDOT Construction Site Visits
-// TODO
-Table 8: ARDOT Site Visits
+{% set localTable = 'ardotVisits' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 ## 3.13.2 Little Rock Construction Runoff Reduction<a name="3.13.2-Little-Rock-Construction-Runoff-Reduction"></a>
 The City’s program for reducing construction site runoff is a combination of monitoring and administrative controls which are written in the SWQMP and codified in Chapter 29 of the City of Little Rock Code of Ordinances. Construction and land alteration activities are subject to permitting by the City, and as a condition of these permits, construction activities must provide plans for erosion control, drainage and NPDES compliance where applicable. Significant land alteration activities are unlawful without a grading permit, except where allowed by Chapter 29 of City code.
 
 In addition to submitting plans for City approval, construction activity is subject to inspection by City staff. Inspections are conducted periodically as well as prior to issuance of certificates of occupancy and any construction or land alteration activity which does not provide adequate erosion controls is subject to stop work orders and other penalties.
 
-In {{meta.year}}, the City of Little Rock Public Works permitted 117 construction projects, which disturbed a total area of 5100 acres. The result of these land alteration activities is predicted to cumulatively reduce soil loss by 4900 tons/acre/year. A list of all permitted projects is provided in appendix H.
+In {{meta.year}}, the City of Little Rock Public Works permitted 117 construction projects, which disturbed a total area of {{CLR.construction.disturbed}} acres. The result of these land alteration activities is predicted to cumulatively reduce soil loss by {{CLR.construction.loss}} tons/acre/year. A list of all permitted projects is provided in appendix H.
 
 ## 3.14 Changes to Roles and Responsibility<a name="3.14-Changes-to-Roles-and-Responsibility"></a>
 **Requirement:**
@@ -384,9 +417,14 @@ The locations of sampled outfalls are given by the Permit and are believed to be
 All discharge samples were collected during rain events which exceeded 0.1in of precipitation. The measured precipitation in the table below is an average of six ground weather stations within the limits of the City of Little Rock. The time between acquiring samples and the most recent rain event vary from one to six days. Approximately eight liters of water is required for the battery of laboratory tests performed. In total, approximately 160 liters of runoff was sampled during {{meta.year}}. The City holds records of all reported samples.
 
 
-Storm Event Data
-// TODO
-Table 9: Storm Event Summary
+{% set localTable = 'stormEvents' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 ## 3.15.3 Sampling<a name="3.15.3-Sampling"></a>
 **Requirement:**
@@ -395,9 +433,14 @@ Table 9: Storm Event Summary
 Representative Storm Events: Samples shall be collected from the discharge resulting from a storm event that is greater than 0.1 inches in magnitude and that occurs at least 72 hours from the previously measurable storm event.
 Throughout {{meta.year}}, the City has a contractual agreement with Environmental Services Company, Inc. for the collection, analysis and reporting of storm water samples. Samples are collected quarterly during rain events from five outfall locations as specified in NPDES permit ARS000002.
 
-Outfall Locations
-// TODO
-Table 10: Monitored Outfalls
+{% set localTable = 'sampleLocations' %}
+### {{tables.localTable.title}}<a name="{{ tables.localTable.title|slugify }}"></a>
+|{{tables.localTable.headers|join(" | ")}}|
+|{{"---|" * tables.localTable.headers|length}}
+{% for datum in tables.localTable.data %}
+|{{datum|join(" | ")}}|
+{% endfor %}
+Table {{tables.localTable.index}}: {{tables.localTable.caption}}
 
 Reporting is provided electronically through the Environmental Protection Agency’s NETDMR service.  Electronic reports are certified by an authorized representative of the City.
 
