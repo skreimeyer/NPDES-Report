@@ -107,7 +107,7 @@
 
 # Table of Figures<a name="Table-of-Figures"></a>
 
-{% for key,val in figures.items() %}
+{% for key,val in figures.items() -%}
 [Figure {{val.index}}: {{val.title}}](#Figure-{{val.index}}:-{{val.title}})
 {% endfor %}
 
@@ -166,10 +166,10 @@ Operations and maintenance costs of the MS4 are met by the City Street Fund. The
 
 {% set localTable = 'operatingExpenses' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -187,10 +187,10 @@ The City Public Works is authorized by ordinance to enforce City codes pertainin
 
 {% set localTable = 'enforcementActions' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -238,10 +238,10 @@ Recycling of household hazardous waste is promoted at speaking events by the Cit
 
 {% set localTable = 'hazardousWaste' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -264,10 +264,10 @@ The City of Little Rock Public Works Operations provides preventative and compla
 
 {% set localTable = 'serviceRequests' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -275,10 +275,10 @@ The requests for maintenance in the 3-1-1 service only partially address the sco
 
 {% set localTable = 'serviceCost' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -292,17 +292,17 @@ The City of Little Rock shall notify construction sites disturbing (clearing, gr
 
 ## 3.9.1 ARDOT New Development Summary<a name="3.9.1-ARDOT-New-Development-Summary"></a>
 The following projects were under contract in Little Rock at various times during {{meta.year}}:
-{% for li in ARDOT.projects %}
+{% for li in ARDOT.projects -%}
 - {{li}}
 {% endfor %}
 
 Quantities and associated costs of erosion control materials are listed in the table below.
 {% set localTable = 'ardotControls' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -353,10 +353,10 @@ The City of Little Rock identifies spills by public reporting through 3-1-1 as w
 
 {% set localTable = 'spillResponse' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -382,10 +382,10 @@ Program Activities:
 Members of the Department’s Environmental Division visited the following area jobs during the Permit year. Job 061102 was visited since there were few active jobs within the city of Little Rock; however the job is within the highly urbanized area.
 {% set localTable = 'ardotVisits' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -419,10 +419,10 @@ All discharge samples were collected during rain events which exceeded 0.1in of 
 
 {% set localTable = 'stormEvents' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
@@ -435,10 +435,10 @@ Throughout {{meta.year}}, the City has a contractual agreement with Environmenta
 
 {% set localTable = 'sampleLocations' %}
 ### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-|{{tables[localTable].headers|join(" | ")}}|
-|{{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data %}
-|{{datum|join(" | ")}}|
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 

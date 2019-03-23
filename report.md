@@ -107,9 +107,7 @@
 
 # Table of Figures<a name="Table-of-Figures"></a>
 
-
 [Figure 1: Water Quality Parameters for 2018](#Figure-1:-Water Quality Parameters for 2018)
-
 [Figure 2: TODO](#Figure-2:-TODO)
 
 
@@ -186,34 +184,21 @@ Operations and maintenance costs of the MS4 are met by the City Street Fund. The
 
 
 ### Public Works Street Fund Operating Expenses<a name="Public-Works-Street-Fund-Operating-Expenses"></a>
-|Activity | 2017 | 2018|
-|---|---|---|
-
-|Administration | 1014776 | 984491|
-
-|Operations Administration | 1103455 | 3093825|
-
-|Street and Drainage Maintenance | 9060054 | 7579120|
-
-|Storm Drain Maintenance | 860736 | 993872|
-
-|Work Pool | 156431 | 162984|
-
-|Resource Control and Scheduling | 337742 | 423782|
-
-|Control Devices | 900339 | 940121|
-
-|Signals | 1178131 | 1155223|
-
-|Parking Meters | 111102 | 110603|
-
-|Civil Engineering | 1858582 | 1808901|
-
-|Traffic Engineering | 3304499 | 3414186|
-
-|Parking Enforcement | 286985 | 302248|
-
-|Total | 20172832 | 20969356|
+| Activity | 2017 | 2018 |
+| ---|---|---|
+| Administration | 1014776 | 984491 |
+| Operations Administration | 1103455 | 3093825 |
+| Street and Drainage Maintenance | 9060054 | 7579120 |
+| Storm Drain Maintenance | 860736 | 993872 |
+| Work Pool | 156431 | 162984 |
+| Resource Control and Scheduling | 337742 | 423782 |
+| Control Devices | 900339 | 940121 |
+| Signals | 1178131 | 1155223 |
+| Parking Meters | 111102 | 110603 |
+| Civil Engineering | 1858582 | 1808901 |
+| Traffic Engineering | 3304499 | 3414186 |
+| Parking Enforcement | 286985 | 302248 |
+| Total | 20172832 | 20969356 |
 
 Table 1: Operating expenses directly and indirectly related to MS4 maintenance
 
@@ -231,18 +216,13 @@ The City Public Works is authorized by ordinance to enforce City codes pertainin
 
 
 ### Storm Water Ordinance Enforcement Actions<a name="Storm-Water-Ordinance-Enforcement-Actions"></a>
-|Category | Actions Taken|
-|---|---|
-
-|Grading Permit Violations | 31|
-
-|Unlawful Discharge | 5|
-
-|Sanitary Sewer Overflows | 3|
-
-|Stop Work Orders | 2|
-
-|Total | 41|
+| Category | Actions Taken |
+| ---|---|
+| Grading Permit Violations | 31 |
+| Unlawful Discharge | 5 |
+| Sanitary Sewer Overflows | 3 |
+| Stop Work Orders | 2 |
+| Total | 41 |
 
 Table 2: Summary of notices and citations issued by the City of Little Rock for stom water code violations
 
@@ -290,12 +270,10 @@ Recycling of household hazardous waste is promoted at speaking events by the Cit
 
 
 ### Recycled Household Hazardous Waste<a name="Recycled-Household-Hazardous-Waste"></a>
-|Item | Quantity|
-|---|---|
-
-|Fluourescent Lights | 9,949 feet|
-
-|Compact Fluorescent Lights | 82 Bulbs|
+| Item | Quantity |
+| ---|---|
+| Fluourescent Lights | 9,949 feet |
+| Compact Fluorescent Lights | 82 Bulbs |
 
 Table 3: Summary of waste items collected by Little Rock Green Stations
 
@@ -318,14 +296,11 @@ The City of Little Rock Public Works Operations provides preventative and compla
 
 
 ### 3-1-1 Maintenance Requests for City of Little Rock MS4<a name="3-1-1-Maintenance-Requests-for-City-of-Little-Rock-MS4"></a>
-|Type of Request | Number of Requests|
-|---|---|
-
-|Ditch Maintenance | 1645|
-
-|Inlet and catch basin cleaning | 873|
-
-|Inlet and catch basin repair | 87|
+| Type of Request | Number of Requests |
+| ---|---|
+| Ditch Maintenance | 1645 |
+| Inlet and catch basin cleaning | 873 |
+| Inlet and catch basin repair | 87 |
 
 Table 4: Service requests taken online and by phone through the Little Rock 3-1-1 system
 
@@ -333,34 +308,21 @@ The requests for maintenance in the 3-1-1 service only partially address the sco
 
 
 ### Public Works Operations MS4 Maintenance Summary<a name="Public-Works-Operations-MS4-Maintenance-Summary"></a>
-|Activity | Quantity | Units | Cost|
-|---|---|---|---|
-
-|Catch basin repair | 92 | Ea | $155,925|
-
-|Catch basin cleaning | 1033 | Ea | $86,173|
-
-|Storm Sewer Repair | 380 | LF | $37,741|
-
-|Emergency Storm Sewer Cleaning | 255 | LF | $37,741|
-
-|Ditch maintenance, hand cleaning | 629746 | LF | $752,228|
-
-|Ditch maintenance, Excavation | 21532 | LF | $116799|
-
-|Ditch maintenance, Channel construction | 12998 | LF | $177,451|
-
-|Ditch maintenance, Litter removal | 802994 | LF | $98,203|
-
-|Ditch maintenance, Mowing | 524 | Ac | $83,138|
-
-|Ditch maintenance, Stabilization (rip-rap) | 465 | sq-yd | $46,332|
-
-|Street sweeping, Miles swept | 21197 | curb-mi | $660,718|
-
-|Street sweeping, Litter removed | 1784 | cyd | $31,977|
-
-|Unclassified maintenance activity | 14719 | man-hr | $300,273|
+| Activity | Quantity | Units | Cost |
+| ---|---|---|---|
+| Catch basin repair | 92 | Ea | $155,925 |
+| Catch basin cleaning | 1033 | Ea | $86,173 |
+| Storm Sewer Repair | 380 | LF | $37,741 |
+| Emergency Storm Sewer Cleaning | 255 | LF | $37,741 |
+| Ditch maintenance, hand cleaning | 629746 | LF | $752,228 |
+| Ditch maintenance, Excavation | 21532 | LF | $116799 |
+| Ditch maintenance, Channel construction | 12998 | LF | $177,451 |
+| Ditch maintenance, Litter removal | 802994 | LF | $98,203 |
+| Ditch maintenance, Mowing | 524 | Ac | $83,138 |
+| Ditch maintenance, Stabilization (rip-rap) | 465 | sq-yd | $46,332 |
+| Street sweeping, Miles swept | 21197 | curb-mi | $660,718 |
+| Street sweeping, Litter removed | 1784 | cyd | $31,977 |
+| Unclassified maintenance activity | 14719 | man-hr | $300,273 |
 
 Table 5: Unit quantities and costs associated directly with the maintenance of the MS4
 
@@ -374,57 +336,35 @@ The City of Little Rock shall notify construction sites disturbing (clearing, gr
 
 ## 3.9.1 ARDOT New Development Summary<a name="3.9.1-ARDOT-New-Development-Summary"></a>
 The following projects were under contract in Little Rock at various times during 2018:
-
 - 060395 – Union Pacific RR Overpass (Arch St.) (LR)
-
 - 061275 – Arkansas River Str. & Apprs. (Broadway) (LR/NLR)
-
 - 061277 – Union Pacific RR Str. & Apprs (Roosevelt Rd) (LR)
-
 - 061333 – I-430/Hwy 10 Interchange Impvt. (LR)
-
 - 061390 – Crooked Creek Channel Impvts. (I-30)
-
 - 061437 – I-30 / I-430 Interchange Impvt. (LR) (Phase II)
 
 
 Quantities and associated costs of erosion control materials are listed in the table below.
 
 ### Controls for ARDOT 2017 Projects<a name="Controls-for-ARDOT-2017-Projects"></a>
-|Item | Quantity | Units | Paid Cost|
-|---|---|---|---|
-
-|Concrete Ditch Paving | 6,056.20 | Square Yards | $422,126.56|
-
-|Concrete Riprap | 340.76 | Cubic Yards | $146,424.00|
-
-|Drop Inlet Silt Fence | 282.00 | Linear Feet | $2,924.68|
-
-|Erosion Control Matting | 561.33 | Square Yards | $2,245.32|
-
-|Lime | 21.00 | Tons | $3,412.50|
-
-|Mulch Cover | 18.15 | Acres | $16,222.39|
-
-|Rock Ditch Checks | 49.37 | Cubic Yards | $3,608.00|
-
-|Sand Bag Ditch Checks | 1,482.00 | Bag | $13,893.47|
-
-|Sediment Removal & Disposal | 133.00 | Cubic Yards | $2,046.00|
-
-|Seeding | 18.34 | Acres | $19,765.26|
-
-|Silt Fence | 4,613.00 | Linear Feet | $16,415.43|
-
-|Solid Sodding | 4,754.39 | Square Yards | $38,325.53|
-
-|Temporary Seeding | 0.33 | Acres | $233.80|
-
-|Water | 18.20 | Million Gallons | $96.79|
-
-|Wattle | 250.00 | Linear Feet | $2,000.00|
-
-|Total |  |  | $689,739.73|
+| Item | Quantity | Units | Paid Cost |
+| ---|---|---|---|
+| Concrete Ditch Paving | 6,056.20 | Square Yards | $422,126.56 |
+| Concrete Riprap | 340.76 | Cubic Yards | $146,424.00 |
+| Drop Inlet Silt Fence | 282.00 | Linear Feet | $2,924.68 |
+| Erosion Control Matting | 561.33 | Square Yards | $2,245.32 |
+| Lime | 21.00 | Tons | $3,412.50 |
+| Mulch Cover | 18.15 | Acres | $16,222.39 |
+| Rock Ditch Checks | 49.37 | Cubic Yards | $3,608.00 |
+| Sand Bag Ditch Checks | 1,482.00 | Bag | $13,893.47 |
+| Sediment Removal & Disposal | 133.00 | Cubic Yards | $2,046.00 |
+| Seeding | 18.34 | Acres | $19,765.26 |
+| Silt Fence | 4,613.00 | Linear Feet | $16,415.43 |
+| Solid Sodding | 4,754.39 | Square Yards | $38,325.53 |
+| Temporary Seeding | 0.33 | Acres | $233.80 |
+| Water | 18.20 | Million Gallons | $96.79 |
+| Wattle | 250.00 | Linear Feet | $2,000.00 |
+| Total |  |  | $689,739.73 |
 
 Table 6: Payable quantities of erosion controls used in ARDOT highway construction jobs
 
@@ -475,24 +415,16 @@ The City of Little Rock identifies spills by public reporting through 3-1-1 as w
 
 
 ### Unlawful Discharge Summary<a name="Unlawful-Discharge-Summary"></a>
-|Date | Location | Type of Discharge | Result|
-|---|---|---|---|
-
-|3/28/2017 | 811 E 6th Street | Carwash | Drain repaired|
-
-|8/7/2017 | 1400 N Pierce St | Oil | Cleaned, contained|
-
-|8/14/2017 | 4000 N Rodney Parham | Construction washout | Discharge halted|
-
-|9/5/2017 | 5901 Sloane Drive | Food waste | Cleaned, contained|
-
-|9/13/2017 | 106 S Rodney Parham | Food waste | Cleaned, contained|
-
-|12/8/2017 | 5001 W 65th Street | Sanitary sewage | Pipe repaired, area cleaned|
-
-|12/15/2017 | 2618 Shackleford | Sanitary sewage | Pipe repaired, area cleaned|
-
-|12/28/2017 | 3024 Cantrell Road | Sanitary sewage | Pipe repaired, area cleaned|
+| Date | Location | Type of Discharge | Result |
+| ---|---|---|---|
+| 3/28/2017 | 811 E 6th Street | Carwash | Drain repaired |
+| 8/7/2017 | 1400 N Pierce St | Oil | Cleaned, contained |
+| 8/14/2017 | 4000 N Rodney Parham | Construction washout | Discharge halted |
+| 9/5/2017 | 5901 Sloane Drive | Food waste | Cleaned, contained |
+| 9/13/2017 | 106 S Rodney Parham | Food waste | Cleaned, contained |
+| 12/8/2017 | 5001 W 65th Street | Sanitary sewage | Pipe repaired, area cleaned |
+| 12/15/2017 | 2618 Shackleford | Sanitary sewage | Pipe repaired, area cleaned |
+| 12/28/2017 | 3024 Cantrell Road | Sanitary sewage | Pipe repaired, area cleaned |
 
 Table 7: Summary of stormwater ordinances for unlawful discharges during the permit year
 
@@ -518,18 +450,13 @@ Program Activities:
 Members of the Department’s Environmental Division visited the following area jobs during the Permit year. Job 061102 was visited since there were few active jobs within the city of Little Rock; however the job is within the highly urbanized area.
 
 ### ARDOT Construction Site Visits<a name="ARDOT-Construction-Site-Visits"></a>
-|Date | Location | Job Number|
-|---|---|---|
-
-|3/2/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395|
-
-|6/21/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395|
-
-|9/20/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395|
-
-|10/3/2017 | Hwy. 67 Interchange (Cabot) | 061102|
-
-|1/25/2018 | Hwy. 67 Interchange (Cabot) | 061102|
+| Date | Location | Job Number |
+| ---|---|---|
+| 3/2/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
+| 6/21/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
+| 9/20/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
+| 10/3/2017 | Hwy. 67 Interchange (Cabot) | 061102 |
+| 1/25/2018 | Hwy. 67 Interchange (Cabot) | 061102 |
 
 Table 8: Dates of inspections by location
 
@@ -563,44 +490,26 @@ All discharge samples were collected during rain events which exceeded 0.1in of 
 
 
 ### Storm Event Data<a name="Storm-Event-Data"></a>
-|Location | Sample Date | Average Rainfall(in) | Estimated Discharge | Most Recent Rain Event | Time Difference|
-|---|---|---|---|---|---|
-
-|outfall 1 | 3/6/2017 | 0.385 | 12.9 Mgal | 3/5/2017 | 1 days|
-
-|outfall 1 | 6/19/2017 | 0.576667 | 0.1 Mgal | 6/13/2017 | 6 days|
-
-|outfall 1 | 10/27/2017 | 0.062 | 17,000 gal | 10/22/2017 | 5 days | ['outfall 1'] | 12/22/2017 | 1 | 4,000 gal | 12/20/2017 | 2 days|
-
-|outfall 2 | 3/6/2017 | 0.385 | 1.6 Mgal | 3/5/2017 | 1 days|
-
-|outfall 2 | 6/19/2017 | 0.576667 | 4,500 gal | 6/13/2017 | 6 days|
-
-|outfall 2 | 10/27/2017 | 0.062 | 6,000 gal | 10/22/2017 | 5 days|
-
-|outfall 2 | 12/22/2017 | 1 | 4,000 gal | 12/20/2017 | 2 days|
-
-|outfall 3 | 3/6/2017 | 0.385 | 0.6 Mgal | 3/5/2017 | 1 days|
-
-|outfall 3 | 6/19/2017 | 0.576667 | 0.2 Mgal | 6/13/2017 | 6 days|
-
-|outfall 3 | 10/27/2017 | 0.062 | 9,590 gal | 10/22/2017 | 5 days|
-
-|outfall 3 | 12/22/2017 | 1 | 1,800 gal | 12/20/2017 | 2 days|
-
-|outfall 5 | 3/6/2017 | 0.385 | 0.6 Mgal | 3/5/2017 | 1 days|
-
-|outfall 5 | 6/19/2017 | 0.576667 | 1,000 gal | 6/13/2017 | 6 days|
-
-|outfall 5 | 10/27/2017 | 0.062 | 5,000 gal | 10/22/2017 | 5 days|
-
-|outfall 5 | 12/22/2017 | 1 | 1,800 gal | 12/20/2017 | 2 days|
-
-|outfall 6 | 3/6/2017 | 0.385 | 3.4 Mgal | 3/5/2017 | 1 days|
-
-|outfall 6 | 7/5/2017 | 0.571667 | 9,500 gal | 7/4/2017 | 1 days|
-
-|outfall 6 | 12/22/2017 | 1 | 4,300 gal | 12/20/2017 | 2 days|
+| Location | Sample Date | Average Rainfall(in) | Estimated Discharge | Most Recent Rain Event | Time Difference |
+| ---|---|---|---|---|---|
+| outfall 1 | 3/6/2017 | 0.385 | 12.9 Mgal | 3/5/2017 | 1 days |
+| outfall 1 | 6/19/2017 | 0.576667 | 0.1 Mgal | 6/13/2017 | 6 days |
+| outfall 1 | 10/27/2017 | 0.062 | 17,000 gal | 10/22/2017 | 5 days | ['outfall 1'] | 12/22/2017 | 1 | 4,000 gal | 12/20/2017 | 2 days |
+| outfall 2 | 3/6/2017 | 0.385 | 1.6 Mgal | 3/5/2017 | 1 days |
+| outfall 2 | 6/19/2017 | 0.576667 | 4,500 gal | 6/13/2017 | 6 days |
+| outfall 2 | 10/27/2017 | 0.062 | 6,000 gal | 10/22/2017 | 5 days |
+| outfall 2 | 12/22/2017 | 1 | 4,000 gal | 12/20/2017 | 2 days |
+| outfall 3 | 3/6/2017 | 0.385 | 0.6 Mgal | 3/5/2017 | 1 days |
+| outfall 3 | 6/19/2017 | 0.576667 | 0.2 Mgal | 6/13/2017 | 6 days |
+| outfall 3 | 10/27/2017 | 0.062 | 9,590 gal | 10/22/2017 | 5 days |
+| outfall 3 | 12/22/2017 | 1 | 1,800 gal | 12/20/2017 | 2 days |
+| outfall 5 | 3/6/2017 | 0.385 | 0.6 Mgal | 3/5/2017 | 1 days |
+| outfall 5 | 6/19/2017 | 0.576667 | 1,000 gal | 6/13/2017 | 6 days |
+| outfall 5 | 10/27/2017 | 0.062 | 5,000 gal | 10/22/2017 | 5 days |
+| outfall 5 | 12/22/2017 | 1 | 1,800 gal | 12/20/2017 | 2 days |
+| outfall 6 | 3/6/2017 | 0.385 | 3.4 Mgal | 3/5/2017 | 1 days |
+| outfall 6 | 7/5/2017 | 0.571667 | 9,500 gal | 7/4/2017 | 1 days |
+| outfall 6 | 12/22/2017 | 1 | 4,300 gal | 12/20/2017 | 2 days |
 
 Table 9: Precipitation summaries and discharge estimates for each sampled outfall
 
@@ -613,18 +522,13 @@ Throughout 2018, the City has a contractual agreement with Environmental Service
 
 
 ### Outfall Sampling Locations<a name="Outfall-Sampling-Locations"></a>
-|Identifier | Latitude | Longitude|
-|---|---|---|
-
-|Outfall 001: | 34° 44' 30" | 92° 20' 30"|
-
-|Outfall 002: | 34° 43' 30" | 92° 21' 30"|
-
-|Outfall 003: | 34° 45' 15" | 92° 26' 00"|
-
-|Outfall 005: | 34° 44' 00" | 92° 14' 30"|
-
-|Outfall 006: | 34° 42' 00" | 92° 15' 36"|
+| Identifier | Latitude | Longitude |
+| ---|---|---|
+| Outfall 001: | 34° 44' 30" | 92° 20' 30" |
+| Outfall 002: | 34° 43' 30" | 92° 21' 30" |
+| Outfall 003: | 34° 45' 15" | 92° 26' 00" |
+| Outfall 005: | 34° 44' 00" | 92° 14' 30" |
+| Outfall 006: | 34° 42' 00" | 92° 15' 36" |
 
 Table 10: Coordinates for outfalls identified for quaterly water quality sampling
 
