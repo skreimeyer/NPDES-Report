@@ -513,3 +513,8 @@ figures:
     title: "Water Quality Parameters for 2018"
     caption: "Represents a summary"
     location: "./static/radar.png"
+  placeHolder:
+    index: 2 # Unnecessary if order is preserved
+    title: "TODO"
+    caption: "TODO"
+    location: "./static/radar.png"
