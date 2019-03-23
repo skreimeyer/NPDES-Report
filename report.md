@@ -114,25 +114,25 @@
 # Table of Tables<a name="Table-of-Tables"></a>
 
 
-[Table 1: Public Works Street Fund Operating Expenses](#[Table-1:-Public-Works-Street-Fund-Operating-Expenses])
+[Table 1: Public Works Street Fund Operating Expenses](#Public-Works-Street-Fund-Operating-Expenses)
 
-[Table 2: Storm Water Ordinance Enforcement Actions](#[Table-2:-Storm-Water-Ordinance-Enforcement-Actions])
+[Table 2: Storm Water Ordinance Enforcement Actions](#Storm-Water-Ordinance-Enforcement-Actions)
 
-[Table 3: Recycled Household Hazardous Waste](#[Table-3:-Recycled-Household-Hazardous-Waste])
+[Table 3: Recycled Household Hazardous Waste](#Recycled-Household-Hazardous-Waste)
 
-[Table 4: 3-1-1 Maintenance Requests for City of Little Rock MS4](#[Table-4:-3-1-1-Maintenance-Requests-for-City-of-Little-Rock-MS4])
+[Table 4: 3-1-1 Maintenance Requests for City of Little Rock MS4](#3-1-1-Maintenance-Requests-for-City-of-Little-Rock-MS4)
 
-[Table 5: Public Works Operations MS4 Maintenance Summary](#[Table-5:-Public-Works-Operations-MS4-Maintenance-Summary])
+[Table 5: Public Works Operations MS4 Maintenance Summary](#Public-Works-Operations-MS4-Maintenance-Summary)
 
-[Table 6: Controls for ARDOT 2017 Projects](#[Table-6:-Controls-for-ARDOT-2017-Projects])
+[Table 6: Controls for ARDOT 2017 Projects](#Controls-for-ARDOT-2017-Projects)
 
-[Table 7: Unlawful Discharge Summary](#[Table-7:-Unlawful-Discharge-Summary])
+[Table 7: Unlawful Discharge Summary](#Unlawful-Discharge-Summary)
 
-[Table 8: ARDOT Construction Site Visits](#[Table-8:-ARDOT-Construction-Site-Visits])
+[Table 8: ARDOT Construction Site Visits](#ARDOT-Construction-Site-Visits)
 
-[Table 9: Storm Event Data](#[Table-9:-Storm-Event-Data])
+[Table 9: Storm Event Data](#Storm-Event-Data)
 
-[Table 10: Outfall Sampling Locations](#[Table-10:-Outfall-Sampling-Locations])
+[Table 10: Outfall Sampling Locations](#Outfall-Sampling-Locations)
 
 
 # 1.0 Introduction<a name="1.0-Introduction"></a>

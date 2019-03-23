@@ -114,7 +114,7 @@
 # Table of Tables<a name="Table-of-Tables"></a>
 
 {% for key,val in tables.items() %}
-[Table {{val.index}}: {{val.title}}](#[Table-{{val.index}}:-{{val.title|slugify}}])
+[Table {{val.index}}: {{val.title}}](#{{val.title|slugify}})
 {% endfor %}
 
 # 1.0 Introduction<a name="1.0-Introduction"></a>
