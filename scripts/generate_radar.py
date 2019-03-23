@@ -15,12 +15,12 @@ import numpy as np
 from datetime import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
-import re
 from matplotlib.path import Path
 from matplotlib.spines import Spine
 from matplotlib.projections.polar import PolarAxes
 from matplotlib.projections import register_projection
 import os
+
 
 
 def radar_factory(num_vars, frame="circle"):
@@ -126,77 +126,9 @@ class DataProcessor:
     """
 
     def __init__(self):
-        self.file = "DMR Table.csv"
+        self.file = "../data/CLR DMR.csv"
         self.dmr = pd.read_csv(self.file)
-
-    def reshape_table(self,):
-        """ End the madness that is the CSV. Transpose date columns to row values
-        """
-        # Remove blank columns
-        valid_columns = [key for key in self.dmr.keys() if "Unnamed" not in key]
-        self.dmr = self.dmr[valid_columns]
-        cols = self.dmr.columns
-        dates = [re.findall("(?<=TO ).*", i)[0] for i in cols[4:]]
-        dates = [
-            i.replace("29", "28") for i in dates
-        ]  # Leap year is a problem, apparently
-        cols = list(cols[:4]) + list(dates)
-        self.dmr.columns = cols
-        ##        parameters = self.dmr['PARAMETER'].unique()
-        ##        locations = self.dmr[self.dmr.columns[0]].unique()
-        self.dmr = pd.melt(
-            self.dmr, id_vars=self.dmr.columns[:4], var_name="Date", value_name="Value"
-        )
-        self.dmr["Date"] = pd.to_datetime(
-            self.dmr["Date"], format="%m/%d/%Y"
-        )  # Dates are now DTG
-        self.dmr["Value"] = pd.to_numeric(self.dmr["Value"], errors="coerce")
-        ##        return locations,parameters
-        return None
-
-    def simplify_names(self,):
-        """Replace long strings with short, intuitive names. Rename some columns
-        """
-
-        lexicon = {
-            "SELENIUM, TOTAL RECOVERABLE (NO LONGER REQUIRED 9/1/2005)": "Se",
-            "BERYLLIUM, (BE) TOTAL RECOVERABLE (NO LONGER REQUIRED 9/1/2005)": "Be",
-            "NICKEL, TOTAL RECOVERABLE  (NO LONGER REQUIRED 9/1/2005)": "Ni",
-            "CHROMIUM, TOTAL RECOVERABLE  (NO LONGER REQUIRED 9/1/2005)": "Cr",
-            "MERCURY, TOTAL RECOVERABLE  (NO LONGER REQUIRED 9/1/2005)": "Hg",
-            "CYANIDE, TOTAL  (NO LONGER REQUIRED 9/1/2005)": "Cyanide",
-            "BOD, 5 DAY": "BOD",
-            "PH": "pH",
-            "SOLIDS, TOTAL SUSPENDED": "TSS",
-            "OIL & GREASE": "Oil",
-            "NITROGEN, TOTAL": "N",
-            "NITROGEN, KJELDAHL  (NO LONGER REQUIRED 12-2013)": "N, Kjeldahl",
-            "PHOSPHORUS, DISSOLVED": "P",
-            "HARDNESS (CACO3) TOTAL": "CaCO3",
-            "SILVER, TOTAL RECOVERABLE": "Ag",
-            "ZINC, TOTAL RECOVERABLE": "Zn",
-            "CADMIUM, TOTAL RECOVERABLE": "Cd",
-            "LEAD, TOTAL RECOVERABLE": "Pb",
-            "COPPER, TOTAL RECOVERABLE": "Cu",
-            "FLOW IN CONDUIT / THRU TREAT. PLANT": "Flow",
-            "SOLIDS, TOTAL DISSOLVED": "TDS",
-            "STREPTOCOCCI, FECAL MATERIAL": "Streptococci",
-            "E.COLI  (CHANGED FROM COLIFORM, FECAL 8/31/2005)": "E.Coli",
-            "BOD, CARBONACEOUS 5 DAY (NO LONGER REQUIRED 12-2013)": "BOD, C",
-        }
-        tmp_param = self.dmr["PARAMETER"]
-        for l in lexicon.keys():
-            self.dmr.loc[self.dmr.PARAMETER == l, "PARAMETER"] = lexicon[l]
-        # Rename columns
-        self.dmr.columns = [
-            "Location",
-            "Parameter",
-            "Unit",
-            "Frequency",
-            "Date",
-            "Value",
-        ]
-        return None
+        self.dmr["Date"] = pd.to_datetime(self.dmr["Date"])
 
     def get_base_limits(self):
         """ Assume the 95th percentile for all data is a valid upper limit where
@@ -320,12 +252,10 @@ class DataProcessor:
 
 if __name__ == "__main__":
     N = 16
-    theta = radar_factory(N, frame="polygon")
+    theta = radar_factory(N, frame="circle")
     if not os.path.isfile("output list"):
         # Data prep
         D = DataProcessor()
-        D.reshape_table()
-        D.simplify_names()
         D.normalize()
         start = datetime(2017, 3, 1)
         outlist = D.format_out(start)
