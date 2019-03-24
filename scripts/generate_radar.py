@@ -22,7 +22,6 @@ from matplotlib.projections import register_projection
 import os
 
 
-
 def radar_factory(num_vars, frame="circle"):
     """Create a radar chart with `num_vars` axes.
 
@@ -202,70 +201,72 @@ class DataProcessor:
                         & (self.dmr["Parameter"] == p),
                         "Value",
                     ] = newval
+            # write out
+            with open("../data/Normalized DMR.csv", "w") as outfile:
+                self.dmr.to_csv(outfile)
         return None
 
-    def format_out(self, start, end=datetime.now()):
-        """ Return a list object in a format that lends itself to not having
-        to rewrite any of the radar graph code that I'm using. For expedience.
-        """
 
-        target_params = [
-            "Flow",
-            "BOD",
-            "pH",
-            "TSS",
-            "TDS",
-            "Oil",
-            "N",
-            "P",
-            "CaCO3",
-            "Ag",
-            "Zn",
-            "Cd",
-            "Pb",
-            "Cu",
-            "Streptococci",
-            "E.Coli",
-        ]
-        data = self.dmr[(self.dmr["Date"] >= start) & (self.dmr["Date"] <= end)]
-        locations = data["Location"].unique()
-        outlist = [target_params]
-        quarters = pd.to_datetime(data["Date"].unique())
-        for q in quarters:
-            results = []
-            for l in locations:
-                values = []
-                for p in target_params:
-                    values.append(
-                        float(
-                            data["Value"][
-                                (data["Date"] == q)
-                                & (data["Location"] == l)
-                                & (data["Parameter"] == p)
-                            ]
-                        )
+def format_out(df, start, end=datetime.now()):
+    """ Return a list object in a format that lends itself to not having
+    to rewrite any of the radar graph code that I'm using. For expedience.
+    """
+
+    target_params = [
+        "Flow",
+        "BOD",
+        "pH",
+        "TSS",
+        "TDS",
+        "Oil",
+        "N",
+        "P",
+        "CaCO3",
+        "Ag",
+        "Zn",
+        "Cd",
+        "Pb",
+        "Cu",
+        "Streptococci",
+        "E.Coli",
+    ]
+    df["Date"] = pd.to_datetime(df["Date"])  # cast to datetimes
+    data = df[(df["Date"] >= start) & (df["Date"] <= end)]
+    locations = data["Location"].unique()
+    outlist = [target_params]
+    quarters = pd.DatetimeIndex(data["Date"].unique())
+    for q in quarters:
+        results = []
+        for l in locations:
+            values = []
+            for p in target_params:
+                values.append(
+                    float(
+                        data["Value"][
+                            (data["Date"] == q)
+                            & (data["Location"] == l)
+                            & (data["Parameter"] == p)
+                        ]
                     )
-                results.append(values)
-            outlist.append(("{0}/{1}".format(q.month, q.year), results))
-        return outlist
+                )
+            results.append(values)
+        outlist.append(("{0}/{1}".format(q.month, q.year), results))
+    return outlist
 
 
 if __name__ == "__main__":
     N = 16
     theta = radar_factory(N, frame="circle")
-    if not os.path.isfile("output list"):
-        # Data prep
+    # Normalize source data and write to a csv if not detected.
+    if not os.path.isfile("../data/Normalized DMR.csv"):
         D = DataProcessor()
         D.normalize()
-        start = datetime(2017, 3, 1)
-        outlist = D.format_out(start)
-        data = outlist
-        with open("output list", "wb") as outfile:
-            pickle.dump(outlist, outfile)
-    else:
-        with open("output list", "rb") as infile:
-            data = pickle.load(infile)
-
+    with open("../data/Normalized DMR.csv", "r") as infile:
+        data = pd.read_csv(infile)
+    start = datetime(2017, 3, 1)
+    end = datetime(2018, 4, 1)
+    data = format_out(data, start)
+    # The meat
     spoke_labels = data.pop(0)
 
     fig, axes = plt.subplots(
