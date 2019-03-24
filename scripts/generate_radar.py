@@ -21,6 +21,7 @@ from matplotlib.projections.polar import PolarAxes
 from matplotlib.projections import register_projection
 import os
 
+import pdb
 
 def radar_factory(num_vars, frame="circle"):
     """Create a radar chart with `num_vars` axes.
@@ -183,7 +184,10 @@ class DataProcessor:
                 results = self.dmr[
                     (self.dmr["Location"] == l) & (self.dmr["Date"] == d)
                 ]
-                hardness = float(results["Value"][results["Parameter"] == "CaCO3"])
+                try:
+                    hardness = float(results["Value"][results["Parameter"] == "CaCO3"])
+                except:
+                    pdb.set_trace()
                 # Convert to float to avoid baggage
                 limits = self.gen_limits(hardness)
                 params = results["Parameter"]
@@ -263,8 +267,8 @@ if __name__ == "__main__":
         D.normalize()
     with open("../data/Normalized DMR.csv", "r") as infile:
         data = pd.read_csv(infile)
-    start = datetime(2017, 3, 1)
-    end = datetime(2018, 4, 1)
+    start = datetime(2018, 3, 1)
+    end = datetime(2019, 4, 1)
     data = format_out(data, start)
     # The meat
     spoke_labels = data.pop(0)
@@ -310,4 +314,4 @@ if __name__ == "__main__":
         size="large",
     )
 
-    plt.savefig("test-1.png")
+    plt.savefig("2018.png")

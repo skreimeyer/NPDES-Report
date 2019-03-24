@@ -13,7 +13,7 @@ def slugify(text):
     """replaces white-space separation with hyphens"""
     return "-".join(text.split())
 
-
+# register the filter
 environment.filters["slugify"] = slugify
 
 # load reporting data
