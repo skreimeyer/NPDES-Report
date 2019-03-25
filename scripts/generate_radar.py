@@ -1,4 +1,4 @@
-#! /usr/env python3
+#! /usr/bin/env python3
 
 """
 Radar chart (aka spider or star chart)
@@ -259,6 +259,7 @@ def format_out(df, start, end=datetime.now()):
 
 
 if __name__ == "__main__":
+    year = 2018
     N = 16
     theta = radar_factory(N, frame="circle")
     # Normalize source data and write to a csv if not detected.
@@ -267,8 +268,8 @@ if __name__ == "__main__":
         D.normalize()
     with open("../data/Normalized DMR.csv", "r") as infile:
         data = pd.read_csv(infile)
-    start = datetime(2018, 3, 1)
-    end = datetime(2019, 4, 1)
+    start = datetime(year, 3, 1)
+    end = datetime(year + 1, 4, 1)
     data = format_out(data, start)
     # The meat
     spoke_labels = data.pop(0)
@@ -307,11 +308,11 @@ if __name__ == "__main__":
     fig.text(
         0.5,
         0.965,
-        "Water Quality Parameters For 2017",
+        f'Water Quality Parameters For {year}',
         horizontalalignment="center",
         color="black",
         weight="bold",
         size="large",
     )
 
-    plt.savefig("2018.png")
+    plt.savefig(f'../figures/radar_{year}.png')

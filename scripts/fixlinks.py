@@ -1,4 +1,4 @@
-#! /usr/environment python3
+#! /usr/bin/env python3
 """
 Throwaway script to format working links in the template.
 """

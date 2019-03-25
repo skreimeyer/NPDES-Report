@@ -1,4 +1,4 @@
-#! /usr/env python3
+#! /usr/bin/env python3
 """
 EPA discharge monitoring reports can be downloaded as 'CORS'
 CORS are available in XML format. This parser will walk a directory for files
