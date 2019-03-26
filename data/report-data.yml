@@ -55,9 +55,9 @@ CLR:
     waters: "3.55 miles"
     tires: 458
   sweepers:
-    miles: "21,197 curb-miles"
-    volume: "1,784 cubic yards"
-    cost: "$692,700"
+    miles: "21,780 curb-miles"
+    volume: "1,830 cubic yards"
+    cost: "$674,600"
   construction:
     permits: 117
     disturbed: 5100
@@ -183,57 +183,61 @@ tables:
       - "Cost"
     data:
       - - "Catch basin repair"
-        - 92
+        - 102
         - "Ea"
-        - "$155,925"
+        - "$126,765"
       - - "Catch basin cleaning"
-        - 1033
+        - 918
         - "Ea"
-        - "$86,173"
+        - "$118,158"
       - - "Storm Sewer Repair"
-        - 380
+        - 922
         - "LF"
-        - "$37,741"
+        - "$187,661"
       - - "Emergency Storm Sewer Cleaning"
-        - 255
+        - 30
         - "LF"
-        - "$37,741"
+        - "$823.47"
       - - "Ditch maintenance, hand cleaning"
-        - 629746
+        - 614412
         - "LF"
-        - "$752,228"
+        - "$666,259"
       - - "Ditch maintenance, Excavation"
-        - 21532
+        - 20220
         - "LF"
-        - "$116799"
+        - "$124,398"
       - - "Ditch maintenance, Channel construction"
-        - 12998
+        - 3160
         - "LF"
-        - "$177,451"
+        - "$39,972"
       - - "Ditch maintenance, Litter removal"
-        - 802994
+        - 694377
         - "LF"
-        - "$98,203"
+        - "$98,960"
       - - "Ditch maintenance, Mowing"
-        - 524
+        - 529
         - "Ac"
-        - "$83,138"
+        - "$54,243"
       - - "Ditch maintenance, Stabilization (rip-rap)"
-        - 465
+        - 426
         - "sq-yd"
-        - "$46,332"
+        - "$33,383"
       - - "Street sweeping, Miles swept"
-        - 21197
+        - 21775
         - "curb-mi"
-        - "$660,718"
+        - "$649,388"
       - - "Street sweeping, Litter removed"
-        - 1784
+        - 1829
         - "cyd"
-        - "$31,977"
+        - "$25,174"
+      - - "Ditch spraying, minor and major"
+        - 10.5
+        - "acres"
+        - "$3,136.89"
       - - "Unclassified maintenance activity"
-        - 14719
+        - 16916
         - "man-hr"
-        - "$300,273"
+        - "$325,546"
   ardotControls:
     index: 6
     title: "Controls for ARDOT 2017 Projects"
