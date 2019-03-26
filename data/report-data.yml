@@ -37,6 +37,8 @@ CLR:
     lrtv: "$300,000"
   enforcementActions: 41
   sustainabilityEvents: 45
+  sustainabilityEventLocations:
+    - "XXX"
   murals:
     current: 12
     proposed: 18
@@ -537,8 +539,8 @@ figures:
   waterQuality:
     index: 1 # Unnecessary if order is preserved
     title: "Water Quality Parameters for 2018"
-    caption: "Represents a summary"
-    location: "./static/radar.png"
+    caption: "Normalized measurements of water quality parameters"
+    location: "figures/radar_2018.png"
   placeHolder:
     index: 2 # Unnecessary if order is preserved
     title: "TODO"

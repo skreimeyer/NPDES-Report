@@ -107,8 +107,8 @@
 
 # Table of Figures<a name="Table-of-Figures"></a>
 
-[Figure 1: Water Quality Parameters for 2018](#Figure-1:-Water Quality Parameters for 2018)
-[Figure 2: TODO](#Figure-2:-TODO)
+[Figure 1: Water Quality Parameters for 2018](#Figure-1: Water Quality Parameters for 2018)
+[Figure 2: TODO](#Figure-2: TODO)
 
 
 # Table of Tables<a name="Table-of-Tables"></a>
@@ -171,7 +171,9 @@ Discharge sampling shows a high level of variability between sampling locations 
 
 Figure 1 presents all reported measurements represented as a percentage of recommended limits for aquatic life as given in the EPA’s Regulation No. 2: Regulation Establishing Water Quality Standards for Surface Waters of the State of Arkansas. Recommended limits for nitrogen and phosphorous are have been derived from the EPA’s ecoregional criteria for Region IX: Southeastern Temperate Forested Plains and Hills. Where specific guidance has is not provided (including hardness, flow, total suspended solids and biological oxygen demand), these factors are represented as a percentage of 95th percentile of all measurements taken from the area since the beginning of the discharge monitoring program.
 
-// TODO: FIGURE LOOP //
+
+![Water Quality Parameters for 2018](figures/radar_2018.png "Water Quality Parameters for 2018")
+Figure 1: Normalized measurements of water quality parameters
 
 Additional tables and charts of discharge monitoring are provided in Appendix C.
 
@@ -238,7 +240,11 @@ The City Public Works serves as a repository of information for the Public for t
 
 The Mayor’s Sustainability Commission was established in 2008 to advise the City on sustainable practices. Since that time, the Commission has worked with various groups in the City to develop new environmentally green policies that have positively impacted city government and the residents of Little Rock.
 
-The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately  outreach events in 2018. Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
+The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately  outreach events in 2018. These include public speaking events at the following locations:
+
+- XXX
+
+Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
 Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways which has been distributed to the following locations:
 
