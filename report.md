@@ -242,18 +242,17 @@ The City sustainability officer and sustainability educator hosted or are were f
 
 Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways which has been distributed to the following locations:
 
-- 
+- Audubon Arkansas – Field trip visitors and Afterschool Programs
 
-- 
+- Arkansas State Fair
 
-- 
+- Area Elementary Schools
 
-- 
+- Centre at University Park
 
-- 
+- Central Arkansas Water
 
-- 
-
+- LR Wastewater Reclamation Authority
 
 Audubon Arkansas is also a partner with the local Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In 2018 12 murals were commissioned, and another 18 locations are proposed for 2019.
 
