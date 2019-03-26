@@ -40,9 +40,9 @@ CLR:
   murals:
     current: 12
     proposed: 18
-  rrwrdBudget: "$40,000"
+  rrwrdBudget: "$34,170.48"
   recycle:
-    oil: "1,375 gallons"
+    oil: "7,644 gallons"
   adopt:
     groups: 212
     miles: 158.25
@@ -61,6 +61,10 @@ CLR:
     permits: 117
     disturbed: 5100
     loss: 4900
+  parks:
+    employees: 49
+    developed: "4,200 acres"
+    undeveloped: "1,900 acres"
 
 tables:
   operatingExpenses:
@@ -138,9 +142,13 @@ tables:
       - "Quantity"
     data:
       - - "Fluourescent Lights"
-        - "9,949 feet"
-      - - "Compact Fluorescent Lights"
-        - "82 Bulbs"
+        - "8,823 lights"
+      - - "U-Shaped and Incandescent"
+        - "8 Bulbs"
+      - - "Herbicides"
+        - "1 55gal drum"
+      - - "Pesticides"
+        - "1 55gal drum"
   serviceRequests:
     index: 4
     title: "3-1-1 Maintenance Requests for City of Little Rock MS4"
@@ -507,6 +515,16 @@ tables:
       - - "Outfall 006:"
         - "34° 42' 00\""
         - "92° 15' 36\""
+  macarthur:
+    index: 99
+    title: "E Coli Sampling at MacArthur Park"
+    caption: "The measurements taken at MacArthur Park Pond are not equivalent to the assays taken at the prescribed outfalls. 'Present' indicates that e.coli have been identified by the density of colony-forming-units has not been determined."
+    headers:
+      - "Quantity"
+      - "Units"
+    data:
+      - - 1
+        - "#/ml"
 figures:
   waterQuality:
     index: 1 # Unnecessary if order is preserved

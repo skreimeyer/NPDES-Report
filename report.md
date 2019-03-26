@@ -134,6 +134,8 @@
 
 [Table 10: Outfall Sampling Locations](#Outfall-Sampling-Locations)
 
+[Table 99: E Coli Sampling at MacArthur Park](#E-Coli-Sampling-at-MacArthur-Park)
+
 
 # 1.0 Introduction<a name="1.0-Introduction"></a>
 The City of Little Rock (City) and the Arkansas Department of Transportation (ARDOT) are co-permittees under the National Pollutant Discharge Elimination System (NPDES) permit ARS000002 (Permit) in accordance with the Arkansas Water and Air Pollution Control Act and the Clean Water Act. The purpose of the Permit is to outline the activities required for ARDOT and the City of Little Rock to lawfully discharge waters from within the territorial boundaries of the City via the municipal separate storm sewer system (MS4) into the Arkansas River and its tributaries.  Compliance with the terms of the permit is assured by the adoption of storm water quality management plans (SWQMP) which provide guidance on best practices to mitigate the pollution of waterways to the maximum extent practicable (MEP). The Permit became effective 2012-04-01 and is currently administratively effective at the time of this report.
@@ -238,7 +240,7 @@ The Mayor’s Sustainability Commission was established in 2008 to advise the Ci
 
 The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately  outreach events in 2018. Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
-Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. Audubon Arkansas is a partner with the City on the Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In 2018 12 murals were commissioned, and another 18 locations are proposed for 2019.
+Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways. Audubon Arkansas is also a partner with the local Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In 2018 12 murals were commissioned, and another 18 locations are proposed for 2019.
 
 ## 3.6 Changes to Water Quality<a name="3.6-Changes-to-Water-Quality"></a>
 **Requirement:**
@@ -251,7 +253,7 @@ The City of Little Rock is supported by the Pulaski County Regional Recycling & 
 
 Residents are provided with a 65-gallon bin for curbside collection of papers, plastics, glass and metals for recycling. Bins can be requested online or by phone through the City’s 3-1-1 non-emergency service request system. RRWRD also coordinates the operation of Green Stations, which dispose of automotive fluid and fluorescent lighting. The Green Station in Little Rock is located at 10001 Kanis Road which is collocated with the electronic waste recycling drop off.
 
-Approximately $40,000 is spent annually to support the Pulaski County RRWRD. Public promotion of these measures is included within annual expenses of both the Sustainability Summit and the Wetlands Maintenance and Sustainability Summit which totaled $64,000 in 2018. Public service announcements are given on LRTV and are included in the annual operating expenses of $300,000 for the LRTV program.
+Approximately $34,170.48 is spent annually to support the Pulaski County RRWRD. Public promotion of these measures is included within annual expenses of both the Sustainability Summit and the Wetlands Maintenance and Sustainability Summit which totaled $64,000 in 2018. Public service announcements are given on LRTV and are included in the annual operating expenses of $300,000 for the LRTV program.
 
 ## 3.7.1 Motor Vehicle Fluids<a name="3.7.1-Motor-Vehicle-Fluids"></a>
 **Requirement:**
@@ -261,7 +263,7 @@ Approximately $40,000 is spent annually to support the Pulaski County RRWRD. Pub
 ARDOT implemented a program to recycle automotive oil as well as oil from its equipment before March 1, 1997. During the 2018, 1,035 gallons of oil and gas products were recycled from equipment used by crews working in Little Rock.
 
 ## 3.7.1.2 Little Rock Motor Vehicle Fluids<a name="3.7.1.2-Little-Rock-Motor-Vehicle-Fluids"></a>
- In Little Rock, 1,375 gallons of oil, antifreeze and gasoline were collected by the RRWRD Green Station in 2018. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
+ In Little Rock, 7,644 gallons of oil, antifreeze and gasoline were collected by the RRWRD Green Station in 2018. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
 
 ### 3.7.2 Household Hazardous Waste<a name="3.7.2-Household-Hazardous-Waste"></a>
 **Requirement:**
@@ -272,8 +274,10 @@ Recycling of household hazardous waste is promoted at speaking events by the Cit
 ### Recycled Household Hazardous Waste<a name="Recycled-Household-Hazardous-Waste"></a>
 | Item | Quantity |
 | ---|---|
-| Fluourescent Lights | 9,949 feet |
-| Compact Fluorescent Lights | 82 Bulbs |
+| Fluourescent Lights | 8,823 lights |
+| U-Shaped and Incandescent | 8 Bulbs |
+| Herbicides | 1 55gal drum |
+| Pesticides | 1 55gal drum |
 
 Table 3: Summary of waste items collected by Little Rock Green Stations
 
@@ -291,6 +295,8 @@ ARDOT spent $3,636 to machine clean and reshape existing ditches, remove and pro
 ## 3.8.2 Little Rock Drainage Maintenance Report<a name="3.8.2-Little-Rock-Drainage-Maintenance-Report"></a>
 **Requirement:**
 >The City of Little Rock will inspect 20 percent of the drainage system each year. The drainage system consists of curb and guttering, piping, and open ditches in the City of Little Rock right-of-way and public easements. Areas with recurring drainage problems shall be inspected more frequently. The City of Little Rock will also maintain and clean the ponds along Coleman Creek and within War Memorial Park. These ponds should be inspected twice per year.
+
+*Operations*
 
 The City of Little Rock Public Works Operations provides preventative and complaint-driven maintenance for the MS4. Annual inspections for inadequate drainage are conducted for each of the seven wards as well as periodic inspections of streets and drainage by the street foremen. The 3-1-1 service provides residence with the ability to create and document requests for service and also acts as a scheduling tool for maintenance activity. Over !!TODO!! requests for service were made in 2018 for repairs and maintenance to the MS4.
 
@@ -326,7 +332,21 @@ The requests for maintenance in the 3-1-1 service only partially address the sco
 
 Table 5: Unit quantities and costs associated directly with the maintenance of the MS4
 
-The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Maintenance activity includes the removal of litter as well as regular mowing. Parks has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park.
+*Parks and Recreation*
+
+Additionally, many of the open channels and waterways of the MS4 are within municipal parks. The 49 employees of the Parks and Recreation department provide intensive maintainenance, including litter removal and mowing, of the 4,200 acres of developed park land and also monitor and maintain the 1,900 acres of undeveloped parks with the City of Little Rock.
+
+The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Parks and Recreation has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park. At MacArthur Park, the City Parks and Recreation department has performed monthly sampling of the pond with the assistance of the Arkansas Health Department to measure the efficacy of their campaign to reduce public feeding of geese. The measured quantities of e. coli have reduced over the sampling period, suggesting the campaign is improving water quality within the pond. A summary of results is shown below.
+
+
+### E Coli Sampling at MacArthur Park<a name="E-Coli-Sampling-at-MacArthur-Park"></a>
+| Quantity | Units |
+| ---|---|
+| 1 | #/ml |
+
+Table 99: The measurements taken at MacArthur Park Pond are not equivalent to the assays taken at the prescribed outfalls. 'Present' indicates that e.coli have been identified by the density of colony-forming-units has not been determined.
+
+Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 cleanups a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
 
 ## 3.9 Areas of New Development<a name="3.9-Areas-of-New-Development"></a>
 **Requirement:**
