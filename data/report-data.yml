@@ -65,6 +65,14 @@ CLR:
     employees: 49
     developed: "4,200 acres"
     undeveloped: "1,900 acres"
+  audubon:
+    bookLocations:
+      - "Audubon Arkansas – Field trip visitors and Afterschool Programs"
+      - "Arkansas State Fair"
+      - "Area Elementary Schools"
+      - "Centre at University Park"
+      - "Central Arkansas Water"
+      - "LR Wastewater Reclamation Authority"
 
 tables:
   operatingExpenses:

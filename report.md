@@ -240,7 +240,22 @@ The Mayor’s Sustainability Commission was established in 2008 to advise the Ci
 
 The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately  outreach events in 2018. Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
-Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways. Audubon Arkansas is also a partner with the local Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In 2018 12 murals were commissioned, and another 18 locations are proposed for 2019.
+Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways which has been distributed to the following locations:
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+
+Audubon Arkansas is also a partner with the local Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In 2018 12 murals were commissioned, and another 18 locations are proposed for 2019.
 
 ## 3.6 Changes to Water Quality<a name="3.6-Changes-to-Water-Quality"></a>
 **Requirement:**
