@@ -208,9 +208,14 @@ The City Public Works serves as a repository of information for the Public for t
 The Mayor’s Sustainability Commission was established in 2008 to advise the City on sustainable practices. Since that time, the Commission has worked with various groups in the City to develop new environmentally green policies that have positively impacted city government and the residents of Little Rock.
 
 The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately {{sustainabilityEvents}} outreach events in {{meta.year}}. These include public speaking events at the following locations:
-{% for loc in CLR.sustainabilityEventLocations %}
-- {{loc}}
+{% set localTable = 'educationEvents' %}
+### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
+| {{tables[localTable].headers|join(" | ")}} |
+| {{"---|" * tables[localTable].headers|length}}
+{% for datum in tables[localTable].data -%}
+| {{datum|join(" | ")}} |
 {% endfor %}
+Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
 Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways which has been distributed to the following locations:
@@ -230,7 +235,7 @@ The City of Little Rock is supported by the Pulaski County Regional Recycling & 
 
 Residents are provided with a 65-gallon bin for curbside collection of papers, plastics, glass and metals for recycling. Bins can be requested online or by phone through the City’s 3-1-1 non-emergency service request system. RRWRD also coordinates the operation of Green Stations, which dispose of automotive fluid and fluorescent lighting. The Green Station in Little Rock is located at 10001 Kanis Road which is collocated with the electronic waste recycling drop off.
 
-Approximately {{CLR.rrwrdBudget}} is spent annually to support the Pulaski County RRWRD. Public promotion of these measures is included within annual expenses of both the Sustainability Summit and the Wetlands Maintenance and Sustainability Summit which totaled $64,000 in {{meta.year}}. Public service announcements are given on LRTV and are included in the annual operating expenses of {{CLR.budget.lrtv}} for the LRTV program.
+Approximately {{CLR.rrwrd.budget}} is spent annually to support the Pulaski County RRWRD. Public promotion of these measures is included within annual expenses of both the Sustainability Summit and the Wetlands Maintenance and Sustainability Summit which totaled $64,000 in {{meta.year}}. Public service announcements are given on LRTV and are included in the annual operating expenses of {{CLR.budget.lrtv}} for the LRTV program.
 
 ## 3.7.1 Motor Vehicle Fluids<a name="3.7.1-Motor-Vehicle-Fluids"></a>
 **Requirement:**
@@ -240,7 +245,7 @@ Approximately {{CLR.rrwrdBudget}} is spent annually to support the Pulaski Count
 ARDOT implemented a program to recycle automotive oil as well as oil from its equipment before March 1, 1997. During the {{meta.year}}, {{ARDOT.recycle.oil}} of oil and gas products were recycled from equipment used by crews working in Little Rock.
 
 ## 3.7.1.2 Little Rock Motor Vehicle Fluids<a name="3.7.1.2-Little-Rock-Motor-Vehicle-Fluids"></a>
- In Little Rock, {{CLR.recycle.oil}} of oil, antifreeze and gasoline were collected by the RRWRD Green Station in {{meta.year}}. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
+ In Little Rock, {{CLR.rrwrd.oil}} of oil, antifreeze and gasoline were collected by the RRWRD Green Station in {{meta.year}}. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
 
 ### 3.7.2 Household Hazardous Waste<a name="3.7.2-Household-Hazardous-Waste"></a>
 **Requirement:**
@@ -310,7 +315,7 @@ The City Parks and Recreation department provides weekly as well as post-event m
 {% endfor %}
 Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 
-Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 cleanups a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
+Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 s a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
 
 ## 3.9 Areas of New Development<a name="3.9-Areas-of-New-Development"></a>
 **Requirement:**
