@@ -107,8 +107,8 @@
 
 # Table of Figures<a name="Table-of-Figures"></a>
 
-[Figure 1: Water Quality Parameters for 2018](#Figure-1: Water Quality Parameters for 2018)
-[Figure 2: TODO](#Figure-2: TODO)
+[Figure 1: Water Quality Parameters for 2018](#Water-Quality-Parameters-for-2018)
+[Figure 2: TODO](#TODO)
 
 
 # Table of Tables<a name="Table-of-Tables"></a>
@@ -172,6 +172,7 @@ Discharge sampling shows a high level of variability between sampling locations 
 Figure 1 presents all reported measurements represented as a percentage of recommended limits for aquatic life as given in the EPA’s Regulation No. 2: Regulation Establishing Water Quality Standards for Surface Waters of the State of Arkansas. Recommended limits for nitrogen and phosphorous are have been derived from the EPA’s ecoregional criteria for Region IX: Southeastern Temperate Forested Plains and Hills. Where specific guidance has is not provided (including hardness, flow, total suspended solids and biological oxygen demand), these factors are represented as a percentage of 95th percentile of all measurements taken from the area since the beginning of the discharge monitoring program.
 
 
+<a name="Water-Quality-Parameters-for-2018"></a>
 ![Water Quality Parameters for 2018](figures/radar_2018.png "Water Quality Parameters for 2018")
 Figure 1: Normalized measurements of water quality parameters
 
