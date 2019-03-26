@@ -126,6 +126,8 @@
 
 [Table 6: Controls for ARDOT 2017 Projects](#Controls-for-ARDOT-2017-Projects)
 
+[Table 7: Public Education and Outreach Events](#Public-Education-and-Outreach-Events)
+
 [Table 7: Unlawful Discharge Summary](#Unlawful-Discharge-Summary)
 
 [Table 8: ARDOT Construction Site Visits](#ARDOT-Construction-Site-Visits)
@@ -183,27 +185,27 @@ Additional tables and charts of discharge monitoring are provided in Appendix C.
 >Estimated annual expenditures and projected budget for the year following each annual report.
 
 ARDOT costs to implement the SWMP part of the general operating budget are anticipated to be approximately $900,000 for the upcoming permit year.
-City maintenance of the MS4 is paid for by the City Street Fund and is tasked to the 215 employees of the Public Works. In 2018 $9 million was budgeted for the maintenance expenses of streets and storm drains, which is expected to become $8.5 million in 2019. Administrative expenses of the Public Works, which includes overhead costs necessary for administration of the NPDES permit, where $2.1 million in 2018 to $2.5 million in 2019. The City also invests in its storm drainage infrastructure through capital improvement projects financed by sales tax. These improvements are financed in 3-year cycles, with 2018 falling into the 2015-2018 cycle. $2.6 million is spent on each of the seven wards for a total estimated expense of $18.6 million of capital improvements, which include municipal drainage improvements. The City is also the beneficiary of a water quality grant from the Arkansas Natural Resources Commission and the Environmental Protection Agency for the construction of low impact development improvements on Main Street from Markham to Capitol Avenue. $1.4 million is expected to be spent in 2019.
+City maintenance of the MS4 is paid for by the City Street Fund and is tasked to the 215 employees of the Public Works. In 2018 $8.6 million was budgeted for the maintenance expenses of streets and storm drains, which is expected to become $8.4 million in 2019. Administrative expenses of the Public Works, which includes overhead costs necessary for administration of the NPDES permit, where $4 million in 2018 to $4.9 million in 2019. The City also invests in its storm drainage infrastructure through capital improvement projects financed by sales tax. These improvements are financed in 3-year cycles, with 2018 falling into the 2015-2018 cycle. $2.8 million is spent on each of the seven wards for a total estimated expense of $19.9 million of capital improvements, which include municipal drainage improvements. The City is also the beneficiary of a water quality grant from the Arkansas Natural Resources Commission and the Environmental Protection Agency for the construction of low impact development improvements on Main Street from Markham to Capitol Avenue. $1.4 million is expected to be spent in 2019.
 
 Operations and maintenance costs of the MS4 are met by the City Street Fund. These expenses are summarized in the table below.
 
 
 ### Public Works Street Fund Operating Expenses<a name="Public-Works-Street-Fund-Operating-Expenses"></a>
-| Activity | 2017 | 2018 |
+| Activity | 2018 | 2019 |
 | ---|---|---|
-| Administration | 1014776 | 984491 |
-| Operations Administration | 1103455 | 3093825 |
-| Street and Drainage Maintenance | 9060054 | 7579120 |
-| Storm Drain Maintenance | 860736 | 993872 |
-| Work Pool | 156431 | 162984 |
-| Resource Control and Scheduling | 337742 | 423782 |
-| Control Devices | 900339 | 940121 |
-| Signals | 1178131 | 1155223 |
-| Parking Meters | 111102 | 110603 |
-| Civil Engineering | 1858582 | 1808901 |
-| Traffic Engineering | 3304499 | 3414186 |
-| Parking Enforcement | 286985 | 302248 |
-| Total | 20172832 | 20969356 |
+| Administration | 984491 | 1997357 |
+| Operations Administration | 3093825 | 2906002 |
+| Street and Drainage Maintenance | 7579120 | 7388095 |
+| Storm Drain Maintenance | 993872 | 1045613 |
+| Work Pool | 162984 | 151998 |
+| Resource Control and Scheduling | 423782 | 381072 |
+| Control Devices | 940121 | 925953 |
+| Signals | 1155223 | 1171683 |
+| Parking Meters | 110603 | 111634 |
+| Civil Engineering | 1808901 | 1804462 |
+| Traffic Engineering | 3414186 | 3413682 |
+| Parking Enforcement | 302248 | 301607 |
+| Total | 20969356 | 21599158 |
 
 Table 1: Operating expenses directly and indirectly related to MS4 maintenance
 
@@ -243,8 +245,37 @@ The Mayor’s Sustainability Commission was established in 2008 to advise the Ci
 
 The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately  outreach events in 2018. These include public speaking events at the following locations:
 
-- XXX
+### Public Education and Outreach Events<a name="Public-Education-and-Outreach-Events"></a>
+| Date | Group | Location | Attendees |
+| ---|---|---|---|
+| 3/6/2018 | Mills High School Scholars Program | MRF and Landfill | 60 students |
+| 3/7/2018 | Clinton School Social Enterprise Class | MRF and Landfill | 4 graduate students |
+| 3/13/2018 | Lawson Elementary kindergarten class | classroom presentation | 32 student |
+| 3/22/2018 | Our House Spring Break Program | MRF and Landfill | 60 students |
+| 4/2/2018 | Boy Scout Troop | Holy Souls | 10 kids from 6th grade to seniors in high school |
+| 5/14/2018 | Capitol View-Stifft Station N.A. | Oyster Bar | ~30 adults" |
+| 7/24/2018 | Ozark Mission Project | Church in Cammack Village | 3 groups of 10-12 kids |
+| 7/31/2018 | Ozark Mission Project | Church in Cammack Village | 4 groups of 10-12 kids |
+| 8/9/2018 | Woodland Heights Senior Living | living facility by CARTI, 10-11:15 | 10 seniors |
+| 10/3/2018 | Pulaski Academy Green Team | PA at lunch time | ~20 people" |
+| 11/1/2018 | Pennbrook/Clover Neighborhood Association | LR Funeral Home at 6:30 p.m. | ~20 people" |
+| 11/9/2018 | Anthony School | Ohio St. off Mississippii | 5 students, 2 teachers |
+| 11/5/2018 | Pulaski Academy entire school | PA at 12:30 | 400 students |
+| 11/30/2018 | Lisa High school Env Studies group | MRF and landfill tour | 45 students, two teachers |
+| 11/30/2018 | LR Sustainability Commission | landfill tour | 8 commissioners |
+| 12/2/2018 | Unitarian Universalist Church | Reservoir location | 10 adults |
+| 12/10/2018 | AR Electric Coop | AR Electric Coop off I-30 | 25 employees at ice cream social |
+| 1/11/2019 | The Anthony School | school, 10:30-11:15 & 1:30-3:00 | about 35 kids in three different grade levels (3rd, 4th, 5th) |
+| 1/15/2019 | The Anthony School | 5th grade class | 20 students |
+| 1/17/2019 | The Anthony School | 6th grade class | 20 students |
+| 1/24/2019 | LifeQuest Group | 2nd Pres Church | 60 attendees |
+| 1/29/2019 | Rockefeller Elementary | school | 3 classes of 20 students |
+| 2/12/2019 | The Anthony School | 7th grade class | 20 students |
+| 2/19/2019 | Sierra Club | Oyster Bar | 25 attendees |
+| 2/20/2019 | The Anthony School | 8th grade class | 15 students |
+| 2/21/2019 | The Anthony School | Green Team | 10 students |
 
+Table 7: Public speaking presentations given by the City of Little Rock's recycling and sustainability educator.
 Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
 Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways which has been distributed to the following locations:
@@ -337,19 +368,20 @@ The requests for maintenance in the 3-1-1 service only partially address the sco
 ### Public Works Operations MS4 Maintenance Summary<a name="Public-Works-Operations-MS4-Maintenance-Summary"></a>
 | Activity | Quantity | Units | Cost |
 | ---|---|---|---|
-| Catch basin repair | 92 | Ea | $155,925 |
-| Catch basin cleaning | 1033 | Ea | $86,173 |
-| Storm Sewer Repair | 380 | LF | $37,741 |
-| Emergency Storm Sewer Cleaning | 255 | LF | $37,741 |
-| Ditch maintenance, hand cleaning | 629746 | LF | $752,228 |
-| Ditch maintenance, Excavation | 21532 | LF | $116799 |
-| Ditch maintenance, Channel construction | 12998 | LF | $177,451 |
-| Ditch maintenance, Litter removal | 802994 | LF | $98,203 |
-| Ditch maintenance, Mowing | 524 | Ac | $83,138 |
-| Ditch maintenance, Stabilization (rip-rap) | 465 | sq-yd | $46,332 |
-| Street sweeping, Miles swept | 21197 | curb-mi | $660,718 |
-| Street sweeping, Litter removed | 1784 | cyd | $31,977 |
-| Unclassified maintenance activity | 14719 | man-hr | $300,273 |
+| Catch basin repair | 102 | Ea | $126,765 |
+| Catch basin cleaning | 918 | Ea | $118,158 |
+| Storm Sewer Repair | 922 | LF | $187,661 |
+| Emergency Storm Sewer Cleaning | 30 | LF | $823.47 |
+| Ditch maintenance, hand cleaning | 614412 | LF | $666,259 |
+| Ditch maintenance, Excavation | 20220 | LF | $124,398 |
+| Ditch maintenance, Channel construction | 3160 | LF | $39,972 |
+| Ditch maintenance, Litter removal | 694377 | LF | $98,960 |
+| Ditch maintenance, Mowing | 529 | Ac | $54,243 |
+| Ditch maintenance, Stabilization (rip-rap) | 426 | sq-yd | $33,383 |
+| Street sweeping, Miles swept | 21775 | curb-mi | $649,388 |
+| Street sweeping, Litter removed | 1829 | cyd | $25,174 |
+| Ditch spraying, minor and major | 10.5 | acres | $3,136.89 |
+| Unclassified maintenance activity | 16916 | man-hr | $325,546 |
 
 Table 5: Unit quantities and costs associated directly with the maintenance of the MS4
 
@@ -367,7 +399,7 @@ The City Parks and Recreation department provides weekly as well as post-event m
 
 Table 99: The measurements taken at MacArthur Park Pond are not equivalent to the assays taken at the prescribed outfalls. 'Present' indicates that e.coli have been identified by the density of colony-forming-units has not been determined.
 
-Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 cleanups a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
+Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 s a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
 
 ## 3.9 Areas of New Development<a name="3.9-Areas-of-New-Development"></a>
 **Requirement:**
@@ -428,8 +460,8 @@ ARDOT reports the following actions to meet this requirement:
 The City of Little Rock services public streets through cleaning, debris removal and repair. Streets are maintained by City employees with assistance provided by volunteers organized by community members, local non-profits and City staff.
 
 - The City of Little Rock supports the Adopt-A-Street program which currently has 212 groups who have adopted 158.25 miles of streets. These volunteer groups do not report quantities of litter removed.
-- The City Wide Cleanup, an effort by the Keep Little Rock Beautiful organization is an annual drive to remove litter from the City. In March 2018  volunteers collected 390 pounds of recyclables and 24 tons of waste. The event covered 249 city blocks, 161 of parks and 2.6 miles of waterways, resulting in the removal of 378 tires from Fourche Creek.
-- The Public Works operates nine sweepers which swept 21,197 curb-miles and collected 1,784 cubic yards of litter in 2018 at an estimated cost of $692,700.
+- The City Wide Cleanup, an effort by the Keep Little Rock Beautiful organization is an annual drive to remove litter from the City. In March 2018 821 volunteers collected 60 bags of recyclables and 31 tons of waste. The event covered 418 city blocks, 65 of parks and 3.55 miles of waterways, resulting in the removal of 458 tires from Fourche Creek.
+- The Public Works operates nine sweepers which swept 21,780 curb-miles and collected 1,830 cubic yards of litter in 2018 at an estimated cost of $674,600.
 
 ## 3.11 Flood Control Projects<a name="3.11-Flood-Control-Projects"></a>
 **Requirement:**
