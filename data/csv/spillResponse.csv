@@ -1,9 +1,12 @@
-Date,Location,Type of Discharge,Result
-3/28/2017,811 E 6th Street,Carwash,Drain repaired
-8/7/2017,1400 N Pierce St,Oil,"Cleaned, contained"
-8/14/2017,4000 N Rodney Parham,Construction washout,Discharge halted
-9/5/2017,5901 Sloane Drive,Food waste,"Cleaned, contained"
-9/13/2017,106 S Rodney Parham,Food waste,"Cleaned, contained"
-12/8/2017,5001 W 65th Street,Sanitary sewage,"Pipe repaired, area cleaned"
-12/15/2017,2618 Shackleford,Sanitary sewage,"Pipe repaired, area cleaned"
-12/28/2017,3024 Cantrell Road,Sanitary sewage,"Pipe repaired, area cleaned"
+date,location,type,result
+9/11/2018,4100 W 98th Street,Sediment,Pending trial
+11/15/2018,8624 W 32nd St,Fill placed in MS4,Fill removed
+10/10/2018,10920 Financial Centre Parkway,"Food waste, grease",New service line installed
+10/8/2018,Piper Lane,Construction washout,Paint washout cleaned and washout installed
+8/20/2018,12400 Cantrell Road,Sediment,"Controls installed, sediment removed"
+4/27/2018,11300 Bass Pro Parkway,"Food waste, grease","Waste removed, containment provided"
+4/23/2018,16000 Rushmore Avenue,Sediment,"Controls installed, sediment removed"
+5/7/2018,13500 Chenal Parkway,Cleaning chemicals,"Notice issued, BMPs amended"
+4/25/2018,11700 Shady Creek Drive,Cleaning chemicals,"Notice issued, BMPs amended"
+4/25/2018,2311 Cumberland Street,Sanitary Sewage,Service line repaired
+
