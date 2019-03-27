@@ -137,6 +137,21 @@ tables:
     index: 12
     title: "E Coli Sampling at MacArthur Park"
     caption: "The measurements taken at MacArthur Park Pond are not equivalent to the assays taken at the prescribed outfalls. 'Present' indicates that e.coli have been identified by the density of colony-forming-units has not been determined."
+  hazCNG:
+    filename: "../data/csv/hazCNG.csv"
+    index: 13
+    title: "Recycled Automotive Waste from CNG Facility"
+    caption: "Recycled materials from the compressed natural gas fueling facility located at 501 Ferry Street in downtown Little Rock."
+  hazLandfill:
+    filename: "../data/csv/hazLandfill.csv"
+    index: 14
+    title: "Recycled Automotive Waste from the Municipal Landfill"
+    caption: "Recycled materials from the municipal landfill facility located at 10803 Ironton Cufoff immediately outside of Little Rock."
+  hazFleet:
+    filename: "../data/csv/hazFleet.csv"
+    index: 15
+    title: "Recycled Automotive Waste from Little Rock Fleet Services Facility"
+    caption: "Recycled materials from the municipal fleet services facility located at 3314 J E Davis."
 figures:
   waterQuality:
     index: 1 # Unnecessary if order is preserved

@@ -228,19 +228,18 @@ ARDOT implemented a program to recycle automotive oil as well as oil from its eq
 ## 3.7.1.2 Little Rock Motor Vehicle Fluids<a name="3.7.1.2-Little-Rock-Motor-Vehicle-Fluids"></a>
  In Little Rock, {{CLR.rrwrd.oil}} of oil, antifreeze and gasoline were collected by the RRWRD Green Station in {{meta.year}}. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
 
+{{tables.hazCNG|maketable}}
+
+{{tables.hazFleet|maketable}}
+
+{{tables.hazLandfill|maketable}}
+
 ### 3.7.2 Household Hazardous Waste<a name="3.7.2-Household-Hazardous-Waste"></a>
 **Requirement:**
 >The City of Little Rock shall ensure the establishment or availability of a program to collect household hazardous waste materials for recycle, reuse, or proper disposal. The amount of materials collected (weight or volume), the amount of money used for advertising, the method of advertising used to inform the public, and the overall cost of the program will be included in the annual report.
 Recycling of household hazardous waste is promoted at speaking events by the City sustainability officer as well as by content on social media and LRTV. The City does not collect itemized advertising costs for household hazardous waste recycling. The household hazardous waste collected in {{meta.year}} by the Little Rock Green Station is shown in table the table below.
 
-{% set localTable = 'hazardousWaste' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.hazardousWaste|maketable}}
 
 ## 3.8 Structural Controls<a name="3.8-Structural-Controls"></a>
 **Requirement:**

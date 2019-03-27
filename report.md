@@ -138,6 +138,12 @@
 
 [Table 12: E Coli Sampling at MacArthur Park](#E-Coli-Sampling-at-MacArthur-Park)
 
+[Table 13: Recycled Automotive Waste from CNG Facility](#Recycled-Automotive-Waste-from-CNG-Facility)
+
+[Table 14: Recycled Automotive Waste from the Municipal Landfill](#Recycled-Automotive-Waste-from-the-Municipal-Landfill)
+
+[Table 15: Recycled Automotive Waste from Little Rock Fleet Services Facility](#Recycled-Automotive-Waste-from-Little-Rock-Fleet-Services-Facility)
+
 
 # 1.0 Introduction<a name="1.0-Introduction"></a>
 The City of Little Rock (City) and the Arkansas Department of Transportation (ARDOT) are co-permittees under the National Pollutant Discharge Elimination System (NPDES) permit ARS000002 (Permit) in accordance with the Arkansas Water and Air Pollution Control Act and the Clean Water Act. The purpose of the Permit is to outline the activities required for ARDOT and the City of Little Rock to lawfully discharge waters from within the territorial boundaries of the City via the municipal separate storm sewer system (MS4) into the Arkansas River and its tributaries.  Compliance with the terms of the permit is assured by the adoption of storm water quality management plans (SWQMP) which provide guidance on best practices to mitigate the pollution of waterways to the maximum extent practicable (MEP). The Permit became effective 2012-04-01 and is currently administratively effective at the time of this report.
@@ -316,15 +322,46 @@ ARDOT implemented a program to recycle automotive oil as well as oil from its eq
 ## 3.7.1.2 Little Rock Motor Vehicle Fluids<a name="3.7.1.2-Little-Rock-Motor-Vehicle-Fluids"></a>
  In Little Rock, 7,644 gallons of oil, antifreeze and gasoline were collected by the RRWRD Green Station in 2018. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
 
+### Recycled Automotive Waste from CNG Facility<a name="Recycled-Automotive-Waste-from-CNG-Facility"></a>
+| Material | Quantity | Measure |
+|---|---|---|
+| Oil filters | 500 | ea |
+| Used oil | 7.5 | gal |
+| Used cleaning agents | 28 | gal |
+
+Table 13: Recycled materials from the compressed natural gas fueling facility located at 501 Ferry Street in downtown Little Rock.
+
+### Recycled Automotive Waste from Little Rock Fleet Services Facility<a name="Recycled-Automotive-Waste-from-Little-Rock-Fleet-Services-Facility"></a>
+| Material | Quantity | Measure |
+|---|---|---|
+| Oil filters | 2000 | ea |
+| Used oil | 1020 | gal |
+| Used cleaning agents | 520 | gal |
+| Antifreeze | 427 | gal |
+
+Table 15: Recycled materials from the municipal fleet services facility located at 3314 J E Davis.
+
+### Recycled Automotive Waste from the Municipal Landfill<a name="Recycled-Automotive-Waste-from-the-Municipal-Landfill"></a>
+| Material | Quantity | Measure |
+|---|---|---|
+| Oil filters | 2050 | ea |
+| Used oil | 1354 | gal |
+| Used cleaning agents | 117 | gal |
+
+Table 14: Recycled materials from the municipal landfill facility located at 10803 Ironton Cufoff immediately outside of Little Rock.
+
 ### 3.7.2 Household Hazardous Waste<a name="3.7.2-Household-Hazardous-Waste"></a>
 **Requirement:**
 >The City of Little Rock shall ensure the establishment or availability of a program to collect household hazardous waste materials for recycle, reuse, or proper disposal. The amount of materials collected (weight or volume), the amount of money used for advertising, the method of advertising used to inform the public, and the overall cost of the program will be included in the annual report.
 Recycling of household hazardous waste is promoted at speaking events by the City sustainability officer as well as by content on social media and LRTV. The City does not collect itemized advertising costs for household hazardous waste recycling. The household hazardous waste collected in 2018 by the Little Rock Green Station is shown in table the table below.
 
-
 ### Recycled Household Hazardous Waste<a name="Recycled-Household-Hazardous-Waste"></a>
-|  |
-| 
+| Item | Quantity |
+|---|---|
+| Fluourescent Lights | 8,823 lights |
+| U-Shaped and Incandescent | 8 Bulbs |
+| Herbicides | 1 55gal drum |
+| Pesticides | 1 55gal drum |
 
 Table 3: Summary of waste items collected by Little Rock Green Stations
 
