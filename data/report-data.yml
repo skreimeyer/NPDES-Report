@@ -9,23 +9,41 @@ summary:
 ARDOT:
   budget:
     total: "$900,000"
-    majorDrain: "$12,902"
-    minorDrain: "$107,000"
-    erosionRepair: "$436"
-    ditchRehab: "$3,636"
-    ditchTotal: "$4,072"
+    majorDrain: "$35,907.98"
+    minorDrain: "$284,355.37"
+    erosionRepair: "$2,103.10"
+    ditchRehab: "$19,511.89"
+    ditchTotal: "$20,900.89"
+    material: "1,313.5 cubic yards"
   projects:
-    - "060395 – Union Pacific RR Overpass (Arch St.) (LR)"
-    - "061275 – Arkansas River Str. & Apprs. (Broadway) (LR/NLR)"
-    - "061277 – Union Pacific RR Str. & Apprs (Roosevelt Rd) (LR)"
-    - "061333 – I-430/Hwy 10 Interchange Impvt. (LR)"
-    - "061390 – Crooked Creek Channel Impvts. (I-30)"
-    - "061437 – I-30 / I-430 Interchange Impvt. (LR) (Phase II)"
+    - "BB0618 – I-430/Rodney Parham Road Interchange Improvements (LR)"
+    - "CA0608 – Baptist Hospital – University Avenue (Widening) (LR)"
   recycle:
     oil: "1,035 gallons"
+    antifreeze: "12,259 gallons"
   training:
-    primary: 2018-02-13
-    secondary: 2018-04-24
+    primary: 2019-02-20
+    secondary: 2019-04-24
+  maintenance:
+    material: "$972.77"
+    litterCost: "$690,095.80"
+    litterVol: "5,861.5 cubic yards"
+    inmate: "$0"
+    aahBags: "$550.58"
+    aahGroups: 20
+    aahMiles: 25
+    sweepCost: "$217,619.60"
+    sweepVol: "1,233.5 cubic yards"
+    herbicide: 51
+  problems:
+    - "I-430 river crossing - limited shoulder space and high traffic"
+    - "I-30 south terminal - limited shoulder space and high traffic"
+    - "South terminal interchange - limited shoulder space and high traffic"
+    - "I-630/I-30 itnerchange - limited shoulder space and high traffic"
+    - "Hwy 10 - leaves and lawn debris in gutters and high traffic"
+  crews: 3
+  staff: 58
+  salaries: "$1,948,000"
 CLR:
   budget:
     employees: 215
