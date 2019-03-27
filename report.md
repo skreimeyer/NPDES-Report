@@ -128,15 +128,15 @@
 
 [Table 7: Public Education and Outreach Events](#Public-Education-and-Outreach-Events)
 
-[Table 7: Unlawful Discharge Summary](#Unlawful-Discharge-Summary)
+[Table 8: Unlawful Discharge Summary](#Unlawful-Discharge-Summary)
 
-[Table 8: ARDOT Construction Site Visits](#ARDOT-Construction-Site-Visits)
+[Table 9: ARDOT Construction Site Visits](#ARDOT-Construction-Site-Visits)
 
-[Table 9: Storm Event Data](#Storm-Event-Data)
+[Table 10: Storm Event Data](#Storm-Event-Data)
 
-[Table 10: Outfall Sampling Locations](#Outfall-Sampling-Locations)
+[Table 11: Outfall Sampling Locations](#Outfall-Sampling-Locations)
 
-[Table 99: E Coli Sampling at MacArthur Park](#E-Coli-Sampling-at-MacArthur-Park)
+[Table 12: E Coli Sampling at MacArthur Park](#E-Coli-Sampling-at-MacArthur-Park)
 
 
 # 1.0 Introduction<a name="1.0-Introduction"></a>
@@ -189,10 +189,9 @@ City maintenance of the MS4 is paid for by the City Street Fund and is tasked to
 
 Operations and maintenance costs of the MS4 are met by the City Street Fund. These expenses are summarized in the table below.
 
-
 ### Public Works Street Fund Operating Expenses<a name="Public-Works-Street-Fund-Operating-Expenses"></a>
 | Activity | 2018 | 2019 |
-| ---|---|---|
+|---|---|---|
 | Administration | 984491 | 1997357 |
 | Operations Administration | 3093825 | 2906002 |
 | Street and Drainage Maintenance | 7579120 | 7388095 |
@@ -206,7 +205,6 @@ Operations and maintenance costs of the MS4 are met by the City Street Fund. The
 | Traffic Engineering | 3414186 | 3413682 |
 | Parking Enforcement | 302248 | 301607 |
 | Total | 20969356 | 21599158 |
-
 Table 1: Operating expenses directly and indirectly related to MS4 maintenance
 
 ## 3.5 Enforcement, Inspection and Education<a name="3.5-Enforcement,-Inspection-and-Education"></a>
@@ -221,16 +219,14 @@ Enforcement
 
 The City Public Works is authorized by ordinance to enforce City codes pertaining to stormwater management plans and flood prevention. Through the performance of periodic inspections and complaints, the Public Works took 41 enforcement actions in 2018. The majority of enforcement activity is the issuance of notices of violations by Public Works inspectors for grading permit violations. A summary is given in the table below.
 
-
 ### Storm Water Ordinance Enforcement Actions<a name="Storm-Water-Ordinance-Enforcement-Actions"></a>
 | Category | Actions Taken |
-| ---|---|
+|---|---|
 | Grading Permit Violations | 31 |
 | Unlawful Discharge | 5 |
 | Sanitary Sewer Overflows | 3 |
 | Stop Work Orders | 2 |
 | Total | 41 |
-
 Table 2: Summary of notices and citations issued by the City of Little Rock for stom water code violations
 
 ### Inspections<a name="Inspections"></a>
@@ -247,7 +243,7 @@ The City sustainability officer and sustainability educator hosted or are were f
 
 ### Public Education and Outreach Events<a name="Public-Education-and-Outreach-Events"></a>
 | Date | Group | Location | Attendees |
-| ---|---|---|---|
+|---|---|---|---|
 | 3/6/2018 | Mills High School Scholars Program | MRF and Landfill | 60 students |
 | 3/7/2018 | Clinton School Social Enterprise Class | MRF and Landfill | 4 graduate students |
 | 3/13/2018 | Lawson Elementary kindergarten class | classroom presentation | 32 student |
@@ -274,8 +270,8 @@ The City sustainability officer and sustainability educator hosted or are were f
 | 2/19/2019 | Sierra Club | Oyster Bar | 25 attendees |
 | 2/20/2019 | The Anthony School | 8th grade class | 15 students |
 | 2/21/2019 | The Anthony School | Green Team | 10 students |
-
 Table 7: Public speaking presentations given by the City of Little Rock's recycling and sustainability educator.
+
 Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
 Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways which has been distributed to the following locations:
@@ -324,12 +320,8 @@ Recycling of household hazardous waste is promoted at speaking events by the Cit
 
 
 ### Recycled Household Hazardous Waste<a name="Recycled-Household-Hazardous-Waste"></a>
-| Item | Quantity |
-| ---|---|
-| Fluourescent Lights | 8,823 lights |
-| U-Shaped and Incandescent | 8 Bulbs |
-| Herbicides | 1 55gal drum |
-| Pesticides | 1 55gal drum |
+|  |
+| 
 
 Table 3: Summary of waste items collected by Little Rock Green Stations
 
@@ -342,7 +334,7 @@ Table 3: Summary of waste items collected by Little Rock Green Stations
 >Arkansas State Highway and Transportation Department will inspect the drainage system for which it is responsible at least once/month. The inspections should include a schedule of maintenance for correcting deficiencies in the system.
 
 ARDOT spent $12,902 to purchase materials to construct or repair catch basins, junction boxes, and ditch paving, and to purchase replacement drainage culverts.  ARDOT spent a total of $107,000 for materials and installation and associated ditch cleaning of minor drainage structures.
-ARDOT spent $3,636 to machine clean and reshape existing ditches, remove and properly dispose of 15 CY of excess material.  ARDOT spent $436 to purchase riprap, matting, geotextiles, sod, seed, and fertilizer to repair and prevent ditch and slope erosion.  The total cost of purchase and installation was $3,636$436.
+ARDOT spent $3,636 to machine clean and reshape existing ditches, remove and properly dispose of 15 CY of excess material.  ARDOT spent $436 to purchase riprap, matting, geotextiles, sod, seed, and fertilizer to repair and prevent ditch and slope erosion.  The total cost of purchase and installation was $4,072.
 
 ## 3.8.2 Little Rock Drainage Maintenance Report<a name="3.8.2-Little-Rock-Drainage-Maintenance-Report"></a>
 **Requirement:**
@@ -352,22 +344,19 @@ ARDOT spent $3,636 to machine clean and reshape existing ditches, remove and pro
 
 The City of Little Rock Public Works Operations provides preventative and complaint-driven maintenance for the MS4. Annual inspections for inadequate drainage are conducted for each of the seven wards as well as periodic inspections of streets and drainage by the street foremen. The 3-1-1 service provides residence with the ability to create and document requests for service and also acts as a scheduling tool for maintenance activity. Over !!TODO!! requests for service were made in 2018 for repairs and maintenance to the MS4.
 
-
 ### 3-1-1 Maintenance Requests for City of Little Rock MS4<a name="3-1-1-Maintenance-Requests-for-City-of-Little-Rock-MS4"></a>
 | Type of Request | Number of Requests |
-| ---|---|
+|---|---|
 | Ditch Maintenance | 1645 |
 | Inlet and catch basin cleaning | 873 |
 | Inlet and catch basin repair | 87 |
-
 Table 4: Service requests taken online and by phone through the Little Rock 3-1-1 system
 
 The requests for maintenance in the 3-1-1 service only partially address the scope of the maintenance activity provided by the Public Works Operations staff. A complete list of the maintenance operations performed by the Public Works and associated costs is given in the table below.
 
-
 ### Public Works Operations MS4 Maintenance Summary<a name="Public-Works-Operations-MS4-Maintenance-Summary"></a>
 | Activity | Quantity | Units | Cost |
-| ---|---|---|---|
+|---|---|---|---|
 | Catch basin repair | 102 | Ea | $126,765 |
 | Catch basin cleaning | 918 | Ea | $118,158 |
 | Storm Sewer Repair | 922 | LF | $187,661 |
@@ -376,13 +365,12 @@ The requests for maintenance in the 3-1-1 service only partially address the sco
 | Ditch maintenance, Excavation | 20220 | LF | $124,398 |
 | Ditch maintenance, Channel construction | 3160 | LF | $39,972 |
 | Ditch maintenance, Litter removal | 694377 | LF | $98,960 |
-| Ditch maintenance, Mowing | 529 | Ac | $54,243 |
+| Ditch maintenance, Mowing | 529 | acres | $54,243 |
 | Ditch maintenance, Stabilization (rip-rap) | 426 | sq-yd | $33,383 |
 | Street sweeping, Miles swept | 21775 | curb-mi | $649,388 |
 | Street sweeping, Litter removed | 1829 | cyd | $25,174 |
 | Ditch spraying, minor and major | 10.5 | acres | $3,136.89 |
 | Unclassified maintenance activity | 16916 | man-hr | $325,546 |
-
 Table 5: Unit quantities and costs associated directly with the maintenance of the MS4
 
 *Parks and Recreation*
@@ -391,15 +379,13 @@ Additionally, many of the open channels and waterways of the MS4 are within muni
 
 The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Parks and Recreation has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park. At MacArthur Park, the City Parks and Recreation department has performed monthly sampling of the pond with the assistance of the Arkansas Health Department to measure the efficacy of their campaign to reduce public feeding of geese. The measured quantities of e. coli have reduced over the sampling period, suggesting the campaign is improving water quality within the pond. A summary of results is shown below.
 
-
 ### E Coli Sampling at MacArthur Park<a name="E-Coli-Sampling-at-MacArthur-Park"></a>
 | Quantity | Units |
-| ---|---|
+|---|---|
 | 1 | #/ml |
+Table 12: The measurements taken at MacArthur Park Pond are not equivalent to the assays taken at the prescribed outfalls. 'Present' indicates that e.coli have been identified by the density of colony-forming-units has not been determined.
 
-Table 99: The measurements taken at MacArthur Park Pond are not equivalent to the assays taken at the prescribed outfalls. 'Present' indicates that e.coli have been identified by the density of colony-forming-units has not been determined.
-
-Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 s a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
+Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 cleanups a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
 
 ## 3.9 Areas of New Development<a name="3.9-Areas-of-New-Development"></a>
 **Requirement:**
@@ -418,10 +404,9 @@ The following projects were under contract in Little Rock at various times durin
 
 
 Quantities and associated costs of erosion control materials are listed in the table below.
-
 ### Controls for ARDOT 2017 Projects<a name="Controls-for-ARDOT-2017-Projects"></a>
 | Item | Quantity | Units | Paid Cost |
-| ---|---|---|---|
+|---|---|---|---|
 | Concrete Ditch Paving | 6,056.20 | Square Yards | $422,126.56 |
 | Concrete Riprap | 340.76 | Cubic Yards | $146,424.00 |
 | Drop Inlet Silt Fence | 282.00 | Linear Feet | $2,924.68 |
@@ -438,7 +423,6 @@ Quantities and associated costs of erosion control materials are listed in the t
 | Water | 18.20 | Million Gallons | $96.79 |
 | Wattle | 250.00 | Linear Feet | $2,000.00 |
 | Total |  |  | $689,739.73 |
-
 Table 6: Payable quantities of erosion controls used in ARDOT highway construction jobs
 
 ## 3.9.2 Little Rock New Development Summary<a name="3.9.2-Little-Rock-New-Development-Summary"></a>
@@ -486,10 +470,9 @@ Members of the Department’s NPDES Section provided annual training, including 
 ## 3.12.2 Little Rock Spill Response Summary<a name="3.12.2-Little-Rock-Spill-Response-Summary"></a>
 The City of Little Rock identifies spills by public reporting through 3-1-1 as well as by observations made by City personnel. Spill reports are investigated by the City Public Works, and upon identification of an unlawful discharge into the MS4, ADEQ is provided notification within 24 hours. Following the initial notification, the City conducts enforcement actions and investigation necessary to mitigate the spill. A formal written response is provided to ADEQ Water Quality division within 5 working days of the initial notification. Records of notices of violation and relevant documentation are maintained at the City Public Works. A summary of spill responses is given in the table below.
 
-
 ### Unlawful Discharge Summary<a name="Unlawful-Discharge-Summary"></a>
 | Date | Location | Type of Discharge | Result |
-| ---|---|---|---|
+|---|---|---|---|
 | 3/28/2017 | 811 E 6th Street | Carwash | Drain repaired |
 | 8/7/2017 | 1400 N Pierce St | Oil | Cleaned, contained |
 | 8/14/2017 | 4000 N Rodney Parham | Construction washout | Discharge halted |
@@ -498,8 +481,7 @@ The City of Little Rock identifies spills by public reporting through 3-1-1 as w
 | 12/8/2017 | 5001 W 65th Street | Sanitary sewage | Pipe repaired, area cleaned |
 | 12/15/2017 | 2618 Shackleford | Sanitary sewage | Pipe repaired, area cleaned |
 | 12/28/2017 | 3024 Cantrell Road | Sanitary sewage | Pipe repaired, area cleaned |
-
-Table 7: Summary of stormwater ordinances for unlawful discharges during the permit year
+Table 8: Summary of stormwater ordinances for unlawful discharges during the permit year
 
 ## 3.13 Construction Site Runoff<a name="3.13-Construction-Site-Runoff"></a>
 **Requirement:**
@@ -521,17 +503,15 @@ Beginning in February 2010, the Department instituted an erosion and sediment co
 SWMP Reporting Requirement: The Department of Transportation will report annually the job numbers, job locations, and dates of site visits.
 Program Activities:
 Members of the Department’s Environmental Division visited the following area jobs during the Permit year. Job 061102 was visited since there were few active jobs within the city of Little Rock; however the job is within the highly urbanized area.
-
 ### ARDOT Construction Site Visits<a name="ARDOT-Construction-Site-Visits"></a>
 | Date | Location | Job Number |
-| ---|---|---|
+|---|---|---|
 | 3/2/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
 | 6/21/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
 | 9/20/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
 | 10/3/2017 | Hwy. 67 Interchange (Cabot) | 061102 |
 | 1/25/2018 | Hwy. 67 Interchange (Cabot) | 061102 |
-
-Table 8: Dates of inspections by location
+Table 9: Dates of inspections by location
 
 ## 3.13.2 Little Rock Construction Runoff Reduction<a name="3.13.2-Little-Rock-Construction-Runoff-Reduction"></a>
 The City’s program for reducing construction site runoff is a combination of monitoring and administrative controls which are written in the SWQMP and codified in Chapter 29 of the City of Little Rock Code of Ordinances. Construction and land alteration activities are subject to permitting by the City, and as a condition of these permits, construction activities must provide plans for erosion control, drainage and NPDES compliance where applicable. Significant land alteration activities are unlawful without a grading permit, except where allowed by Chapter 29 of City code.
@@ -561,10 +541,9 @@ The locations of sampled outfalls are given by the Permit and are believed to be
 All discharge samples were collected during rain events which exceeded 0.1in of precipitation. The measured precipitation in the table below is an average of six ground weather stations within the limits of the City of Little Rock. The time between acquiring samples and the most recent rain event vary from one to six days. Approximately eight liters of water is required for the battery of laboratory tests performed. In total, approximately 160 liters of runoff was sampled during 2018. The City holds records of all reported samples.
 
 
-
 ### Storm Event Data<a name="Storm-Event-Data"></a>
 | Location | Sample Date | Average Rainfall(in) | Estimated Discharge | Most Recent Rain Event | Time Difference |
-| ---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | outfall 1 | 3/6/2017 | 0.385 | 12.9 Mgal | 3/5/2017 | 1 days |
 | outfall 1 | 6/19/2017 | 0.576667 | 0.1 Mgal | 6/13/2017 | 6 days |
 | outfall 1 | 10/27/2017 | 0.062 | 17,000 gal | 10/22/2017 | 5 days | ['outfall 1'] | 12/22/2017 | 1 | 4,000 gal | 12/20/2017 | 2 days |
@@ -583,8 +562,7 @@ All discharge samples were collected during rain events which exceeded 0.1in of 
 | outfall 6 | 3/6/2017 | 0.385 | 3.4 Mgal | 3/5/2017 | 1 days |
 | outfall 6 | 7/5/2017 | 0.571667 | 9,500 gal | 7/4/2017 | 1 days |
 | outfall 6 | 12/22/2017 | 1 | 4,300 gal | 12/20/2017 | 2 days |
-
-Table 9: Precipitation summaries and discharge estimates for each sampled outfall
+Table 10: Precipitation summaries and discharge estimates for each sampled outfall
 
 ## 3.15.3 Sampling<a name="3.15.3-Sampling"></a>
 **Requirement:**
@@ -593,17 +571,15 @@ Table 9: Precipitation summaries and discharge estimates for each sampled outfal
 Representative Storm Events: Samples shall be collected from the discharge resulting from a storm event that is greater than 0.1 inches in magnitude and that occurs at least 72 hours from the previously measurable storm event.
 Throughout 2018, the City has a contractual agreement with Environmental Services Company, Inc. for the collection, analysis and reporting of storm water samples. Samples are collected quarterly during rain events from five outfall locations as specified in NPDES permit ARS000002.
 
-
 ### Outfall Sampling Locations<a name="Outfall-Sampling-Locations"></a>
 | Identifier | Latitude | Longitude |
-| ---|---|---|
+|---|---|---|
 | Outfall 001: | 34° 44' 30" | 92° 20' 30" |
 | Outfall 002: | 34° 43' 30" | 92° 21' 30" |
 | Outfall 003: | 34° 45' 15" | 92° 26' 00" |
 | Outfall 005: | 34° 44' 00" | 92° 14' 30" |
 | Outfall 006: | 34° 42' 00" | 92° 15' 36" |
-
-Table 10: Coordinates for outfalls identified for quaterly water quality sampling
+Table 11: Coordinates for outfalls identified for quaterly water quality sampling
 
 Reporting is provided electronically through the Environmental Protection Agency’s NETDMR service.  Electronic reports are certified by an authorized representative of the City.
 

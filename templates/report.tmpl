@@ -167,14 +167,7 @@ City maintenance of the MS4 is paid for by the City Street Fund and is tasked to
 
 Operations and maintenance costs of the MS4 are met by the City Street Fund. These expenses are summarized in the table below.
 
-{% set localTable = 'operatingExpenses' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.operatingExpenses|maketable}}
 
 ## 3.5 Enforcement, Inspection and Education<a name="3.5-Enforcement,-Inspection-and-Education"></a>
 **Requirement:**
@@ -186,16 +179,9 @@ ARDOT conducts inspections of its construction projects and maintenance faciliti
 ## 3.5.2 Little Rock Enforcement, Inspection and Education<a name="3.5.2-Little-Rock-Enforcement,-Inspection-and-Education"></a>
 Enforcement
 
-The City Public Works is authorized by ordinance to enforce City codes pertaining to stormwater management plans and flood prevention. Through the performance of periodic inspections and complaints, the Public Works took {{tables.enforcementActions.data.4.1}} enforcement actions in {{meta.year}}. The majority of enforcement activity is the issuance of notices of violations by Public Works inspectors for grading permit violations. A summary is given in the table below.
+The City Public Works is authorized by ordinance to enforce City codes pertaining to stormwater management plans and flood prevention. Through the performance of periodic inspections and complaints, the Public Works took {{CLR.enforcementActions}} enforcement actions in {{meta.year}}. The majority of enforcement activity is the issuance of notices of violations by Public Works inspectors for grading permit violations. A summary is given in the table below.
 
-{% set localTable = 'enforcementActions' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.enforcementActions|maketable}}
 
 ### Inspections<a name="Inspections"></a>
 
@@ -208,14 +194,9 @@ The City Public Works serves as a repository of information for the Public for t
 The Mayor’s Sustainability Commission was established in 2008 to advise the City on sustainable practices. Since that time, the Commission has worked with various groups in the City to develop new environmentally green policies that have positively impacted city government and the residents of Little Rock.
 
 The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately {{sustainabilityEvents}} outreach events in {{meta.year}}. These include public speaking events at the following locations:
-{% set localTable = 'educationEvents' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+
+{{tables.educationEvents|maketable}}
+
 Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
 Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways which has been distributed to the following locations:
@@ -270,7 +251,7 @@ Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 >Arkansas State Highway and Transportation Department will inspect the drainage system for which it is responsible at least once/month. The inspections should include a schedule of maintenance for correcting deficiencies in the system.
 
 ARDOT spent {{ARDOT.budget.majorDrain}} to purchase materials to construct or repair catch basins, junction boxes, and ditch paving, and to purchase replacement drainage culverts.  ARDOT spent a total of {{ARDOT.budget.minorDrain}} for materials and installation and associated ditch cleaning of minor drainage structures.
-ARDOT spent {{ARDOT.budget.ditchRehab}} to machine clean and reshape existing ditches, remove and properly dispose of 15 CY of excess material.  ARDOT spent {{ARDOT.budget.erosionRepair}} to purchase riprap, matting, geotextiles, sod, seed, and fertilizer to repair and prevent ditch and slope erosion.  The total cost of purchase and installation was {{ARDOT.budget.ditchRehab + ARDOT.budget.erosionRepair}}.
+ARDOT spent {{ARDOT.budget.ditchRehab}} to machine clean and reshape existing ditches, remove and properly dispose of 15 CY of excess material.  ARDOT spent {{ARDOT.budget.erosionRepair}} to purchase riprap, matting, geotextiles, sod, seed, and fertilizer to repair and prevent ditch and slope erosion.  The total cost of purchase and installation was {{ARDOT.budget.ditchTotal}}.
 
 ## 3.8.2 Little Rock Drainage Maintenance Report<a name="3.8.2-Little-Rock-Drainage-Maintenance-Report"></a>
 **Requirement:**
@@ -280,25 +261,11 @@ ARDOT spent {{ARDOT.budget.ditchRehab}} to machine clean and reshape existing di
 
 The City of Little Rock Public Works Operations provides preventative and complaint-driven maintenance for the MS4. Annual inspections for inadequate drainage are conducted for each of the seven wards as well as periodic inspections of streets and drainage by the street foremen. The 3-1-1 service provides residence with the ability to create and document requests for service and also acts as a scheduling tool for maintenance activity. Over !!TODO!! requests for service were made in {{meta.year}} for repairs and maintenance to the MS4.
 
-{% set localTable = 'serviceRequests' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.serviceRequests|maketable}}
 
 The requests for maintenance in the 3-1-1 service only partially address the scope of the maintenance activity provided by the Public Works Operations staff. A complete list of the maintenance operations performed by the Public Works and associated costs is given in the table below.
 
-{% set localTable = 'serviceCost' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.serviceCost|maketable}}
 
 *Parks and Recreation*
 
@@ -306,16 +273,9 @@ Additionally, many of the open channels and waterways of the MS4 are within muni
 
 The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Parks and Recreation has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park. At MacArthur Park, the City Parks and Recreation department has performed monthly sampling of the pond with the assistance of the Arkansas Health Department to measure the efficacy of their campaign to reduce public feeding of geese. The measured quantities of e. coli have reduced over the sampling period, suggesting the campaign is improving water quality within the pond. A summary of results is shown below.
 
-{% set localTable = 'macarthur' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.macarthur|maketable}}
 
-Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 s a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
+Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 cleanups a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
 
 ## 3.9 Areas of New Development<a name="3.9-Areas-of-New-Development"></a>
 **Requirement:**
@@ -330,14 +290,7 @@ The following projects were under contract in Little Rock at various times durin
 {% endfor %}
 
 Quantities and associated costs of erosion control materials are listed in the table below.
-{% set localTable = 'ardotControls' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.ardotControls|maketable}}
 
 ## 3.9.2 Little Rock New Development Summary<a name="3.9.2-Little-Rock-New-Development-Summary"></a>
 Chapter 29 of City code requires that all construction, subdivision approvals and remodeling activities have a stormwater management and drainage plan approved by the Public Works with the exceptions of residential single family or duplex structures, commercial or industrial structures on lots less than one acre or additions of less than 500 square feet to existing commercial or industrial structures. Permitted stormwater management and drainage plans must conform to the City SWQMP and City Storm Water Management and Drainage Manual.
@@ -384,14 +337,7 @@ Members of the Department’s NPDES Section provided annual training, including 
 ## 3.12.2 Little Rock Spill Response Summary<a name="3.12.2-Little-Rock-Spill-Response-Summary"></a>
 The City of Little Rock identifies spills by public reporting through 3-1-1 as well as by observations made by City personnel. Spill reports are investigated by the City Public Works, and upon identification of an unlawful discharge into the MS4, ADEQ is provided notification within 24 hours. Following the initial notification, the City conducts enforcement actions and investigation necessary to mitigate the spill. A formal written response is provided to ADEQ Water Quality division within 5 working days of the initial notification. Records of notices of violation and relevant documentation are maintained at the City Public Works. A summary of spill responses is given in the table below.
 
-{% set localTable = 'spillResponse' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.spillResponse|maketable}}
 
 ## 3.13 Construction Site Runoff<a name="3.13-Construction-Site-Runoff"></a>
 **Requirement:**
@@ -413,14 +359,7 @@ Beginning in February 2010, the Department instituted an erosion and sediment co
 SWMP Reporting Requirement: The Department of Transportation will report annually the job numbers, job locations, and dates of site visits.
 Program Activities:
 Members of the Department’s Environmental Division visited the following area jobs during the Permit year. Job 061102 was visited since there were few active jobs within the city of Little Rock; however the job is within the highly urbanized area.
-{% set localTable = 'ardotVisits' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.ardotVisits|maketable}}
 
 ## 3.13.2 Little Rock Construction Runoff Reduction<a name="3.13.2-Little-Rock-Construction-Runoff-Reduction"></a>
 The City’s program for reducing construction site runoff is a combination of monitoring and administrative controls which are written in the SWQMP and codified in Chapter 29 of the City of Little Rock Code of Ordinances. Construction and land alteration activities are subject to permitting by the City, and as a condition of these permits, construction activities must provide plans for erosion control, drainage and NPDES compliance where applicable. Significant land alteration activities are unlawful without a grading permit, except where allowed by Chapter 29 of City code.
@@ -450,14 +389,7 @@ The locations of sampled outfalls are given by the Permit and are believed to be
 All discharge samples were collected during rain events which exceeded 0.1in of precipitation. The measured precipitation in the table below is an average of six ground weather stations within the limits of the City of Little Rock. The time between acquiring samples and the most recent rain event vary from one to six days. Approximately eight liters of water is required for the battery of laboratory tests performed. In total, approximately 160 liters of runoff was sampled during {{meta.year}}. The City holds records of all reported samples.
 
 
-{% set localTable = 'stormEvents' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.stormEvents|maketable}}
 
 ## 3.15.3 Sampling<a name="3.15.3-Sampling"></a>
 **Requirement:**
@@ -466,14 +398,7 @@ Table {{tables[localTable].index}}: {{tables[localTable].caption}}
 Representative Storm Events: Samples shall be collected from the discharge resulting from a storm event that is greater than 0.1 inches in magnitude and that occurs at least 72 hours from the previously measurable storm event.
 Throughout {{meta.year}}, the City has a contractual agreement with Environmental Services Company, Inc. for the collection, analysis and reporting of storm water samples. Samples are collected quarterly during rain events from five outfall locations as specified in NPDES permit ARS000002.
 
-{% set localTable = 'sampleLocations' %}
-### {{tables[localTable].title}}<a name="{{ tables[localTable].title|slugify }}"></a>
-| {{tables[localTable].headers|join(" | ")}} |
-| {{"---|" * tables[localTable].headers|length}}
-{% for datum in tables[localTable].data -%}
-| {{datum|join(" | ")}} |
-{% endfor %}
-Table {{tables[localTable].index}}: {{tables[localTable].caption}}
+{{tables.sampleLocations|maketable}}
 
 Reporting is provided electronically through the Environmental Protection Agency’s NETDMR service.  Electronic reports are certified by an authorized representative of the City.
 

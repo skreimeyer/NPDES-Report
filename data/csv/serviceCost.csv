@@ -1,0 +1,15 @@
+Activity,Quantity,Units,Cost
+Catch basin repair,102,Ea,"$126,765"
+Catch basin cleaning,918,Ea,"$118,158"
+Storm Sewer Repair,922,LF,"$187,661"
+Emergency Storm Sewer Cleaning,30,LF,$823.47
+"Ditch maintenance, hand cleaning",614412,LF,"$666,259"
+"Ditch maintenance, Excavation",20220,LF,"$124,398"
+"Ditch maintenance, Channel construction",3160,LF,"$39,972"
+"Ditch maintenance, Litter removal",694377,LF,"$98,960"
+"Ditch maintenance, Mowing",529,acres,"$54,243"
+"Ditch maintenance, Stabilization (rip-rap)",426,sq-yd,"$33,383"
+"Street sweeping, Miles swept",21775,curb-mi,"$649,388"
+"Street sweeping, Litter removed",1829,cyd,"$25,174"
+"Ditch spraying, minor and major",10.5,acres,"$3,136.89"
+Unclassified maintenance activity,16916,man-hr,"$325,546"
