@@ -74,7 +74,10 @@ CLR:
       - "Area Elementary Schools"
       - "Centre at University Park"
       - "Central Arkansas Water"
-      - "LR Wastewater Reclamation Authority"
+      - "LR Wastewater Reclamation Authority
+  f2f:
+    date: 2018-05-10
+    students: 185
 
 tables:
   operatingExpenses:
