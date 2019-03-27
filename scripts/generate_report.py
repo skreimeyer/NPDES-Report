@@ -31,7 +31,7 @@ def maketable(tablemeta):
         outputs = [title_heading,headers,border]
         for row in data[1:]:
             outputs.append("| "+" | ".join([d for d in row])+" |")
-        outputs.append(f'Table {tablemeta["index"]}: {tablemeta["caption"]}')
+        outputs.append(f'\nTable {tablemeta["index"]}: {tablemeta["caption"]}')
     return '\n'.join(outputs)
 
 # register the filter

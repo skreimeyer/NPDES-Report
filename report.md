@@ -205,6 +205,7 @@ Operations and maintenance costs of the MS4 are met by the City Street Fund. The
 | Traffic Engineering | 3414186 | 3413682 |
 | Parking Enforcement | 302248 | 301607 |
 | Total | 20969356 | 21599158 |
+
 Table 1: Operating expenses directly and indirectly related to MS4 maintenance
 
 ## 3.5 Enforcement, Inspection and Education<a name="3.5-Enforcement,-Inspection-and-Education"></a>
@@ -227,6 +228,7 @@ The City Public Works is authorized by ordinance to enforce City codes pertainin
 | Sanitary Sewer Overflows | 3 |
 | Stop Work Orders | 2 |
 | Total | 41 |
+
 Table 2: Summary of notices and citations issued by the City of Little Rock for stom water code violations
 
 ### Inspections<a name="Inspections"></a>
@@ -270,6 +272,7 @@ The City sustainability officer and sustainability educator hosted or are were f
 | 2/19/2019 | Sierra Club | Oyster Bar | 25 attendees |
 | 2/20/2019 | The Anthony School | 8th grade class | 15 students |
 | 2/21/2019 | The Anthony School | Green Team | 10 students |
+
 Table 7: Public speaking presentations given by the City of Little Rock's recycling and sustainability educator.
 
 Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
@@ -350,6 +353,7 @@ The City of Little Rock Public Works Operations provides preventative and compla
 | Ditch Maintenance | 1645 |
 | Inlet and catch basin cleaning | 873 |
 | Inlet and catch basin repair | 87 |
+
 Table 4: Service requests taken online and by phone through the Little Rock 3-1-1 system
 
 The requests for maintenance in the 3-1-1 service only partially address the scope of the maintenance activity provided by the Public Works Operations staff. A complete list of the maintenance operations performed by the Public Works and associated costs is given in the table below.
@@ -371,6 +375,7 @@ The requests for maintenance in the 3-1-1 service only partially address the sco
 | Street sweeping, Litter removed | 1829 | cyd | $25,174 |
 | Ditch spraying, minor and major | 10.5 | acres | $3,136.89 |
 | Unclassified maintenance activity | 16916 | man-hr | $325,546 |
+
 Table 5: Unit quantities and costs associated directly with the maintenance of the MS4
 
 *Parks and Recreation*
@@ -383,6 +388,7 @@ The City Parks and Recreation department provides weekly as well as post-event m
 | Quantity | Units |
 |---|---|
 | 1 | #/ml |
+
 Table 12: The measurements taken at MacArthur Park Pond are not equivalent to the assays taken at the prescribed outfalls. 'Present' indicates that e.coli have been identified by the density of colony-forming-units has not been determined.
 
 Maintenance of the MS4 in public areas is supplemented by volunteer efforts, such as those by the FoFC and KLRB commission. The FoFC conducts over 20 cleanups a year that removes waste such as floatables, tires and even refrigerators from the Fourche Creek Bayou.
@@ -423,6 +429,7 @@ Quantities and associated costs of erosion control materials are listed in the t
 | Water | 18.20 | Million Gallons | $96.79 |
 | Wattle | 250.00 | Linear Feet | $2,000.00 |
 | Total |  |  | $689,739.73 |
+
 Table 6: Payable quantities of erosion controls used in ARDOT highway construction jobs
 
 ## 3.9.2 Little Rock New Development Summary<a name="3.9.2-Little-Rock-New-Development-Summary"></a>
@@ -481,6 +488,7 @@ The City of Little Rock identifies spills by public reporting through 3-1-1 as w
 | 12/8/2017 | 5001 W 65th Street | Sanitary sewage | Pipe repaired, area cleaned |
 | 12/15/2017 | 2618 Shackleford | Sanitary sewage | Pipe repaired, area cleaned |
 | 12/28/2017 | 3024 Cantrell Road | Sanitary sewage | Pipe repaired, area cleaned |
+
 Table 8: Summary of stormwater ordinances for unlawful discharges during the permit year
 
 ## 3.13 Construction Site Runoff<a name="3.13-Construction-Site-Runoff"></a>
@@ -511,6 +519,7 @@ Members of the Department’s Environmental Division visited the following area 
 | 9/20/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
 | 10/3/2017 | Hwy. 67 Interchange (Cabot) | 061102 |
 | 1/25/2018 | Hwy. 67 Interchange (Cabot) | 061102 |
+
 Table 9: Dates of inspections by location
 
 ## 3.13.2 Little Rock Construction Runoff Reduction<a name="3.13.2-Little-Rock-Construction-Runoff-Reduction"></a>
@@ -562,6 +571,7 @@ All discharge samples were collected during rain events which exceeded 0.1in of 
 | outfall 6 | 3/6/2017 | 0.385 | 3.4 Mgal | 3/5/2017 | 1 days |
 | outfall 6 | 7/5/2017 | 0.571667 | 9,500 gal | 7/4/2017 | 1 days |
 | outfall 6 | 12/22/2017 | 1 | 4,300 gal | 12/20/2017 | 2 days |
+
 Table 10: Precipitation summaries and discharge estimates for each sampled outfall
 
 ## 3.15.3 Sampling<a name="3.15.3-Sampling"></a>
@@ -579,6 +589,7 @@ Throughout 2018, the City has a contractual agreement with Environmental Service
 | Outfall 003: | 34° 45' 15" | 92° 26' 00" |
 | Outfall 005: | 34° 44' 00" | 92° 14' 30" |
 | Outfall 006: | 34° 42' 00" | 92° 15' 36" |
+
 Table 11: Coordinates for outfalls identified for quaterly water quality sampling
 
 Reporting is provided electronically through the Environmental Protection Agency’s NETDMR service.  Electronic reports are certified by an authorized representative of the City.
