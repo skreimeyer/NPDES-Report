@@ -1,12 +1,11 @@
-date,location,type,result
-9/11/2018,4100 W 98th Street,Sediment,Pending trial
-11/15/2018,8624 W 32nd St,Fill placed in MS4,Fill removed
-10/10/2018,10920 Financial Centre Parkway,"Food waste, grease",New service line installed
-10/8/2018,Piper Lane,Construction washout,Paint washout cleaned and washout installed
-8/20/2018,12400 Cantrell Road,Sediment,"Controls installed, sediment removed"
-4/27/2018,11300 Bass Pro Parkway,"Food waste, grease","Waste removed, containment provided"
+Date,Location,Violation,Result
 4/23/2018,16000 Rushmore Avenue,Sediment,"Controls installed, sediment removed"
-5/7/2018,13500 Chenal Parkway,Cleaning chemicals,"Notice issued, BMPs amended"
 4/25/2018,11700 Shady Creek Drive,Cleaning chemicals,"Notice issued, BMPs amended"
 4/25/2018,2311 Cumberland Street,Sanitary Sewage,Service line repaired
-
+4/27/2018,11300 Bass Pro Parkway,"Food waste, grease","Waste removed, containment provided"
+5/7/2018,13500 Chenal Parkway,Cleaning chemicals,"Notice issued, BMPs amended"
+8/20/2018,12400 Cantrell Road,Sediment,"Controls installed, sediment removed"
+9/11/2018,4100 W 98th Street,Sediment,Pending trial
+10/8/2018,Piper Lane,Construction washout,Paint washout cleaned and washout installed
+10/10/2018,10920 Financial Centre Parkway,"Food waste, grease",New service line installed
+11/15/2018,8624 W 32nd St,Sediment,Fill removed from MS4
