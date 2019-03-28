@@ -97,12 +97,19 @@
 # Appendices<a name="Appendices"></a>
 
 [1997 Annual Report](#1997-Annual-Report)
+
 [Recently Annexed Areas](#Recently-Annexed-Areas)
+
 [Monitoring Data Summary](#Monitoring-Data-Summary)
+
 [Monitoring Data Analysis](#Monitoring-Data-Analysis)
+
 [Key Parameter Trend Analysis](#Key-Parameter-Trend-Analysis)
+
 [Seasonal Trend Analysis](#Seasonal-Trend-Analysis)
+
 [Storm Water Inlet Stencil & Flyer](#Storm-Water-Inlet-Stencil-&-Flyer)
+
 [Disturbed Area](#Disturbed-Area)
 
 # Table of Figures<a name="Table-of-Figures"></a>
@@ -190,7 +197,8 @@ Additional tables and charts of discharge monitoring are provided in Appendix C.
 **Requirement:**
 >Estimated annual expenditures and projected budget for the year following each annual report.
 
-ARDOT costs to implement the SWMP part of the general operating budget are anticipated to be approximately $900,000 for the upcoming permit year.
+ARDOT costs to implement with SWMP part of the general operating budget are anticipated to be approximately $900,000 for the upcoming permit year. ARDOT has 3 crews with a total of 58 personnel dedicated to working in the Little Rock metropolitan area that have an annual salary of approximately $1,948,000.  These crews can be supported by other crews that are assigned as needed throughout District Six.
+
 City maintenance of the MS4 is paid for by the City Street Fund and is tasked to the 215 employees of the Public Works. In 2018 $8.6 million was budgeted for the maintenance expenses of streets and storm drains, which is expected to become $8.4 million in 2019. Administrative expenses of the Public Works, which includes overhead costs necessary for administration of the NPDES permit, where $4 million in 2018 to $4.9 million in 2019. The City also invests in its storm drainage infrastructure through capital improvement projects financed by sales tax. These improvements are financed in 3-year cycles, with 2018 falling into the 2015-2018 cycle. $2.8 million is spent on each of the seven wards for a total estimated expense of $19.9 million of capital improvements, which include municipal drainage improvements. The City is also the beneficiary of a water quality grant from the Arkansas Natural Resources Commission and the Environmental Protection Agency for the construction of low impact development improvements on Main Street from Markham to Capitol Avenue. $1.4 million is expected to be spent in 2019.
 
 Operations and maintenance costs of the MS4 are met by the City Street Fund. These expenses are summarized in the table below.
@@ -221,6 +229,8 @@ Table 1: Operating expenses directly and indirectly related to MS4 maintenance
 ## 3.5.1 ARDOT Enforcement, Inspection and Education<a name="3.5.1-ARDOT-Enforcement,-Inspection-and-Education"></a>
 ARDOT conducts inspections of its construction projects and maintenance facilities in accordance with existing regulations and ARDOT policy.  Two stormwater related articles were published in the Department’s Arkansas Highways magazine in the May/June Magazine of 2018. The articles published in the Arkansas Highways Magazine are featured on the Stormwater section of the website for easier access. This publication is provided to all Department personnel and the public statewide. Several hundred stormwater education brochures were distributed during environmental education events as well as Arkansas Environmental Education Association events, the Arkansas State Fair, DrainSmArt and other community related activities throughout the year. The Department has added several stormwater-related educational brochures in English and Spanish on its website. The Department has also made stormwater educational material available at six public libraries in the Little Rock area.
 
+In 2018, no warning letters were sent to contractors on any ARDOT construction projects in Little Rock for failure of timely BMP replacement or repair.
+
 ## 3.5.2 Little Rock Enforcement, Inspection and Education<a name="3.5.2-Little-Rock-Enforcement,-Inspection-and-Education"></a>
 Enforcement
 
@@ -229,10 +239,10 @@ The City Public Works is authorized by ordinance to enforce City codes pertainin
 ### Storm Water Ordinance Enforcement Actions<a name="Storm-Water-Ordinance-Enforcement-Actions"></a>
 | Category | Actions Taken |
 |---|---|
-| Grading Permit Violations | 31 |
+| Grading Permit Violations | 4 |
 | Unlawful Discharge | 5 |
-| Sanitary Sewer Overflows | 3 |
-| Stop Work Orders | 2 |
+| Sanitary Sewer Overflows | 1 |
+| Obstruction to MS4 |  4 |
 | Total | 41 |
 
 Table 2: Summary of notices and citations issued by the City of Little Rock for stom water code violations
@@ -245,9 +255,16 @@ The City Public Works inspects both private and public construction projects for
 
 The City Public Works serves as a repository of information for the Public for topics of water quality and the MS4. Brochures, graphic material and staff are made available to the public Monday through Friday during normal business hours. Supplemental information is provided on the City website. Public outreach pertaining to water quality is disseminated frequently by the City Sustainability Commission and their partner organizations. The City Mayor has made sustainability a priority for the City Public Works department and the public-private partnerships they have facilitated have taken the lead in public education.
 
+*Sustainability Commission*
 The Mayor’s Sustainability Commission was established in 2008 to advise the City on sustainable practices. Since that time, the Commission has worked with various groups in the City to develop new environmentally green policies that have positively impacted city government and the residents of Little Rock.
 
-The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately  outreach events in 2018. These include public speaking events at the following locations:
+*LRTV*
+Little Rock TV (LRTV) is a municipal government access channel where the City of Little Rock is able to broadcast public service information as well as televised events to the general public. LRTV has in its program rotation several advertisements related to public education about water quality. The rotation is similar to a slideshow with billboards cycling at 15 to 20 second intervals. The storm water education billboards run inside of of loops 15 to 60 minutes long run 23-24 times per day. The total runtime of these billboards in 2018 would be 36-148 minutes. Examples of the water quality billboards are given in appendix FIXME. Also, as of February 2019, LRTV has included in its programming a short educational video from University of Arkansas Research and Extension (UAEX) entitled *If It Rains It Drains!*
+
+[]FIXME-SAMMYANDWAYNE.png
+
+*Public Outreach Events*
+The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately  outreach events in 2018. Some of these include public speaking events at the following locations:
 
 ### Public Education and Outreach Events<a name="Public-Education-and-Outreach-Events"></a>
 | Date | Group | Location | Attendees |
@@ -283,7 +300,13 @@ Table 7: Public speaking presentations given by the City of Little Rock's recycl
 
 Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
-Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's book with educational material about the importance of our waterways which has been distributed to the following locations:
+F2F
+The City of Little Rock Public Works also participated in the 2018-05-10 Forests to Faucets Festival at Lake Willastein hosted by Central Arkansas Water (CAW). The event was attended by 185 5th graders who spent the day learning about the importance of water and its many uses. The Public Works provided a display and educational presentation about the City of Little Rock MS4, its relationship to the environment and how it is maintained.
+
+[]FIXME-F2F.png
+
+*Private Partners*
+Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's coloring book with educational material about the importance of our waterways which has been distributed to the following locations:
 
 - Audubon Arkansas – Field trip visitors and Afterschool Programs
 
@@ -297,7 +320,7 @@ Non-government organizations assist the City with meeting its water quality goal
 
 - LR Wastewater Reclamation Authority
 
-Audubon Arkansas is also a partner with the local Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In 2018 12 murals were commissioned, and another 18 locations are proposed for 2019.
+Audubon Arkansas is also a partner with the local Drain Smart program, where local artists promote awareness of the MS4 with painted murals on curb inlets with high visibility to the public. In 2018 12 murals were commissioned, and another 6 locations are proposed for 2019.
 
 ## 3.6 Changes to Water Quality<a name="3.6-Changes-to-Water-Quality"></a>
 **Requirement:**
@@ -317,11 +340,12 @@ Approximately $34,170.48 is spent annually to support the Pulaski County RRWRD. 
 >The co-permittees shall ensure the establishment or availability of a program to collect used motor vehicle fluids for recycle or proper disposal. The program will identify locations where used vehicle fluids may be taken for recycling or disposal in accordance with state requirements. The City of Little Rock will publicize materials which can be recycled or disposed, times available to the public for using the facilities, and locations. The annual report shall include the amount of materials collected (weight or volume), the amount of money used for advertising, the method of advertising used to inform the public, and the overall cost of the program.
 
 ## 3.7.1.1 ARDOT Motor Vehicle Fluids<a name="3.7.1.1-ARDOT-Motor-Vehicle-Fluids"></a>
-ARDOT implemented a program to recycle automotive oil as well as oil from its equipment before March 1, 1997. During the 2018, 1,035 gallons of oil and gas products were recycled from equipment used by crews working in Little Rock.
+ARDOT implemented a program to recycle automotive oil as well as oil from its equipment before March 1, 1997. During the 2018, 1,035 gallons of oil and gas products as well as 12,259 gallons of antifreeze were recycled from equipment used by crews working in Little Rock.
 
 ## 3.7.1.2 Little Rock Motor Vehicle Fluids<a name="3.7.1.2-Little-Rock-Motor-Vehicle-Fluids"></a>
- In Little Rock, 7,644 gallons of oil, antifreeze and gasoline were collected by the RRWRD Green Station in 2018. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV. The City does not collect itemized costs of advertising for motor vehicle fluid recycling.
+The City of Little Rock operates and services a substantial fleet of vehicles ranging from police cars to sweepers. The Fleet Services department maintains contracts with waste disposal professionals to manage the large volume of motor vehicle fluids necessary to operate and maintain the City's motor pool.
 
+In an effort to reduce emissions, some of the City of Little Rock's motorpool run on compressed natural gas (CNG). A fueling and service station for these vehicles is located at 501 Ferry Street. Motor vehicle waste from this facility is summarized below:
 ### Recycled Automotive Waste from CNG Facility<a name="Recycled-Automotive-Waste-from-CNG-Facility"></a>
 | Material | Quantity | Measure |
 |---|---|---|
@@ -331,6 +355,7 @@ ARDOT implemented a program to recycle automotive oil as well as oil from its eq
 
 Table 13: Recycled materials from the compressed natural gas fueling facility located at 501 Ferry Street in downtown Little Rock.
 
+The Fleet Services department is located adjacent to Public Works operations and services the majority of the vehicles in the City motor pool. The greatest volume of motor vehicle fluids comes from this facility and is summarized below:
 ### Recycled Automotive Waste from Little Rock Fleet Services Facility<a name="Recycled-Automotive-Waste-from-Little-Rock-Fleet-Services-Facility"></a>
 | Material | Quantity | Measure |
 |---|---|---|
@@ -341,6 +366,7 @@ Table 13: Recycled materials from the compressed natural gas fueling facility lo
 
 Table 15: Recycled materials from the municipal fleet services facility located at 3314 J E Davis.
 
+The Solid Waste services department is located outside of the City of Little Rock; however, their operations serve residents within the city. Their facility services the fleet of trucks which transport waste from homes to the municipal landfill. Motor vehicle waste from this facility is summarized below.
 ### Recycled Automotive Waste from the Municipal Landfill<a name="Recycled-Automotive-Waste-from-the-Municipal-Landfill"></a>
 | Material | Quantity | Measure |
 |---|---|---|
@@ -349,6 +375,8 @@ Table 15: Recycled materials from the municipal fleet services facility located 
 | Used cleaning agents | 117 | gal |
 
 Table 14: Recycled materials from the municipal landfill facility located at 10803 Ironton Cufoff immediately outside of Little Rock.
+
+In Little Rock, 7,644 gallons of oil, antifreeze and gasoline were collected by the RRWRD Green Station in 2018. Recycling of motor vehicle fluids is promoted at the sustainability summit and other speaking events by the City sustainability officer as well as on social media and LRTV; however, itemized costs of advertising for motor vehicle fluid recycling are not collected.
 
 ### 3.7.2 Household Hazardous Waste<a name="3.7.2-Household-Hazardous-Waste"></a>
 **Requirement:**
@@ -373,8 +401,8 @@ Table 3: Summary of waste items collected by Little Rock Green Stations
 **Requirement:**
 >Arkansas State Highway and Transportation Department will inspect the drainage system for which it is responsible at least once/month. The inspections should include a schedule of maintenance for correcting deficiencies in the system.
 
-ARDOT spent $12,902 to purchase materials to construct or repair catch basins, junction boxes, and ditch paving, and to purchase replacement drainage culverts.  ARDOT spent a total of $107,000 for materials and installation and associated ditch cleaning of minor drainage structures.
-ARDOT spent $3,636 to machine clean and reshape existing ditches, remove and properly dispose of 15 CY of excess material.  ARDOT spent $436 to purchase riprap, matting, geotextiles, sod, seed, and fertilizer to repair and prevent ditch and slope erosion.  The total cost of purchase and installation was $4,072.
+ARDOT spent $35,907.98 to purchase materials to construct or repair catch basins, junction boxes, and ditch paving, and to purchase replacement drainage culverts.  ARDOT spent a total of $284,355.37 for materials and installation and associated ditch cleaning of minor drainage structures.
+ARDOT spent $19,511.89 to machine clean and reshape existing ditches, remove and properly dispose of 1,313.5 cubic yards of excess material.  ARDOT spent $2,103.10 to purchase riprap, matting, geotextiles, sod, seed, and fertilizer to repair and prevent ditch and slope erosion.  The total cost of purchase and installation was $20,900.89.
 
 ## 3.8.2 Little Rock Drainage Maintenance Report<a name="3.8.2-Little-Rock-Drainage-Maintenance-Report"></a>
 **Requirement:**
@@ -422,9 +450,11 @@ Additionally, many of the open channels and waterways of the MS4 are within muni
 The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Parks and Recreation has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park. At MacArthur Park, the City Parks and Recreation department has performed monthly sampling of the pond with the assistance of the Arkansas Health Department to measure the efficacy of their campaign to reduce public feeding of geese. The measured quantities of e. coli have reduced over the sampling period, suggesting the campaign is improving water quality within the pond. A summary of results is shown below.
 
 ### E Coli Sampling at MacArthur Park<a name="E-Coli-Sampling-at-MacArthur-Park"></a>
-| Quantity | Units |
-|---|---|
-| 1 | #/ml |
+| Date | Quantity | Units |
+|---|---|---|
+| 2018-09-21 | 461.1 | #/100ml |
+| 2018-11-09 | PRESENT | - |
+| 2018-12-14 | PRESENT | - |
 
 Table 12: The measurements taken at MacArthur Park Pond are not equivalent to the assays taken at the prescribed outfalls. 'Present' indicates that e.coli have been identified by the density of colony-forming-units has not been determined.
 
@@ -438,34 +468,27 @@ The City of Little Rock shall notify construction sites disturbing (clearing, gr
 
 ## 3.9.1 ARDOT New Development Summary<a name="3.9.1-ARDOT-New-Development-Summary"></a>
 The following projects were under contract in Little Rock at various times during 2018:
-- 060395 – Union Pacific RR Overpass (Arch St.) (LR)
-- 061275 – Arkansas River Str. & Apprs. (Broadway) (LR/NLR)
-- 061277 – Union Pacific RR Str. & Apprs (Roosevelt Rd) (LR)
-- 061333 – I-430/Hwy 10 Interchange Impvt. (LR)
-- 061390 – Crooked Creek Channel Impvts. (I-30)
-- 061437 – I-30 / I-430 Interchange Impvt. (LR) (Phase II)
+- BB0618 – I-430/Rodney Parham Road Interchange Improvements (LR)
+- CA0608 – Baptist Hospital – University Avenue (Widening) (LR)
 
 
 Quantities and associated costs of erosion control materials are listed in the table below.
 ### Controls for ARDOT 2017 Projects<a name="Controls-for-ARDOT-2017-Projects"></a>
 | Item | Quantity | Units | Paid Cost |
 |---|---|---|---|
-| Concrete Ditch Paving | 6,056.20 | Square Yards | $422,126.56 |
-| Concrete Riprap | 340.76 | Cubic Yards | $146,424.00 |
-| Drop Inlet Silt Fence | 282.00 | Linear Feet | $2,924.68 |
-| Erosion Control Matting | 561.33 | Square Yards | $2,245.32 |
-| Lime | 21.00 | Tons | $3,412.50 |
-| Mulch Cover | 18.15 | Acres | $16,222.39 |
-| Rock Ditch Checks | 49.37 | Cubic Yards | $3,608.00 |
-| Sand Bag Ditch Checks | 1,482.00 | Bag | $13,893.47 |
-| Sediment Removal & Disposal | 133.00 | Cubic Yards | $2,046.00 |
-| Seeding | 18.34 | Acres | $19,765.26 |
-| Silt Fence | 4,613.00 | Linear Feet | $16,415.43 |
-| Solid Sodding | 4,754.39 | Square Yards | $38,325.53 |
-| Temporary Seeding | 0.33 | Acres | $233.80 |
-| Water | 18.20 | Million Gallons | $96.79 |
-| Wattle | 250.00 | Linear Feet | $2,000.00 |
-| Total |  |  | $689,739.73 |
+| Concrete Ditch Paving | 747.59 | Square Yards | $51,292.09 |
+| Drop Inlet Silt Fence | 404.7 | Linear Feet | $3,642.30 |
+| Dumped Rip Rap | 264.79 | Cubic Yards | $17,974.10 |
+| Filter Sock | 360 | Linear Feet | $2,772.00 |
+| Mulch Cover | 10.14 | Acres | $8,334.18 |
+| Rock Ditch Checks | 5.93 | Cubic Yards | $444.75 |
+| Sand Bag Ditch Checks | 844 | Bag | $7,933.50 |
+| Seeding | 3.61 | Acres | $4,641.30 |
+| Silt Fence | 9,391.00 | Linear Feet | $26,187.37 |
+| Solid Sodding | 1,245.04 | Square Yards | $4,774.69 |
+| Temporary Seeding | 6.24 | Acres | $3,425.76 |
+| Wattle | 300 | Linear Feet | $2,910.00 |
+| Total |  |  | $134,332.04 |
 
 Table 6: Payable quantities of erosion controls used in ARDOT highway construction jobs
 
@@ -480,9 +503,24 @@ Review of stormwater management and drainage plans for new construction projects
 
 ## 3.10.1 ARDOT Roadway Maintenance<a name="3.10.1-ARDOT-Roadway-Maintenance"></a>
 ARDOT reports the following actions to meet this requirement:
-- Spent $700 to purchase material to pickup litter by ARDOT personnel; $342, 428 total cost to pickup litter by ARDOT Personnel and contract; 3,711 CY of litter picked up and disposed of by ARDOT personnel and contract; $0 to purchase materials to pickup litter by jail inmate program.
-- Adopt-A-Highway Litter Pickup:  $653 total cost to provide bags, pick up filled bags and dispose of Adopt-A-Highway litter; The Adopt-A-Highway groups did not report the amount of litter they collected.  There are currently 27 Adopt-A-Highway groups in Little Rock who have adopted 37 Miles of highway.
-- Street Sweeping: ARDOT spent $205,992 total cost to operate 2 vacuum sweepers in Little Rock which picked up 1,559 CYs of debris during the year.
+- Spent $972.77 to purchase material to pickup litter by ARDOT personnel;  total cost to pickup litter by ARDOT Personnel and contract; 5,861.5 cubic yards of litter picked up and disposed of by ARDOT personnel and contract; $0 to purchase materials to pickup litter by jail inmate program.
+- ARDOT in cooperation with the Arkansas Beautiful Commission promotes an Anti-Litter Program to encourage people not to litter and to cite those people who do litter.  This program includes training for law enforcement personnel, advertising anti-littering laws, enforcement awards, prisoner litter pick, and a violator reporting system.
+- Adopt-A-Highway Litter Pickup: $550.58 total cost to provide bags, pick up filled bags and dispose of Adopt-A-Highway litter; The Adopt-A-Highway groups did not report the amount of litter they collected.  There are currently  Adopt-A-Highway groups in Little Rock who have adopted 25 miles of highway.
+- Street Sweeping: ARDOT spent $217,619.60 total cost to operate 2 vacuum sweepers in Little Rock which picked up 1,233.5 cubic yards of debris during the year.
+-The Department conducts herbicide applications with 51 certified applicators under Arkansas State Plant Board regulations as well as the requirements of the NPDES Pesticide Permit.  Fertilizers are applied at the minimum rate necessary according to the guidelines contained in the Department’s Standard Specifications manual.
+
+ARDOT also reports the following 'problem areas' for roadway maintenance for 2018
+
+- I-430 river crossing - limited shoulder space and high traffic
+
+- I-30 south terminal - limited shoulder space and high traffic
+
+- South terminal interchange - limited shoulder space and high traffic
+
+- I-630/I-30 itnerchange - limited shoulder space and high traffic
+
+- Hwy 10 - leaves and lawn debris in gutters and high traffic
+
 
 ## 3.10.2 Little Rock Roadway Maintenance<a name="3.10.2-Little-Rock-Roadway-Maintenance"></a>
 The City of Little Rock services public streets through cleaning, debris removal and repair. Streets are maintained by City employees with assistance provided by volunteers organized by community members, local non-profits and City staff.
@@ -509,22 +547,26 @@ The City of Little Rock reports no flood control projects for 2018.
 ## 3.12.1 ARDOT Spill Response Summary<a name="3.12.1-ARDOT-Spill-Response-Summary"></a>
 ARDOT reports any spills to ADEQ and it participates in the “Keep Arkansas Beautiful” Program. It provides annual training for maintenance personnel in the identification and reporting of illicit discharges into the Department right-of-way.
 
+ARDOT has an Oil Spill Prevention and Response Plan that is carried in ARDOT tanker vehicles and tanker vehicle operators are trained in that plan. The Environmental Division provides annual training in Spill Prevention Control and Countermeasures to maintenance personnel in the District and assists District personnel in the maintenance of Pollution Prevention Manuals at each maintenance facility.
+
 Members of the Department’s NPDES Section provided annual training, including illicit discharge detection and reporting for District 6 maintenance personnel on February 13, 2019. A make-up training class will be provided on April 24, 2019. The PowerPoint slides used in the training will be posted on the Maintenance Local Area Network for later review by district personnel and a roster of personnel trained will be maintained.
 
 ## 3.12.2 Little Rock Spill Response Summary<a name="3.12.2-Little-Rock-Spill-Response-Summary"></a>
 The City of Little Rock identifies spills by public reporting through 3-1-1 as well as by observations made by City personnel. Spill reports are investigated by the City Public Works, and upon identification of an unlawful discharge into the MS4, ADEQ is provided notification within 24 hours. Following the initial notification, the City conducts enforcement actions and investigation necessary to mitigate the spill. A formal written response is provided to ADEQ Water Quality division within 5 working days of the initial notification. Records of notices of violation and relevant documentation are maintained at the City Public Works. A summary of spill responses is given in the table below.
 
 ### Unlawful Discharge Summary<a name="Unlawful-Discharge-Summary"></a>
-| Date | Location | Type of Discharge | Result |
+| Date | Location | Violation | Result |
 |---|---|---|---|
-| 3/28/2017 | 811 E 6th Street | Carwash | Drain repaired |
-| 8/7/2017 | 1400 N Pierce St | Oil | Cleaned, contained |
-| 8/14/2017 | 4000 N Rodney Parham | Construction washout | Discharge halted |
-| 9/5/2017 | 5901 Sloane Drive | Food waste | Cleaned, contained |
-| 9/13/2017 | 106 S Rodney Parham | Food waste | Cleaned, contained |
-| 12/8/2017 | 5001 W 65th Street | Sanitary sewage | Pipe repaired, area cleaned |
-| 12/15/2017 | 2618 Shackleford | Sanitary sewage | Pipe repaired, area cleaned |
-| 12/28/2017 | 3024 Cantrell Road | Sanitary sewage | Pipe repaired, area cleaned |
+| 4/23/2018 | 16000 Rushmore Avenue | Sediment | Controls installed, sediment removed |
+| 4/25/2018 | 11700 Shady Creek Drive | Cleaning chemicals | Notice issued, BMPs amended |
+| 4/25/2018 | 2311 Cumberland Street | Sanitary Sewage | Service line repaired |
+| 4/27/2018 | 11300 Bass Pro Parkway | Food waste, grease | Waste removed, containment provided |
+| 5/7/2018 | 13500 Chenal Parkway | Cleaning chemicals | Notice issued, BMPs amended |
+| 8/20/2018 | 12400 Cantrell Road | Sediment | Controls installed, sediment removed |
+| 9/11/2018 | 4100 W 98th Street | Sediment | Pending trial |
+| 10/8/2018 | Piper Lane | Construction washout | Paint washout cleaned and washout installed |
+| 10/10/2018 | 10920 Financial Centre Parkway | Food waste, grease | New service line installed |
+| 11/15/2018 | 8624 W 32nd St | Sediment | Fill removed from MS4 |
 
 Table 8: Summary of stormwater ordinances for unlawful discharges during the permit year
 
@@ -536,26 +578,37 @@ The annual report will include the number of permits issued, the total permitted
 
 ## 3.13.1 ARDOT Construction Runoff Reduction<a name="3.13.1-ARDOT-Construction-Runoff-Reduction"></a>
 **Requirement:**
->SWMP Reporting Requirement:  The Department of Transportation will report annually any revisions to the Standard Specifications for Highway Construction that incorporate new BMPs for construction site runoff and erosion control.
 
-Program Activities:
+SWMP Reporting Requirement:
+>The Department of Transportation will report annually any revisions to the Standard Specifications for Highway Construction that incorporate new BMPs for construction site runoff and erosion control.
+
+*Program Activities:*
+
 The ArDOT Standard Specifications were revised and took effect in April 2014. Wattles, Triangular Silt Dikes, and Filter Socks are included in the new Standard Specifications as approved BMPs and are being used on ArDOT construction jobs.  Also, the hydraulically applied erosion control products (HECPs) are being used on ArDOT construction jobs and their effectiveness evaluated on those projects. A Special Provision for Removing and Replacing Topsoil will be incorporated on jobs as project location and size permits.
 
-The Erosion and Sediment Control Design and Construction Manual was updated in December of 2016. ArDOT incorporates erosion control measures into all construction contracts and obtains all necessary permits for work within the Department rights-of-way.  Contractors are required to obtain all necessary permits including ADEQ general storm water permits for any work beyond the rights-of-way such as; borrow pits, stockpile locations, and waste areas. The update includes the newly revised Construction General Permit (ARR150000), Short Term Activity Authorization (STAA) guidance, and updated Best Management Practices. In addition, a Special Provision requiring contractors of ArDOT jobs disturbing an acre or more soil to be certified by the Center for Training Transportation Professionals Training (CTTP) has been implemented for all jobs let after October 1, 2019.
-SWMP Reporting Requirement:  The Department of Transportation will report annually the course description and dates of construction site runoff training classes conducted for its personnel within the geographical area covered by the Permit.
-Program Activities:
+The Erosion and Sediment Control Design and Construction Manual was updated in December of 2016. ArDOT incorporates erosion control measures into all construction contracts and obtains all necessary permits for work within the Department rights-of-way.  Contractors are required to obtain all necessary permits including ADEQ general storm water permits for any work beyond the rights-of-way such as; borrow pits, stockpile locations, and waste areas. The update includes the newly revised Construction General Permit (ARR150000), Short Term Activity Authorization (STAA) guidance, and updated Best Management Practices. In addition, a Special Provision requiring contractors of ArDOT jobs disturbing an acre or more soil to be certified by the Center for Training Transportation Professionals Training (CTTP) has been implemented for all jobs let after October 1, 2018.
+
+SWMP Reporting Requirement:
+>The Department of Transportation will report annually the course description and dates of construction site runoff training classes conducted for its personnel within the geographical area covered by the Permit.
+
+*Program Activities:*
+
 Beginning in February 2010, the Department instituted an erosion and sediment control training and certification course through the University of Arkansas Center for Training Transportation Professionals (CTTP) to train and certify construction and maintenance personnel. The CTTP training is also open to Department contractors.  Additionally, annual NPDES Stormwater training was developed and provided by personnel from the Department’s Environmental Division. In-person training for Maintenance and Construction personnel was conducted on February 13, 2019 and Make-up training will be on April 24, 2019. The PowerPoint slides used in the trainings will be posted on the Maintenance Local Area Network (LAN); and Construction training is provided on the Construction LAN. Training rosters are maintained for all employees who attended or completed annual maintenance or construction training.
-SWMP Reporting Requirement: The Department of Transportation will report annually the job numbers, job locations, and dates of site visits.
-Program Activities:
+
+SWMP Reporting Requirement:
+>The Department of Transportation will report annually the job numbers, job locations, and dates of site visits.
+
+*Program Activities:*
+
 Members of the Department’s Environmental Division visited the following area jobs during the Permit year. Job 061102 was visited since there were few active jobs within the city of Little Rock; however the job is within the highly urbanized area.
 ### ARDOT Construction Site Visits<a name="ARDOT-Construction-Site-Visits"></a>
 | Date | Location | Job Number |
 |---|---|---|
-| 3/2/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
-| 6/21/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
-| 9/20/2017 | Union Pacific RR Overpass (Arch St.)(LR) (S) | 060395 |
-| 10/3/2017 | Hwy. 67 Interchange (Cabot) | 061102 |
-| 1/25/2018 | Hwy. 67 Interchange (Cabot) | 061102 |
+| 3/14/2018 | Hwy. 67 Interchange (Cabot) | 61102 |
+| 6/24/2018 | Hwy. 67 Interchange (Cabot) | 61102 |
+| 7/18/2018 | Baptist Hospital-University Ave. | CA0608 |
+| 11/28/2018 | Baptist Hospital-University Ave. | CA0608 |
+| 11/28/2018 | I-430 Rodney Parham Rd. Intchng. Imprvts. (S) | BB0618 |
 
 Table 9: Dates of inspections by location
 
