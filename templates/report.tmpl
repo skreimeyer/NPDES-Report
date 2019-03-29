@@ -114,7 +114,7 @@
 
 # Table of Figures<a name="Table-of-Figures"></a>
 
-{% for key,val in figures.items() -%}
+{% for key,val in figures.items() %}
 [Figure {{val.index}}: {{val.title}}](#{{val.title|slugify}})
 {% endfor %}
 
@@ -207,7 +207,10 @@ The Mayor’s Sustainability Commission was established in 2008 to advise the Ci
 *LRTV*
 Little Rock TV (LRTV) is a municipal government access channel where the City of Little Rock is able to broadcast public service information as well as televised events to the general public. LRTV has in its program rotation several advertisements related to public education about water quality. The rotation is similar to a slideshow with billboards cycling at 15 to 20 second intervals. The storm water education billboards run inside of of loops 15 to 60 minutes long run 23-24 times per day. The total runtime of these billboards in {{meta.year}} would be 36-148 minutes. Examples of the water quality billboards are given in appendix FIXME. Also, as of February 2019, LRTV has included in its programming a short educational video from University of Arkansas Research and Extension (UAEX) entitled *If It Rains It Drains!*
 
-[]FIXME-SAMMYANDWAYNE.png
+{% set fig = 'uaex' %}
+<a name="{{figures[fig].title|slugify}}"></a>
+![{{figures[fig].title}}]({{figures[fig].location}} "{{figures[fig].title}}")
+Figure {{figures[fig].index}}: {{figures[fig].caption}}
 
 *Public Outreach Events*
 The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately {{sustainabilityEvents}} outreach events in {{meta.year}}. Some of these include public speaking events at the following locations:
@@ -216,10 +219,12 @@ The City sustainability officer and sustainability educator hosted or are were f
 
 Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
-F2F
 The City of Little Rock Public Works also participated in the {{CLR.f2f.date}} Forests to Faucets Festival at Lake Willastein hosted by Central Arkansas Water (CAW). The event was attended by {{CLR.f2f.students}} 5th graders who spent the day learning about the importance of water and its many uses. The Public Works provided a display and educational presentation about the City of Little Rock MS4, its relationship to the environment and how it is maintained.
 
-[]FIXME-F2F.png
+{% set fig = 'f2f' %}
+<a name="{{figures[fig].title|slugify}}"></a>
+![{{figures[fig].title}}]({{figures[fig].location}} "{{figures[fig].title}}")
+Figure {{figures[fig].index}}: {{figures[fig].caption}}
 
 *Private Partners*
 Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's coloring book with educational material about the importance of our waterways which has been distributed to the following locations:
@@ -298,7 +303,7 @@ The requests for maintenance in the 3-1-1 service only partially address the sco
 
 Additionally, many of the open channels and waterways of the MS4 are within municipal parks. The {{CLR.parks.employees}} employees of the Parks and Recreation department provide intensive maintainenance, including litter removal and mowing, of the {{CLR.parks.developed}} of developed park land and also monitor and maintain the {{CLR.parks.undeveloped}} of undeveloped parks with the City of Little Rock.
 
-The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Parks and Recreation has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park. At MacArthur Park, the City Parks and Recreation department has performed monthly sampling of the pond with the assistance of the Arkansas Health Department to measure the efficacy of their campaign to reduce public feeding of geese. The measured quantities of e. coli have reduced over the sampling period, suggesting the campaign is improving water quality within the pond. A summary of results is shown below.
+The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Parks and Recreation has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park. At MacArthur Park, the City Parks and Recreation department has performed monthly sampling of the pond with the assistance of the Arkansas Health Department to measure the efficacy of their campaign to reduce public feeding of geese. The data is not sufficient to demonstrate change of the water quality within the pond; however, continued monitoring is planned for the following year. A summary of results is shown below.
 
 {{tables.macarthur|maketable}}
 

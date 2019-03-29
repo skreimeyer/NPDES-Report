@@ -114,8 +114,12 @@
 
 # Table of Figures<a name="Table-of-Figures"></a>
 
+
 [Figure 1: Water Quality Parameters for 2018](#Water-Quality-Parameters-for-2018)
-[Figure 2: TODO](#TODO)
+
+[Figure 2: UAEX education video](#UAEX-education-video)
+
+[Figure 3: Forests to Faucets Festival](#Forests-to-Faucets-Festival)
 
 
 # Table of Tables<a name="Table-of-Tables"></a>
@@ -261,7 +265,10 @@ The Mayor’s Sustainability Commission was established in 2008 to advise the Ci
 *LRTV*
 Little Rock TV (LRTV) is a municipal government access channel where the City of Little Rock is able to broadcast public service information as well as televised events to the general public. LRTV has in its program rotation several advertisements related to public education about water quality. The rotation is similar to a slideshow with billboards cycling at 15 to 20 second intervals. The storm water education billboards run inside of of loops 15 to 60 minutes long run 23-24 times per day. The total runtime of these billboards in 2018 would be 36-148 minutes. Examples of the water quality billboards are given in appendix FIXME. Also, as of February 2019, LRTV has included in its programming a short educational video from University of Arkansas Research and Extension (UAEX) entitled *If It Rains It Drains!*
 
-[]FIXME-SAMMYANDWAYNE.png
+
+<a name="UAEX-education-video"></a>
+![UAEX education video](assets/images/Sammy and Wayne.png "UAEX education video")
+Figure 2: Educational video developed by UAEX to promote water quality education shown on LRTV.
 
 *Public Outreach Events*
 The City sustainability officer and sustainability educator hosted or are were featured speakers at approximately  outreach events in 2018. Some of these include public speaking events at the following locations:
@@ -300,10 +307,12 @@ Table 7: Public speaking presentations given by the City of Little Rock's recycl
 
 Topics included recycling, sustainability, water quality and other topics outlined in the commission’s Roadmap To 2020. Aside from speaking, the sustainability officers also provide promotional content for social media and the City Government Access Channel (LRTV).
 
-F2F
 The City of Little Rock Public Works also participated in the 2018-05-10 Forests to Faucets Festival at Lake Willastein hosted by Central Arkansas Water (CAW). The event was attended by 185 5th graders who spent the day learning about the importance of water and its many uses. The Public Works provided a display and educational presentation about the City of Little Rock MS4, its relationship to the environment and how it is maintained.
 
-[]FIXME-F2F.png
+
+<a name="Forests-to-Faucets-Festival"></a>
+![Forests to Faucets Festival](assets/images/Forests to Faucets.jpg "Forests to Faucets Festival")
+Figure 3: Public Works staff demonstrates a small model storm sewer system to 5th grade students.
 
 *Private Partners*
 Non-government organizations assist the City with meeting its water quality goals directly through cleanups, such as Friends of Fourche Creek (FoFC) and the Keep Little Rock Beautiful (KLRB), as well as promotional and educational activity. FoFC regularly communicates with the public about floatables and othe risks to waterways through Facebook and television and radio interviews. With a small grant from the City of Little Rock Public Works, Audubon Arkansas has produced a children's coloring book with educational material about the importance of our waterways which has been distributed to the following locations:
@@ -447,7 +456,7 @@ Table 5: Unit quantities and costs associated directly with the maintenance of t
 
 Additionally, many of the open channels and waterways of the MS4 are within municipal parks. The 49 employees of the Parks and Recreation department provide intensive maintainenance, including litter removal and mowing, of the 4,200 acres of developed park land and also monitor and maintain the 1,900 acres of undeveloped parks with the City of Little Rock.
 
-The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Parks and Recreation has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park. At MacArthur Park, the City Parks and Recreation department has performed monthly sampling of the pond with the assistance of the Arkansas Health Department to measure the efficacy of their campaign to reduce public feeding of geese. The measured quantities of e. coli have reduced over the sampling period, suggesting the campaign is improving water quality within the pond. A summary of results is shown below.
+The City Parks and Recreation department provides weekly as well as post-event maintenance of War Memorial Park, which includes the ponds along Coleman Creek. Parks and Recreation has removed sediments and organic matter from the floor of the pond once in 2004 and again in 2009 to preserve fish habitat. The discharge from these ponds is also naturally filtered by the bioswale located downstream of a splash pad within the park. At MacArthur Park, the City Parks and Recreation department has performed monthly sampling of the pond with the assistance of the Arkansas Health Department to measure the efficacy of their campaign to reduce public feeding of geese. The data is not sufficient to demonstrate change of the water quality within the pond; however, continued monitoring is planned for the following year. A summary of results is shown below.
 
 ### E Coli Sampling at MacArthur Park<a name="E-Coli-Sampling-at-MacArthur-Park"></a>
 | Date | Quantity | Units |
@@ -641,26 +650,28 @@ All discharge samples were collected during rain events which exceeded 0.1in of 
 
 
 ### Storm Event Data<a name="Storm-Event-Data"></a>
-| Location | Sample Date | Average Rainfall(in) | Estimated Discharge | Most Recent Rain Event | Time Difference |
-|---|---|---|---|---|---|
-| outfall 1 | 3/6/2017 | 0.385 | 12.9 Mgal | 3/5/2017 | 1 days |
-| outfall 1 | 6/19/2017 | 0.576667 | 0.1 Mgal | 6/13/2017 | 6 days |
-| outfall 1 | 10/27/2017 | 0.062 | 17,000 gal | 10/22/2017 | 5 days | ['outfall 1'] | 12/22/2017 | 1 | 4,000 gal | 12/20/2017 | 2 days |
-| outfall 2 | 3/6/2017 | 0.385 | 1.6 Mgal | 3/5/2017 | 1 days |
-| outfall 2 | 6/19/2017 | 0.576667 | 4,500 gal | 6/13/2017 | 6 days |
-| outfall 2 | 10/27/2017 | 0.062 | 6,000 gal | 10/22/2017 | 5 days |
-| outfall 2 | 12/22/2017 | 1 | 4,000 gal | 12/20/2017 | 2 days |
-| outfall 3 | 3/6/2017 | 0.385 | 0.6 Mgal | 3/5/2017 | 1 days |
-| outfall 3 | 6/19/2017 | 0.576667 | 0.2 Mgal | 6/13/2017 | 6 days |
-| outfall 3 | 10/27/2017 | 0.062 | 9,590 gal | 10/22/2017 | 5 days |
-| outfall 3 | 12/22/2017 | 1 | 1,800 gal | 12/20/2017 | 2 days |
-| outfall 5 | 3/6/2017 | 0.385 | 0.6 Mgal | 3/5/2017 | 1 days |
-| outfall 5 | 6/19/2017 | 0.576667 | 1,000 gal | 6/13/2017 | 6 days |
-| outfall 5 | 10/27/2017 | 0.062 | 5,000 gal | 10/22/2017 | 5 days |
-| outfall 5 | 12/22/2017 | 1 | 1,800 gal | 12/20/2017 | 2 days |
-| outfall 6 | 3/6/2017 | 0.385 | 3.4 Mgal | 3/5/2017 | 1 days |
-| outfall 6 | 7/5/2017 | 0.571667 | 9,500 gal | 7/4/2017 | 1 days |
-| outfall 6 | 12/22/2017 | 1 | 4,300 gal | 12/20/2017 | 2 days |
+| Sample Location |  Date | 	Event duration (hrs) | 	Rainfall (in) | 	Days Since Most Recent | 	Volume (gal) |  |
+|---|---|---|---|---|---|---|
+| 1 | 	4/25/2018 | 	10 | 	0.57 | 	4 | 	14400 |
+| 2 | 	4/25/2018 | 	10 | 	0.57 | 	4 | 	12342 |
+| 3 | 	4/25/2018 | 	10 | 	0.57 | 	4 | 	6163 |
+| 5 | 	4/25/2018 | 	10 | 	0.57 | 	4 | 	3744 |
+| 6 | 	4/25/2018 | 	10 | 	0.57 | 	4 | 	8640 |
+| 1 | 	6/8/2018 | 	0.75 | 	0.13 | 	7 | 	2880 |
+| 2 | 	6/8/2018 | 	0.75 | 	0.13 | 	7 | 	7200 |
+| 3 | 	6/8/2018 | 	0.75 | 	0.13 | 	7 | 	3600 |
+| 5 | 	7/18/2018 | 	2 | 	1.25 | 	1 | 	144 |
+| 6 | 	8/9/2018 | 	4.5 | 	1.4 | 	4 | 	6384 |
+| 1 | 	10/15/2018 | 	2 | 	1.64 | 	2 | 	5166720 |
+| 2 | 	10/15/2018 | 	2 | 	1.64 | 	2 | 	4636800 |
+| 3 | 	10/15/2018 | 	2 | 	1.64 | 	2 | 	4636800 |
+| 5 | 	10/15/2018 | 	2 | 	1.64 | 	2 | 	3137760 |
+| 6 | 	10/15/2018 | 	2 | 	1.64 | 	2 | 	1738080 |
+| 1 | 	2/7/2019 | 	4 | 	0.78 | 	11 | 	586080 |
+| 2 | 	2/7/2019 | 	4 | 	0.78 | 	11 | 	40320 |
+| 3 | 	2/7/2019 | 	4 | 	0.78 | 	11 | 	1520 |
+| 5 | 	2/7/2019 | 	4 | 	0.78 | 	11 | 	14400 |
+| 6 | 	2/7/2019 | 	4 | 	0.78 | 	11 | 	21600 |
 
 Table 10: Precipitation summaries and discharge estimates for each sampled outfall
 

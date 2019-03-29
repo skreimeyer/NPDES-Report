@@ -259,7 +259,7 @@ def format_out(df, start, end=datetime.now()):
 
 
 if __name__ == "__main__":
-    year = 2018
+    year = 2014
     N = 16
     theta = radar_factory(N, frame="circle")
     # Normalize source data and write to a csv if not detected.

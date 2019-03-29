@@ -174,12 +174,17 @@ tables:
     caption: "Recycled materials from the municipal fleet services facility located at 3314 J E Davis."
 figures:
   waterQuality:
-    index: 1 # Unnecessary if order is preserved
+    index: 1
     title: "Water Quality Parameters for 2018"
     caption: "Normalized measurements of water quality parameters"
     location: "figures/radar_2018.png"
-  placeHolder:
-    index: 2 # Unnecessary if order is preserved
-    title: "TODO"
-    caption: "TODO"
-    location: "./static/radar.png"
+  uaex:
+    index: 2
+    title: "UAEX education video"
+    caption: "Educational video developed by UAEX to promote water quality education shown on LRTV."
+    location: "assets/images/Sammy and Wayne.png"
+  f2f:
+    index: 3
+    title: "Forests to Faucets Festival"
+    caption: "Public Works staff demonstrates a small model storm sewer system to 5th grade students."
+    location: "assets/images/Forests to Faucets.jpg"
