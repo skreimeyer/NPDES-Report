@@ -8,6 +8,9 @@ saved to the 'figures' folder.
 
 import pandas as pd
 import matplotlib.pyplot as plt
+from scipy import signal
+
+import pdb
 
 df = pd.read_csv("../data/CLR DMR.csv")
 
@@ -24,37 +27,46 @@ for p in ['Pb']: # FIXME
 # for p in params:
     localframe = df.loc[df['Parameter']==p]
     unit = localframe.iloc[1]['Unit']
-    # make seasonal graph
-    ax = localframe.boxplot(
-    column='Value',
-    by='Season',
-    showfliers=False)
-    ax.set_title(f'Seasonal Distribution for {p}')
-    ax.set_ylabel(unit)
-    plt.suptitle("") #  clear the automatic title
-    ax.figure.savefig(f'../figures/seasonal-{p}.png')
-    plt.cla()
-    plt.clf()
-    # make location graph
-    ax = localframe.boxplot(
-    column='Value',
-    by='Location',
-    showfliers=False)
-    ax.set_title(f'Regional Distribution for {p}')
-    ax.set_xticklabels(["01","02","03","06","05"]) # readable labels
-    ax.set_ylabel(unit)
-    plt.suptitle("") # clear the automatic title
-    ax.figure.savefig(f'../figures/regional-{p}.png')
-    plt.cla()
-    plt.clf()
+    # # make seasonal graph
+    # ax = localframe.boxplot(
+    # column='Value',
+    # by='Season',
+    # showfliers=False)
+    # ax.set_title(f'Seasonal Distribution for {p}')
+    # ax.set_ylabel(unit)
+    # plt.suptitle("") #  clear the automatic title
+    # ax.figure.savefig(f'../figures/seasonal-{p}.png')
+    # plt.cla()
+    # plt.clf()
+    # # make location graph
+    # ax = localframe.boxplot(
+    # column='Value',
+    # by='Location',
+    # showfliers=False)
+    # ax.set_title(f'Regional Distribution for {p}')
+    # ax.set_xticklabels(["01","02","03","06","05"]) # readable labels
+    # ax.set_ylabel(unit)
+    # plt.suptitle("") # clear the automatic title
+    # ax.figure.savefig(f'../figures/regional-{p}.png')
+    # plt.cla()
+    # plt.clf()
 # OK UP TO HERE ^^^
-#     # Now the time-series
-#     fig1,ax1 = plt.subplots(figsize=(6,4),dpi=300)
-#     ax1.set_title(f'Time-Series Analysis of {p} Within MS4',size=24)
-#     ax1.set_ylabel(f'{unit}')
-#     ax1.set_xlabel('Date')
-#     medians = localframe.groupby('Date').median()
-#     smoothed_medians = signal.savgol_filter(medians,51,3)
+    # Now the time-series
+    fig1,ax1 = plt.subplots(figsize=(6,4),dpi=300)
+    ax1.set_title(f'Time-Series Analysis of {p} Within MS4',size=24)
+    ax1.set_ylabel(f'{unit}')
+    ax1.set_xlabel('Date')
+    locations = localframe['Location'].unique()
+    medians = localframe.groupby('Date').median()
+    smoothed_medians = signal.savgol_filter(medians['Value'],51,3)
+    x_vals = localframe['Date'].unique() # order preserved. Groupby instead?
+    ax1.plot(x_vals,smoothed_medians)
+    for l in locations:
+        y_vals = localframe.loc[localframe['Location']==l]['Value']
+        ax1.scatter(x_vals,y_vals)
+    fig1.savefig('test.png')
+
+
 
 
 
