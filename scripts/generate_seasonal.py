@@ -21,26 +21,27 @@ df['Season'] = df['Season'].apply(lambda x: seasonmap[x])
 
 # Make these new fields instead and work on main dataframe
 # Main loop
-for p in params:
-    localframe = df.loc[df['Parameter']==p]
-    unit = localframe.iloc[1]['Unit']
-    # make seasonal graph
-    ax = localframe.boxplot(column='Value',by='Season')
-    ax.figure.savefig(f'../figures/seasonal-{p}.png')
-    plt.cla()
-    plt.clf()
-    # make location graph
-    ax = localframe.boxplot(column='Value',by='Location')
-    ax.figure.savefig(f'../figures/seasonal-{p}.png')
-    plt.cla()
-    plt.clf()
-    # Now the time-series
-    fig1,ax1 = plt.subplots(figsize=(6,4),dpi=300)
-    ax1.set_title(f'Time-Series Analysis of {p} Within MS4',size=24)
-    ax1.set_ylabel(f'{unit}')
-    ax1.set_xlabel('Date')
-    medians = localframe.groupby('Date').median()
-    smoothed_medians = signal.savgol_filter(medians,51,3)
+# for p in params:
+#     localframe = df.loc[df['Parameter']==p]
+#     unit = localframe.iloc[1]['Unit']
+#     # make seasonal graph
+#     ax = localframe.boxplot(column='Value',by='Season')
+#     ax.figure.savefig(f'../figures/seasonal-{p}.png')
+#     plt.cla()
+#     plt.clf()
+#     # make location graph
+#     ax = localframe.boxplot(column='Value',by='Location')
+#     ax.figure.savefig(f'../figures/seasonal-{p}.png')
+#     plt.cla()
+#     plt.clf()
+# OK UP TO HERE ^^^
+#     # Now the time-series
+#     fig1,ax1 = plt.subplots(figsize=(6,4),dpi=300)
+#     ax1.set_title(f'Time-Series Analysis of {p} Within MS4',size=24)
+#     ax1.set_ylabel(f'{unit}')
+#     ax1.set_xlabel('Date')
+#     medians = localframe.groupby('Date').median()
+#     smoothed_medians = signal.savgol_filter(medians,51,3)
 
 
 
