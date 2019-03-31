@@ -19,21 +19,34 @@ seasonmap = {2:'Winter',5:'Spring',8:'Summer',11:'Fall'}
 df['Season'] = df['Date'].dt.month # intermediate step
 df['Season'] = df['Season'].apply(lambda x: seasonmap[x])
 
-# Make these new fields instead and work on main dataframe
 # Main loop
+for p in ['Pb']: # FIXME
 # for p in params:
-#     localframe = df.loc[df['Parameter']==p]
-#     unit = localframe.iloc[1]['Unit']
-#     # make seasonal graph
-#     ax = localframe.boxplot(column='Value',by='Season')
-#     ax.figure.savefig(f'../figures/seasonal-{p}.png')
-#     plt.cla()
-#     plt.clf()
-#     # make location graph
-#     ax = localframe.boxplot(column='Value',by='Location')
-#     ax.figure.savefig(f'../figures/seasonal-{p}.png')
-#     plt.cla()
-#     plt.clf()
+    localframe = df.loc[df['Parameter']==p]
+    unit = localframe.iloc[1]['Unit']
+    # make seasonal graph
+    ax = localframe.boxplot(
+    column='Value',
+    by='Season',
+    showfliers=False)
+    ax.set_title(f'Seasonal Distribution for {p}')
+    ax.set_ylabel(unit)
+    plt.suptitle("") #  clear the automatic title
+    ax.figure.savefig(f'../figures/seasonal-{p}.png')
+    plt.cla()
+    plt.clf()
+    # make location graph
+    ax = localframe.boxplot(
+    column='Value',
+    by='Location',
+    showfliers=False)
+    ax.set_title(f'Regional Distribution for {p}')
+    ax.set_xticklabels(["01","02","03","06","05"]) # readable labels
+    ax.set_ylabel(unit)
+    plt.suptitle("") # clear the automatic title
+    ax.figure.savefig(f'../figures/regional-{p}.png')
+    plt.cla()
+    plt.clf()
 # OK UP TO HERE ^^^
 #     # Now the time-series
 #     fig1,ax1 = plt.subplots(figsize=(6,4),dpi=300)
@@ -52,10 +65,3 @@ df['Season'] = df['Season'].apply(lambda x: seasonmap[x])
 
 # What so far has not:
 # fig,ax = plt.subplots() -> ax.boxplot(series) -> fig.savefig()
-
-# Always call plt.cla() + plt.clf()
-
-# solution for by-location:
-# for param:
-# df.boxplot(column='Value',by='Location',showfliers=False,)
-# plt.cla() plt.clf()
