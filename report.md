@@ -164,6 +164,7 @@ The City of Little Rock (City) and the Arkansas Department of Transportation (AR
 Each section of this report follows the reporting requirements as identified in section 6.9 of the Permit. For clarity, the requirements as given in the permit are shown in quotes, followed by a description of compliance activity associated with the requirement. Where separate reporting by the co-permittees is required, subsections for each permittee are provided.
 
 **Requirement**:
+
 >Annual Report - Each co-permittee shall contribute to the preparation of an annual system-wide report to be submitted by April 1 of each year between the effective date of the permit and the date of expiration. The report shall be in the form as outlined in the SWQMP and shall include the following separate sections, with an overview for the entire MS4 and subsections for the co-permittees where applicable.
 Preparation and submittal of a system-wide annual report shall be conducted by the co-permittees. The report shall indicate if the co-permittees have failed to provide required information on the portions of the MS4 for which they are responsible. The co-permittees shall be responsible for timely submittal of the system-wide report. Each co-permittee shall be responsible for content of the report relating to the portions of the MS4 for which it is responsible, and for failure to provide information for the system-wide annual report. Each co-permittee shall sign and certify their portion of the annual report.
 
@@ -174,18 +175,21 @@ The City and ARDOT have provided policies and ordinances to ensure compliance wi
 
 ## 3.1 Changes to Sormwater Quality Management Program<a name="3.1-Changes-to-Sormwater-Quality-Management-Program"></a>
 **Requirement:**
+
 >Proposed changes to the stormwater quality management programs that are established as permit conditions, including an update on areas added to the MS4 due to annexation or other legal means
 
 The City of Little Rock and ARDOT propose no changes to the SWQMP for 2018. Approximately 0 acres of land was annexed into the City of Little Rock during 2018. A map of annexations to Little Rock is given in Appendix B.
 
 ## 3.2 Revisions to Assessments and Fiscal Analysis<a name="3.2-Revisions-to-Assessments-and-Fiscal-Analysis"></a>
 **Requirement:**
+
 >Revisions, if necessary, to the assessments of controls and the fiscal analysis reported in the permit application under 40 CFR 122.26 (d)(2)(v) and 40 CFR 122.26 (d)(2)(vi)
 
 The City of Little Rock and ARDOT propose no revisions to the assessments of controls and fiscal analysis of the permit application.
 
 ## 3.3 Discharge Monitoring Report Summary<a name="3.3-Discharge-Monitoring-Report-Summary"></a>
 **Requirement:**
+
 >A summary of the data, including monitoring data that is accumulated throughout the reporting year
 
 Discharge sampling shows a high level of variability between sampling locations and between sampling periods. City staff has not determined any consistent correlation between sampling locations and measured parameters.
@@ -195,12 +199,14 @@ Figure 1 presents all reported measurements represented as a percentage of recom
 
 <a name="Water-Quality-Parameters-for-2018"></a>
 ![Water Quality Parameters for 2018](figures/radar_2018.png "Water Quality Parameters for 2018")
+
 Figure 1: Normalized measurements of water quality parameters
 
 Additional tables and charts of discharge monitoring are provided in Appendix C.
 
 ## 3.4 MS4 Budget Summary<a name="3.4-MS4-Budget-Summary"></a>
 **Requirement:**
+
 >Estimated annual expenditures and projected budget for the year following each annual report.
 
 ARDOT costs to implement with SWMP part of the general operating budget are anticipated to be approximately $900,000 for the upcoming permit year. ARDOT has 3 crews with a total of 58 personnel dedicated to working in the Little Rock metropolitan area that have an annual salary of approximately $1,948,000.  These crews can be supported by other crews that are assigned as needed throughout District Six.
@@ -230,6 +236,7 @@ Table 1: Operating expenses directly and indirectly related to MS4 maintenance
 
 ## 3.5 Enforcement, Inspection and Education<a name="3.5-Enforcement,-Inspection-and-Education"></a>
 **Requirement:**
+
 >A summary describing the number and nature of enforcement actions, inspections, and public education programs;
 
 ## 3.5.1 ARDOT Enforcement, Inspection and Education<a name="3.5.1-ARDOT-Enforcement,-Inspection-and-Education"></a>
@@ -270,6 +277,7 @@ Little Rock TV (LRTV) is a municipal government access channel where the City of
 
 <a name="UAEX-education-video"></a>
 ![UAEX education video](assets/images/Sammy and Wayne.png "UAEX education video")
+
 Figure 2: Educational video developed by UAEX to promote water quality education shown on LRTV.
 
 *Public Outreach Events*
@@ -314,6 +322,7 @@ The City of Little Rock Public Works also participated in the 2018-05-10 Forests
 
 <a name="Forests-to-Faucets-Festival"></a>
 ![Forests to Faucets Festival](assets/images/Forests to Faucets.jpg "Forests to Faucets Festival")
+
 Figure 3: Public Works staff demonstrates a small model storm sewer system to 5th grade students.
 
 *Private Partners*
@@ -335,6 +344,7 @@ Audubon Arkansas is also a partner with the local Drain Smart program, where loc
 
 ## 3.6 Changes to Water Quality<a name="3.6-Changes-to-Water-Quality"></a>
 **Requirement:**
+
 >Identification of water quality improvements or degradation
 
 The City and ARDOT have not identified any changes to water quality in 2018.
@@ -348,6 +358,7 @@ Approximately $34,170.48 is spent annually to support the Pulaski County RRWRD. 
 
 ## 3.7.1 Motor Vehicle Fluids<a name="3.7.1-Motor-Vehicle-Fluids"></a>
 **Requirement:**
+
 >The co-permittees shall ensure the establishment or availability of a program to collect used motor vehicle fluids for recycle or proper disposal. The program will identify locations where used vehicle fluids may be taken for recycling or disposal in accordance with state requirements. The City of Little Rock will publicize materials which can be recycled or disposed, times available to the public for using the facilities, and locations. The annual report shall include the amount of materials collected (weight or volume), the amount of money used for advertising, the method of advertising used to inform the public, and the overall cost of the program.
 
 ## 3.7.1.1 ARDOT Motor Vehicle Fluids<a name="3.7.1.1-ARDOT-Motor-Vehicle-Fluids"></a>
@@ -357,6 +368,7 @@ ARDOT implemented a program to recycle automotive oil as well as oil from its eq
 The City of Little Rock operates and services a substantial fleet of vehicles ranging from police cars to sweepers. The Fleet Services department maintains contracts with waste disposal professionals to manage the large volume of motor vehicle fluids necessary to operate and maintain the City's motor pool.
 
 In an effort to reduce emissions, some of the City of Little Rock's motorpool run on compressed natural gas (CNG). A fueling and service station for these vehicles is located at 501 Ferry Street. Motor vehicle waste from this facility is summarized below:
+
 ### Recycled Automotive Waste from CNG Facility<a name="Recycled-Automotive-Waste-from-CNG-Facility"></a>
 | Material | Quantity | Measure |
 |---|---|---|
@@ -367,6 +379,7 @@ In an effort to reduce emissions, some of the City of Little Rock's motorpool ru
 Table 13: Recycled materials from the compressed natural gas fueling facility located at 501 Ferry Street in downtown Little Rock.
 
 The Fleet Services department is located adjacent to Public Works operations and services the majority of the vehicles in the City motor pool. The greatest volume of motor vehicle fluids comes from this facility and is summarized below:
+
 ### Recycled Automotive Waste from Little Rock Fleet Services Facility<a name="Recycled-Automotive-Waste-from-Little-Rock-Fleet-Services-Facility"></a>
 | Material | Quantity | Measure |
 |---|---|---|
@@ -378,6 +391,7 @@ The Fleet Services department is located adjacent to Public Works operations and
 Table 15: Recycled materials from the municipal fleet services facility located at 3314 J E Davis.
 
 The Solid Waste services department is located outside of the City of Little Rock; however, their operations serve residents within the city. Their facility services the fleet of trucks which transport waste from homes to the municipal landfill. Motor vehicle waste from this facility is summarized below.
+
 ### Recycled Automotive Waste from the Municipal Landfill<a name="Recycled-Automotive-Waste-from-the-Municipal-Landfill"></a>
 | Material | Quantity | Measure |
 |---|---|---|
@@ -391,6 +405,7 @@ In Little Rock, 7,644 gallons of oil, antifreeze and gasoline were collected by 
 
 ### 3.7.2 Household Hazardous Waste<a name="3.7.2-Household-Hazardous-Waste"></a>
 **Requirement:**
+
 >The City of Little Rock shall ensure the establishment or availability of a program to collect household hazardous waste materials for recycle, reuse, or proper disposal. The amount of materials collected (weight or volume), the amount of money used for advertising, the method of advertising used to inform the public, and the overall cost of the program will be included in the annual report.
 Recycling of household hazardous waste is promoted at speaking events by the City sustainability officer as well as by content on social media and LRTV. The City does not collect itemized advertising costs for household hazardous waste recycling. The household hazardous waste collected in 2018 by the Little Rock Green Station is shown in table the table below.
 
@@ -406,10 +421,12 @@ Table 3: Summary of waste items collected by Little Rock Green Stations
 
 ## 3.8 Structural Controls<a name="3.8-Structural-Controls"></a>
 **Requirement:**
+
 >Structural Controls: Each co-permittee shall operate and maintain any stormwater structural controls over which it has jurisdiction, in a manner so as to reduce the discharge of pollutants to the MEP.
 
 ## 3.8.1 ARDOT Drainage Maintenance Report<a name="3.8.1-ARDOT-Drainage-Maintenance-Report"></a>
 **Requirement:**
+
 >Arkansas State Highway and Transportation Department will inspect the drainage system for which it is responsible at least once/month. The inspections should include a schedule of maintenance for correcting deficiencies in the system.
 
 ARDOT spent $35,907.98 to purchase materials to construct or repair catch basins, junction boxes, and ditch paving, and to purchase replacement drainage culverts.  ARDOT spent a total of $284,355.37 for materials and installation and associated ditch cleaning of minor drainage structures.
@@ -417,6 +434,7 @@ ARDOT spent $19,511.89 to machine clean and reshape existing ditches, remove and
 
 ## 3.8.2 Little Rock Drainage Maintenance Report<a name="3.8.2-Little-Rock-Drainage-Maintenance-Report"></a>
 **Requirement:**
+
 >The City of Little Rock will inspect 20 percent of the drainage system each year. The drainage system consists of curb and guttering, piping, and open ditches in the City of Little Rock right-of-way and public easements. Areas with recurring drainage problems shall be inspected more frequently. The City of Little Rock will also maintain and clean the ponds along Coleman Creek and within War Memorial Park. These ponds should be inspected twice per year.
 
 *Operations*
@@ -473,17 +491,20 @@ Maintenance of the MS4 in public areas is supplemented by volunteer efforts, suc
 
 ## 3.9 Areas of New Development<a name="3.9-Areas-of-New-Development"></a>
 **Requirement:**
+
 >Areas of New Development: Each co-permittee shall utilize a comprehensive master planning process to develop, implement, and enforce controls which will reduce, to the MEP, the discharge of pollutants from areas of new development and significant redevelopment after construction is completed. The City of Little Rock will require permanent controls, as required by the Little Rock Code of Ordinances, to be implemented at newly developed areas to control the increased volume of water that will be discharged.
 
 The City of Little Rock shall notify construction sites disturbing (clearing, grading, or other construction activities) 1 or more acres within their MS4 boundary of the requirement to contact the Arkansas Department of Environmental Quality (ADEQ), Water Division, about the stormwater regulations and as how to obtain coverage under NPDES Construction Stormwater General Permit (ARR150000) and to develop a Stormwater Pollution Prevention Plan (SWPPP) and to install and maintain erosion and sediment control for the site prior to the start of construction. The City of Little Rock shall also notify sites that are over 5 acres or more within their MS4 boundary of the requirements that they must submit a Notice of Intent (NOI), permit fee and SWPPP to the Arkansas Department of Environmental Quality to obtain coverage under NPDES Construction Stormwater General Permit prior to the start of construction
 
 ## 3.9.1 ARDOT New Development Summary<a name="3.9.1-ARDOT-New-Development-Summary"></a>
 The following projects were under contract in Little Rock at various times during 2018:
+
 - BB0618 – I-430/Rodney Parham Road Interchange Improvements (LR)
 - CA0608 – Baptist Hospital – University Avenue (Widening) (LR)
 
 
 Quantities and associated costs of erosion control materials are listed in the table below.
+
 ### Controls for ARDOT 2017 Projects<a name="Controls-for-ARDOT-2017-Projects"></a>
 | Item | Quantity | Units | Paid Cost |
 |---|---|---|---|
@@ -510,6 +531,7 @@ Review of stormwater management and drainage plans for new construction projects
 
 ## 3.10 Roadways<a name="3.10-Roadways"></a>
 **Requirement:**
+
 >Roadways: Each co-permittee shall operate and maintain public streets, roads, and highways for which they are responsible in a manner so as to reduce, to the Maximum Extent Practicable (MEP), the discharge of pollutants. The Arkansas State Highway and Transportation Department will sweep all State Highway routes within the City of Little Rock on which curbs and barrier walls are provided once per month. The City of Little Rock will sweep the Central Business District three times a week, one hundred fifty (150) miles of arterial street on which curbs and barrier walls are provided once per week, and the balance of the arterial streets on a monthly basis. Each co-permittee will keep records which will include the number of sweeper units used, amount of debris collected (weight or volume), and problem areas which contribute the highest volume of debris. The annual report shall contain the above information.
 
 ## 3.10.1 ARDOT Roadway Maintenance<a name="3.10.1-ARDOT-Roadway-Maintenance"></a>
@@ -542,6 +564,7 @@ The City of Little Rock services public streets through cleaning, debris removal
 
 ## 3.11 Flood Control Projects<a name="3.11-Flood-Control-Projects"></a>
 **Requirement:**
+
 >Flood Control Projects: Each co-permittee shall ensure any flood control project it undertakes assesses, and minimizes to the MEP, the impacts on water quality of receiving waters. All flood control projects will be reviewed by the City of Little Rock. The annual report shall contain a summary of any flood control projects that were reviewed during the reporting period.
 
 ## 3.11.1 ARDOT Flood Control<a name="3.11.1-ARDOT-Flood-Control"></a>
@@ -553,6 +576,7 @@ The City of Little Rock reports no flood control projects for 2018.
 
 ## 3.12 Spill Prevention and Response<a name="3.12-Spill-Prevention-and-Response"></a>
 **Requirement:**
+
 >Spill Prevention and Response: Each co-permittee shall implement a program to prevent, contain, and respond to spills that may discharge into the MS4. The co-permittees will have supervisory personnel trained for methods of containing spills. The Arkansas Department of Environmental Quality is to be notified immediately after a spill occurs. The criteria for containing and controlling a spill shall be addressed in the Stormwater Quality Management Program. The annual report shall include a summary of any spills and their appropriate responses that occurred within the reporting period.
 
 ## 3.12.1 ARDOT Spill Response Summary<a name="3.12.1-ARDOT-Spill-Response-Summary"></a>
@@ -583,6 +607,7 @@ Table 8: Summary of stormwater ordinances for unlawful discharges during the per
 
 ## 3.13 Construction Site Runoff<a name="3.13-Construction-Site-Runoff"></a>
 **Requirement:**
+
 >Construction Site Runoff: Each co-permittee shall implement a program to reduce, to the MEP, the discharge of pollutants from construction sites
 
 The annual report will include the number of permits issued, the total permitted acres of disturbed soil, and management practices which were used to achieve compliance with the 5 tons/ per acre per year soil loss tolerance. In addition, AHTD will continue to develop and make available standard details, specifications, and/or manuals identifying acceptable Best Management Practices that must be used on AHTD projects at construction sites which have more than one acre of disturbed soil, and the City of Little Rock will continue to develop and make available standard details, specifications, and/or manuals identifying acceptable Best Management Practices that must be used at construction sites in accordance with the requirements of Chapter 29 of the Little Rock Code of Ordinance.
@@ -591,6 +616,7 @@ The annual report will include the number of permits issued, the total permitted
 **Requirement:**
 
 SWMP Reporting Requirement:
+
 >The Department of Transportation will report annually any revisions to the Standard Specifications for Highway Construction that incorporate new BMPs for construction site runoff and erosion control.
 
 *Program Activities:*
@@ -600,6 +626,7 @@ The ArDOT Standard Specifications were revised and took effect in April 2014. Wa
 The Erosion and Sediment Control Design and Construction Manual was updated in December of 2016. ArDOT incorporates erosion control measures into all construction contracts and obtains all necessary permits for work within the Department rights-of-way.  Contractors are required to obtain all necessary permits including ADEQ general storm water permits for any work beyond the rights-of-way such as; borrow pits, stockpile locations, and waste areas. The update includes the newly revised Construction General Permit (ARR150000), Short Term Activity Authorization (STAA) guidance, and updated Best Management Practices. In addition, a Special Provision requiring contractors of ArDOT jobs disturbing an acre or more soil to be certified by the Center for Training Transportation Professionals Training (CTTP) has been implemented for all jobs let after October 1, 2018.
 
 SWMP Reporting Requirement:
+
 >The Department of Transportation will report annually the course description and dates of construction site runoff training classes conducted for its personnel within the geographical area covered by the Permit.
 
 *Program Activities:*
@@ -607,11 +634,13 @@ SWMP Reporting Requirement:
 Beginning in February 2010, the Department instituted an erosion and sediment control training and certification course through the University of Arkansas Center for Training Transportation Professionals (CTTP) to train and certify construction and maintenance personnel. The CTTP training is also open to Department contractors.  Additionally, annual NPDES Stormwater training was developed and provided by personnel from the Department’s Environmental Division. In-person training for Maintenance and Construction personnel was conducted on February 13, 2019 and Make-up training will be on April 24, 2019. The PowerPoint slides used in the trainings will be posted on the Maintenance Local Area Network (LAN); and Construction training is provided on the Construction LAN. Training rosters are maintained for all employees who attended or completed annual maintenance or construction training.
 
 SWMP Reporting Requirement:
+
 >The Department of Transportation will report annually the job numbers, job locations, and dates of site visits.
 
 *Program Activities:*
 
 Members of the Department’s Environmental Division visited the following area jobs during the Permit year. Job 061102 was visited since there were few active jobs within the city of Little Rock; however the job is within the highly urbanized area.
+
 ### ARDOT Construction Site Visits<a name="ARDOT-Construction-Site-Visits"></a>
 | Date | Location | Job Number |
 |---|---|---|
@@ -632,6 +661,7 @@ In 2018, the City of Little Rock Public Works permitted 117 construction project
 
 ## 3.14 Changes to Roles and Responsibility<a name="3.14-Changes-to-Roles-and-Responsibility"></a>
 **Requirement:**
+
 >An update on Roles and Responsibility if applicable.
 
 ARDOT and the City of Little Rock report no changes to roles and responsibility.
@@ -640,12 +670,14 @@ ARDOT and the City of Little Rock report no changes to roles and responsibility.
 
 ## 3.15.1 Representative Monitoring<a name="3.15.1-Representative-Monitoring"></a>
 **Requirement:**
+
 >Representative Monitoring: Monitoring shall be conducted on representative outfalls, internal sampling stations, and/or in-stream monitoring locations to characterize the quality of stormwater discharges from the Municipal Separate Storm Sewer System.
 
 The locations of sampled outfalls are given by the Permit and are believed to be representative of water quality within the MS4. Grab samples of storm water are collected only by qualified personnel and analyzed by ADEQ accredited labs. Quarterly reports are reviewed by City staff authorized in accordance with the Permit.
 
 ## 3.15.2 Storm Event Data<a name="3.15.2-Storm-Event-Data"></a>
 **Requirement:**
+
 >Storm Event Data: Quantitative data shall be collected to estimate pollutant loadings and event mean concentrations for each parameter sampled. Records shall be maintained of all analytical results, the date and duration of the storm event sampled: rainfall measurements or estimates of the storm event which generated the sampled runoff; the duration between storm events sampled and the end of the previous measurable storm event; and an estimate of the total volume of the discharge sampled.
 
 All discharge samples were collected during rain events which exceeded 0.1in of precipitation. The measured precipitation in the table below is an average of six ground weather stations within the limits of the City of Little Rock. The time between acquiring samples and the most recent rain event vary from one to six days. Approximately eight liters of water is required for the battery of laboratory tests performed. In total, approximately 160 liters of runoff was sampled during 2018. The City holds records of all reported samples.
@@ -679,6 +711,7 @@ Table 10: Precipitation summaries and discharge estimates for each sampled outfa
 
 ## 3.15.3 Sampling<a name="3.15.3-Sampling"></a>
 **Requirement:**
+
 >Grab Samples: Grab Samples shall be taken during the first two hours of discharge.
 
 Representative Storm Events: Samples shall be collected from the discharge resulting from a storm event that is greater than 0.1 inches in magnitude and that occurs at least 72 hours from the previously measurable storm event.
@@ -687,11 +720,11 @@ Throughout 2018, the City has a contractual agreement with Environmental Service
 ### Outfall Sampling Locations<a name="Outfall-Sampling-Locations"></a>
 | Identifier | Latitude | Longitude |
 |---|---|---|
-| Outfall 001: | 34° 44' 30" | 92° 20' 30" |
-| Outfall 002: | 34° 43' 30" | 92° 21' 30" |
-| Outfall 003: | 34° 45' 15" | 92° 26' 00" |
-| Outfall 005: | 34° 44' 00" | 92° 14' 30" |
-| Outfall 006: | 34° 42' 00" | 92° 15' 36" |
+| Outfall 001: | 34 44' 30" | 92 20' 30" |
+| Outfall 002: | 34 43' 30" | 92 21' 30" |
+| Outfall 003: | 34 45' 15" | 92 26' 00" |
+| Outfall 005: | 34 44' 00" | 92 14' 30" |
+| Outfall 006: | 34 42' 00" | 92 15' 36" |
 
 Table 11: Coordinates for outfalls identified for quaterly water quality sampling
 
@@ -699,24 +732,28 @@ Reporting is provided electronically through the Environmental Protection Agency
 
 ## 3.15.4 Seasonal Loadings and Event Mean Concentrations<a name="3.15.4-Seasonal-Loadings-and-Event-Mean-Concentrations"></a>
 **Requirement:**
+
 >Seasonal Loadings and Event Mean Concentrations: Data shall be maintained to provide estimates for each major outfall of seasonal pollutant loadings and event mean concentrations for a representative storm event for the parameters which the co-permittees must monitor. This information may be estimated from the monitoring results and shall take into consideration land uses and drainage areas for the outfall.
 
 A seasonal trend analysis is given in appendix F.
 
 ## 3.16 Changes to Legal Authority<a name="3.16-Changes-to-Legal-Authority"></a>
 **Requirement:**
+
 >An update on Legal Authority if applicable.
 
 ARDOT and the City of Little Rock report no changes to legal authority.
 
 ## 3.17 Changes to SWQMP Resources<a name="3.17-Changes-to-SWQMP-Resources"></a>
 **Requirement:**
+
 >An update on SWQMP Resources if applicable.
 
 ARDOT and the City of Little Rock report no changes to SWQMP resources.
 
 ## 3.18 Changes to SWQMP Review<a name="3.18-Changes-to-SWQMP-Review"></a>
 **Requirement:**
+
 > Program Modification: The approved SWQMP shall not be modified by the co-permittees without the prior approval of the Director, unless in accordance with the items below:
 - Portions of the SWQMP not specifically required by 6.2 may be modified upon written notification to the permitting authority.
 - Modifications adding (but not subtracting or replacing) components, controls, or requirements to the approved SWQMP may be made by the co-permittees at any time upon written notification to the permitting authority.
@@ -769,6 +806,7 @@ Arkansas Dept. of Transportation
 
 
 Recent Annexations in the City of Little Rock
+
 ![Recent Annexations in the City of Little Rock](figures/annexations.png "Recent Annexations in the City of Little Rock")
 
 Lands incorporated into the City of Little Rock within the report year A total of 284 acres was annexed in 2018.
@@ -779,46 +817,55 @@ Lands incorporated into the City of Little Rock within the report year A total o
 
 
 Storm Water II
+
 ![Storm Water II](assets/images/Storm Water II.jpeg "Storm Water II")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
 
 Stormwater Management
+
 ![Stormwater Management](assets/images/Stormwater Management.jpg "Stormwater Management")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
 
 Storm Water IV
+
 ![Storm Water IV](assets/images/Storm Water IV.jpeg "Storm Water IV")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
 
 Storm Water III
+
 ![Storm Water III](assets/images/Storm Water III.jpeg "Storm Water III")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
 
 Storm Water I
+
 ![Storm Water I](assets/images/Storm Water I.jpeg "Storm Water I")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
 
 Coloring Book
+
 ![Coloring Book](assets/images/Coloring Book.jpg "Coloring Book")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
 
 Drainsmart
+
 ![Drainsmart](assets/images/Drainsmart.jpg "Drainsmart")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
 
 Sammy and Wayne
+
 ![Sammy and Wayne](assets/images/Sammy and Wayne.png "Sammy and Wayne")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
 
 Forests to Faucets
+
 ![Forests to Faucets](assets/images/Forests to Faucets.jpg "Forests to Faucets")
 
 Example promotional and educational material used by the City of Little Rock to promote water qualtiy.
@@ -829,26 +876,31 @@ Example promotional and educational material used by the City of Little Rock to 
 
 
 City of Little Rock Water Quality Parameters for 2018
+
 ![City of Little Rock Water Quality Parameters for 2018](figures/radar_2018.png "City of Little Rock Water Quality Parameters for 2018")
 
 Radar chart showing all parameters measured during 2018 normalized to available EPA water quality recommendations for the area. Where specific guidance is absent, measurements are normalized to the 95th percentile of all previous measures
 
 City of Little Rock Water Quality Parameters for 2017
+
 ![City of Little Rock Water Quality Parameters for 2017](figures/radar_2017.png "City of Little Rock Water Quality Parameters for 2017")
 
 Radar chart showing all parameters measured during 2017 normalized to available EPA water quality recommendations for the area. Where specific guidance is absent, measurements are normalized to the 95th percentile of all previous measures
 
 City of Little Rock Water Quality Parameters for 2016
+
 ![City of Little Rock Water Quality Parameters for 2016](figures/radar_2016.png "City of Little Rock Water Quality Parameters for 2016")
 
 Radar chart showing all parameters measured during 2016 normalized to available EPA water quality recommendations for the area. Where specific guidance is absent, measurements are normalized to the 95th percentile of all previous measures
 
 City of Little Rock Water Quality Parameters for 2014
+
 ![City of Little Rock Water Quality Parameters for 2014](figures/radar_2014.png "City of Little Rock Water Quality Parameters for 2014")
 
 Radar chart showing all parameters measured during 2014 normalized to available EPA water quality recommendations for the area. Where specific guidance is absent, measurements are normalized to the 95th percentile of all previous measures
 
 City of Little Rock Water Quality Parameters for 2015
+
 ![City of Little Rock Water Quality Parameters for 2015](figures/radar_2015.png "City of Little Rock Water Quality Parameters for 2015")
 
 Radar chart showing all parameters measured during 2015 normalized to available EPA water quality recommendations for the area. Where specific guidance is absent, measurements are normalized to the 95th percentile of all previous measures
@@ -859,121 +911,145 @@ Radar chart showing all parameters measured during 2015 normalized to available 
 
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
 
 City of Little Rock Water Quality Parameters for Ag by Region
+
 ![City of Little Rock Water Quality Parameters for Ag by Region](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by Region")
 
 Distributions of measurements for Ag from all recorded measurements grouped by location.
@@ -984,121 +1060,145 @@ Distributions of measurements for Ag from all recorded measurements grouped by l
 
 
 City of Little Rock Water Quality Parameters for Hg by season
+
 ![City of Little Rock Water Quality Parameters for Hg by season](figures/seasonal-Hg.png "City of Little Rock Water Quality Parameters for Hg by season")
 
 Distributions of measurements for Hg from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Zn by season
+
 ![City of Little Rock Water Quality Parameters for Zn by season](figures/seasonal-Zn.png "City of Little Rock Water Quality Parameters for Zn by season")
 
 Distributions of measurements for Zn from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for N by season
+
 ![City of Little Rock Water Quality Parameters for N by season](figures/seasonal-N.png "City of Little Rock Water Quality Parameters for N by season")
 
 Distributions of measurements for N from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for BOD by season
+
 ![City of Little Rock Water Quality Parameters for BOD by season](figures/seasonal-BOD.png "City of Little Rock Water Quality Parameters for BOD by season")
 
 Distributions of measurements for BOD from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Ni by season
+
 ![City of Little Rock Water Quality Parameters for Ni by season](figures/seasonal-Ni.png "City of Little Rock Water Quality Parameters for Ni by season")
 
 Distributions of measurements for Ni from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for TSS by season
+
 ![City of Little Rock Water Quality Parameters for TSS by season](figures/seasonal-TSS.png "City of Little Rock Water Quality Parameters for TSS by season")
 
 Distributions of measurements for TSS from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Pb by season
+
 ![City of Little Rock Water Quality Parameters for Pb by season](figures/seasonal-Pb.png "City of Little Rock Water Quality Parameters for Pb by season")
 
 Distributions of measurements for Pb from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for P by season
+
 ![City of Little Rock Water Quality Parameters for P by season](figures/seasonal-P.png "City of Little Rock Water Quality Parameters for P by season")
 
 Distributions of measurements for P from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Streptococci by season
+
 ![City of Little Rock Water Quality Parameters for Streptococci by season](figures/seasonal-Streptococci.png "City of Little Rock Water Quality Parameters for Streptococci by season")
 
 Distributions of measurements for Streptococci from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Cyanide by season
+
 ![City of Little Rock Water Quality Parameters for Cyanide by season](figures/seasonal-Cyanide.png "City of Little Rock Water Quality Parameters for Cyanide by season")
 
 Distributions of measurements for Cyanide from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for TDS by season
+
 ![City of Little Rock Water Quality Parameters for TDS by season](figures/seasonal-TDS.png "City of Little Rock Water Quality Parameters for TDS by season")
 
 Distributions of measurements for TDS from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Oil by season
+
 ![City of Little Rock Water Quality Parameters for Oil by season](figures/seasonal-Oil.png "City of Little Rock Water Quality Parameters for Oil by season")
 
 Distributions of measurements for Oil from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Cr by season
+
 ![City of Little Rock Water Quality Parameters for Cr by season](figures/seasonal-Cr.png "City of Little Rock Water Quality Parameters for Cr by season")
 
 Distributions of measurements for Cr from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Se by season
+
 ![City of Little Rock Water Quality Parameters for Se by season](figures/seasonal-Se.png "City of Little Rock Water Quality Parameters for Se by season")
 
 Distributions of measurements for Se from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Cd by season
+
 ![City of Little Rock Water Quality Parameters for Cd by season](figures/seasonal-Cd.png "City of Little Rock Water Quality Parameters for Cd by season")
 
 Distributions of measurements for Cd from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for E.Coli by season
+
 ![City of Little Rock Water Quality Parameters for E.Coli by season](figures/seasonal-E.Coli.png "City of Little Rock Water Quality Parameters for E.Coli by season")
 
 Distributions of measurements for E.Coli from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for N, Kjeldahl by season
+
 ![City of Little Rock Water Quality Parameters for N, Kjeldahl by season](figures/seasonal-N, Kjeldahl.png "City of Little Rock Water Quality Parameters for N, Kjeldahl by season")
 
 Distributions of measurements for N, Kjeldahl from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for BOD, C by season
+
 ![City of Little Rock Water Quality Parameters for BOD, C by season](figures/seasonal-BOD, C.png "City of Little Rock Water Quality Parameters for BOD, C by season")
 
 Distributions of measurements for BOD, C from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for CaCO3 by season
+
 ![City of Little Rock Water Quality Parameters for CaCO3 by season](figures/seasonal-CaCO3.png "City of Little Rock Water Quality Parameters for CaCO3 by season")
 
 Distributions of measurements for CaCO3 from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Flow by season
+
 ![City of Little Rock Water Quality Parameters for Flow by season](figures/seasonal-Flow.png "City of Little Rock Water Quality Parameters for Flow by season")
 
 Distributions of measurements for Flow from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Be by season
+
 ![City of Little Rock Water Quality Parameters for Be by season](figures/seasonal-Be.png "City of Little Rock Water Quality Parameters for Be by season")
 
 Distributions of measurements for Be from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for pH by season
+
 ![City of Little Rock Water Quality Parameters for pH by season](figures/seasonal-pH.png "City of Little Rock Water Quality Parameters for pH by season")
 
 Distributions of measurements for pH from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Cu by season
+
 ![City of Little Rock Water Quality Parameters for Cu by season](figures/seasonal-Cu.png "City of Little Rock Water Quality Parameters for Cu by season")
 
 Distributions of measurements for Cu from all recorded measurements grouped by season.
 
 City of Little Rock Water Quality Parameters for Ag by season
+
 ![City of Little Rock Water Quality Parameters for Ag by season](figures/seasonal-Ag.png "City of Little Rock Water Quality Parameters for Ag by season")
 
 Distributions of measurements for Ag from all recorded measurements grouped by season.
@@ -1109,121 +1209,145 @@ Distributions of measurements for Ag from all recorded measurements grouped by s
 
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Flow.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Cr.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-N.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-E.Coli.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Ag.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Cyanide.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-P.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-TSS.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-N, Kjeldahl.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Be.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Hg.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-BOD.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Cu.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-CaCO3.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Cd.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-BOD, C.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-TDS.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Zn.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Se.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Oil.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Streptococci.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-pH.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Pb.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
 
 City of Little Rock Water Quality Parameters for se
+
 ![City of Little Rock Water Quality Parameters for se](figures/time-series-Ni.png "City of Little Rock Water Quality Parameters for se")
 
 Scatter plot of water quality measurements for se at each sampling location. The `median` line is the median for measurements at all locations passed through a noise-filtering algorithm for better legibility
