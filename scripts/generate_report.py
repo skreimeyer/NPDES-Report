@@ -27,7 +27,7 @@ def maketable(tablemeta):
         slugged = slugify(title)
         title_heading = f'### {title}<a name="{slugged}"></a>'
         headers = "| "+" | ".join([h for h in data[0]])+" |"
-        border = "|"+"---|"*len(data[0])
+        border = "|"+"----------|"*len(data[0])
         outputs = [title_heading,headers,border]
         for row in data[1:]:
             outputs.append("| "+" | ".join([d for d in row])+" |")

@@ -191,20 +191,26 @@ figures:
 appendices:
   permit:
     index: A
-    linktitle: NPDES Permit
     link: https://github.com/skreimeyer/NPDES-Report/blob/master/assets/ARS000002%20-%202013%20Final.pdf
+    linktitle: ARS00002
+    preamble: The contents of this report have been prepared to confirm to ADEQ discharge
+      permit ARS000002, which can be found at the link below.
     title: City of Little Rock and ARDOT District VI NPDES Permit
   firstReport:
     index: B
-    linktitle: '1997 report'
-    link: https://github.com/skreimeyer/NPDES-Report/blob/master/assets/old-reports/Report%201997.pdf
+    link: assets/old-reports/Report 1997.pdf
+    linktitle: 1997 NPDES Report
+    preamble: The first report by the City of Little Rock on the status of the MS4
+      was given in 1997 and can be found in the link below.
     title: 1997 NPDES Report
   annexations:
     contents:
-    - caption: Lands incorporated into the City of Little Rock within the report year A total of 284 acres was annexed in 2018.
+    - caption: Lands incorporated into the City of Little Rock within the report year.
+        A total of 284 acres was annexed in 2018
+      index: C
       location: figures/annexations.png
+      preamble: All annexations for the permit year are given in this section.
       title: Recent Annexations in the City of Little Rock
-    index: C
     title: Annexations
   educationalResources:
     contents:
@@ -244,363 +250,114 @@ appendices:
         Rock to promote water qualtiy.
       location: assets/images/Forests to Faucets.jpg
       title: Forests to Faucets
-    index: H
+    index: D
+    preamble: The City of Little Rock makes use of a wide variety of media in its
+      work to promote education about water quality. Several of the publications used
+      by the City are given in this section.
     title: Educational and Outreach Material
   monitoringSummary:
     contents:
-    - caption: Radar chart showing all parameters measured during 2018 normalized
-        to available EPA water quality recommendations for the area. Where specific
-        guidance is absent, measurements are normalized to the 95th percentile of
-        all previous measures
-      location: figures/radar_2018.png
-      title: City of Little Rock Water Quality Parameters for 2018
-    - caption: Radar chart showing all parameters measured during 2017 normalized
-        to available EPA water quality recommendations for the area. Where specific
-        guidance is absent, measurements are normalized to the 95th percentile of
-        all previous measures
-      location: figures/radar_2017.png
-      title: City of Little Rock Water Quality Parameters for 2017
-    - caption: Radar chart showing all parameters measured during 2016 normalized
-        to available EPA water quality recommendations for the area. Where specific
-        guidance is absent, measurements are normalized to the 95th percentile of
-        all previous measures
-      location: figures/radar_2016.png
-      title: City of Little Rock Water Quality Parameters for 2016
-    - caption: Radar chart showing all parameters measured during 2014 normalized
-        to available EPA water quality recommendations for the area. Where specific
-        guidance is absent, measurements are normalized to the 95th percentile of
-        all previous measures
-      location: figures/radar_2014.png
-      title: City of Little Rock Water Quality Parameters for 2014
-    - caption: Radar chart showing all parameters measured during 2015 normalized
-        to available EPA water quality recommendations for the area. Where specific
-        guidance is absent, measurements are normalized to the 95th percentile of
-        all previous measures
-      location: figures/radar_2015.png
-      title: City of Little Rock Water Quality Parameters for 2015
-    index: F
-    title: Monitoring Summary
-  regionalAnalysis:
-    contents:
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by location.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by Region
-    index: D
-    title: Regional Analysis
-  seasonalAnalysis:
-    contents:
-    - caption: Distributions of measurements for Hg from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Hg.png
-      title: City of Little Rock Water Quality Parameters for Hg by season
-    - caption: Distributions of measurements for Zn from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Zn.png
-      title: City of Little Rock Water Quality Parameters for Zn by season
-    - caption: Distributions of measurements for N from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-N.png
-      title: City of Little Rock Water Quality Parameters for N by season
-    - caption: Distributions of measurements for BOD from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-BOD.png
-      title: City of Little Rock Water Quality Parameters for BOD by season
-    - caption: Distributions of measurements for Ni from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Ni.png
-      title: City of Little Rock Water Quality Parameters for Ni by season
-    - caption: Distributions of measurements for TSS from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-TSS.png
-      title: City of Little Rock Water Quality Parameters for TSS by season
-    - caption: Distributions of measurements for Pb from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Pb.png
-      title: City of Little Rock Water Quality Parameters for Pb by season
-    - caption: Distributions of measurements for P from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-P.png
-      title: City of Little Rock Water Quality Parameters for P by season
-    - caption: Distributions of measurements for Streptococci from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Streptococci.png
-      title: City of Little Rock Water Quality Parameters for Streptococci by season
-    - caption: Distributions of measurements for Cyanide from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Cyanide.png
-      title: City of Little Rock Water Quality Parameters for Cyanide by season
-    - caption: Distributions of measurements for TDS from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-TDS.png
-      title: City of Little Rock Water Quality Parameters for TDS by season
-    - caption: Distributions of measurements for Oil from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Oil.png
-      title: City of Little Rock Water Quality Parameters for Oil by season
-    - caption: Distributions of measurements for Cr from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Cr.png
-      title: City of Little Rock Water Quality Parameters for Cr by season
-    - caption: Distributions of measurements for Se from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Se.png
-      title: City of Little Rock Water Quality Parameters for Se by season
-    - caption: Distributions of measurements for Cd from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Cd.png
-      title: City of Little Rock Water Quality Parameters for Cd by season
-    - caption: Distributions of measurements for E.Coli from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-E.Coli.png
-      title: City of Little Rock Water Quality Parameters for E.Coli by season
-    - caption: Distributions of measurements for N, Kjeldahl from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-N, Kjeldahl.png
-      title: City of Little Rock Water Quality Parameters for N, Kjeldahl by season
-    - caption: Distributions of measurements for BOD, C from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-BOD, C.png
-      title: City of Little Rock Water Quality Parameters for BOD, C by season
-    - caption: Distributions of measurements for CaCO3 from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-CaCO3.png
-      title: City of Little Rock Water Quality Parameters for CaCO3 by season
-    - caption: Distributions of measurements for Flow from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Flow.png
-      title: City of Little Rock Water Quality Parameters for Flow by season
-    - caption: Distributions of measurements for Be from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Be.png
-      title: City of Little Rock Water Quality Parameters for Be by season
-    - caption: Distributions of measurements for pH from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-pH.png
-      title: City of Little Rock Water Quality Parameters for pH by season
-    - caption: Distributions of measurements for Cu from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Cu.png
-      title: City of Little Rock Water Quality Parameters for Cu by season
-    - caption: Distributions of measurements for Ag from all recorded measurements
-        grouped by season.
-      location: figures/seasonal-Ag.png
-      title: City of Little Rock Water Quality Parameters for Ag by season
+    - location: figures/radar_2018.png
+    - location: figures/radar_2017.png
+    - location: figures/radar_2016.png
+    - location: figures/radar_2014.png
+    - location: figures/radar_2015.png
     index: E
-    title: Seasonal Analysis
+    preamble: Water quality monitoring results in the MS4 are represented in this
+      section. Radar charts are given for their expressive visualization of the large
+      number of measured parameters.
+    title: Monitoring Summary
   trendAnalysis:
     contents:
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Flow.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Cr.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-N.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-E.Coli.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Ag.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Cyanide.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-P.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-TSS.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-N, Kjeldahl.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Be.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Hg.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-BOD.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Cu.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-CaCO3.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Cd.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-BOD, C.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-TDS.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Zn.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Se.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Oil.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Streptococci.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-pH.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Pb.png
-      title: City of Little Rock Water Quality Parameters for se
-    - caption: Scatter plot of water quality measurements for se at each sampling
-        location. The `median` line is the median for measurements at all locations
-        passed through a noise-filtering algorithm for better legibility
-      location: figures/time-series-Ni.png
-      title: City of Little Rock Water Quality Parameters for se
-    index: G
+    - location: figures/time-series-Flow.png
+    - location: figures/time-series-Cr.png
+    - location: figures/time-series-N.png
+    - location: figures/time-series-E.Coli.png
+    - location: figures/time-series-Ag.png
+    - location: figures/time-series-Cyanide.png
+    - location: figures/time-series-P.png
+    - location: figures/time-series-TSS.png
+    - location: figures/time-series-N, Kjeldahl.png
+    - location: figures/time-series-Be.png
+    - location: figures/time-series-Hg.png
+    - location: figures/time-series-BOD.png
+    - location: figures/time-series-Cu.png
+    - location: figures/time-series-CaCO3.png
+    - location: figures/time-series-Cd.png
+    - location: figures/time-series-BOD, C.png
+    - location: figures/time-series-TDS.png
+    - location: figures/time-series-Zn.png
+    - location: figures/time-series-Se.png
+    - location: figures/time-series-Oil.png
+    - location: figures/time-series-Streptococci.png
+    - location: figures/time-series-pH.png
+    - location: figures/time-series-Pb.png
+    - location: figures/time-series-Ni.png
+    index: F
+    preamble: The time series data recorded for the purpose of this permit is complex,
+      and meaningful visualization of data is challenging. To assist with interpreting
+      useful information from the high levels of noise, the median value of measurements
+      is provided with a savgol filter.
     title: Water Quality Trend Analysis
+  seasonalAnalysis:
+    contents:
+    - location: figures/seasonal-Hg.png
+    - location: figures/seasonal-Zn.png
+    - location: figures/seasonal-N.png
+    - location: figures/seasonal-BOD.png
+    - location: figures/seasonal-Ni.png
+    - location: figures/seasonal-TSS.png
+    - location: figures/seasonal-Pb.png
+    - location: figures/seasonal-P.png
+    - location: figures/seasonal-Streptococci.png
+    - location: figures/seasonal-Cyanide.png
+    - location: figures/seasonal-TDS.png
+    - location: figures/seasonal-Oil.png
+    - location: figures/seasonal-Cr.png
+    - location: figures/seasonal-Se.png
+    - location: figures/seasonal-Cd.png
+    - location: figures/seasonal-E.Coli.png
+    - location: figures/seasonal-N, Kjeldahl.png
+    - location: figures/seasonal-BOD, C.png
+    - location: figures/seasonal-CaCO3.png
+    - location: figures/seasonal-Flow.png
+    - location: figures/seasonal-Be.png
+    - location: figures/seasonal-pH.png
+    - location: figures/seasonal-Cu.png
+    - location: figures/seasonal-Ag.png
+    index: G
+    preamble: Distributions of measurements from 1997 to the present for each measured
+      parameter are given in this section. There are no variations in these distributions
+      of note.
+    title: Seasonal Analysis
+  regionalAnalysis:
+    contents:
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    - location: figures/seasonal-Ag.png
+    index: H
+    preamble: Distributions of measurements are separated by region. While there does
+      appear to be some regional variation in some of the measured parameters, these
+      variations do not appear to be indicative of significant water quality concerns.
+    title: Regional Analysis

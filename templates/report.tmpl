@@ -533,16 +533,26 @@ Arkansas Dept. of Transportation
 # 6.0 Appendices<a name="6.0-Appendices"></a>
 
 {% for key,val in appendices.items() %}
-## Appendix {{val.index}}: {{val['title']}}<a name="{{val.title|slugify}}"></a>
+<a name="{{val.title|slugify}}"></a>
+
+## Appendix {{val.index}}: {{val['title']}}
+
+{{val.preamble}}
+
 {% if val['link'] %}
+
 [{{val['linktitle']}}]({{val['link']}})
+
 {% endif %}
+
 {% for i in val.contents %}
+
 {{i['title']}}
 
 ![{{i['title']}}]({{i['location']}} "{{i['title']}}")
 
 {{i['caption']}}
+
 {% endfor %}
 
 {% endfor %}
