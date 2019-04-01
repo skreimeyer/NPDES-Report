@@ -97,7 +97,7 @@
 # Appendices<a name="Appendices"></a>
 
 {% for key,val in appendices.items() %}
-{{val.title}}(#{{val.title|slugify}})
+[Appendix {{val.index}}: {{val.title}}](#{{val.title|slugify}})
 {% endfor %}
 
 # Table of Figures<a name="Table-of-Figures"></a>
@@ -479,12 +479,16 @@ The City of Little Rock values the quality of water within its territorial bound
 I certify that the above Annual Report is true and correct to the best of my knowledge.
 
 
+
+---
 Samuel Kreimeyer
 Civil Engineer I
 Cognizant Official
 City of Little Rock Public Works
 
 
+
+---
 Mark Headley, P.E.
 District 6 Engineer
 Arkansas Dept. of Transportation
@@ -492,9 +496,9 @@ Arkansas Dept. of Transportation
 # 6.0 Appendices<a name="6.0-Appendices"></a>
 
 {% for key,val in appendices.items() %}
-## {{val['title']}}<a name="{{val.title|slugify}}"></a>
+## Appendix {{val.index}}: {{val['title']}}<a name="{{val.title|slugify}}"></a>
 
-{% for k,i in val['items'].items %}
+{% for i in val.contents %}
 {{i['title']}}
 ![{{i['title']}}]({{i['location']}} "{{i['title']}}")
 {{i['caption']}}
