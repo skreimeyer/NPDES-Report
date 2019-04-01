@@ -753,10 +753,14 @@ Arkansas Dept. of Transportation
 
 ## Appendix A: City of Little Rock and ARDOT District VI NPDES Permit<a name="City-of-Little-Rock-and-ARDOT-District-VI-NPDES-Permit"></a>
 
+[NPDES Permit](https://github.com/skreimeyer/NPDES-Report/blob/master/assets/ARS000002%20-%202013%20Final.pdf)
+
 
 
 
 ## Appendix B: 1997 NPDES Report<a name="1997-NPDES-Report"></a>
+
+[1997 report](https://github.com/skreimeyer/NPDES-Report/blob/master/assets/old-reports/Report%201997.pdf)
 
 
 
@@ -764,17 +768,9 @@ Arkansas Dept. of Transportation
 ## Appendix C: Annexations<a name="Annexations"></a>
 
 
-<built-in method title of str object at 0x7f4b3809fc38>
-![<built-in method title of str object at 0x7f4b3809fc38>]( "<built-in method title of str object at 0x7f4b3809fc38>")
-
-
-<built-in method title of str object at 0x7f4b38097d30>
-![<built-in method title of str object at 0x7f4b38097d30>]( "<built-in method title of str object at 0x7f4b38097d30>")
-
-
-<built-in method title of str object at 0x7f4b380a41b8>
-![<built-in method title of str object at 0x7f4b380a41b8>]( "<built-in method title of str object at 0x7f4b380a41b8>")
-
+Recent Annexations in the City of Little Rock
+![Recent Annexations in the City of Little Rock](figures/annexations.png "Recent Annexations in the City of Little Rock")
+Lands incorporated into the City of Little Rock within the report year A total of 284 acres was annexed in 2018.
 
 
 

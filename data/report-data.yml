@@ -191,15 +191,17 @@ figures:
 appendices:
   permit:
     index: A
-    link: assets/ARS000002 - 2013 Final.pdf
+    linktitle: NPDES Permit
+    link: https://github.com/skreimeyer/NPDES-Report/blob/master/assets/ARS000002%20-%202013%20Final.pdf
     title: City of Little Rock and ARDOT District VI NPDES Permit
   firstReport:
     index: B
-    link: assets/old-reports/Report 1997.pdf
+    linktitle: '1997 report'
+    link: https://github.com/skreimeyer/NPDES-Report/blob/master/assets/old-reports/Report%201997.pdf
     title: 1997 NPDES Report
   annexations:
     contents:
-      caption: Lands incorporated into the City of Little Rock within the report year
+    - caption: Lands incorporated into the City of Little Rock within the report year A total of 284 acres was annexed in 2018.
       location: figures/annexations.png
       title: Recent Annexations in the City of Little Rock
     index: C

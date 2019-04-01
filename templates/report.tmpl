@@ -497,7 +497,9 @@ Arkansas Dept. of Transportation
 
 {% for key,val in appendices.items() %}
 ## Appendix {{val.index}}: {{val['title']}}<a name="{{val.title|slugify}}"></a>
-
+{% if val['link'] %}
+[{{val['linktitle']}}]({{val['link']}})
+{% endif %}
 {% for i in val.contents %}
 {{i['title']}}
 ![{{i['title']}}]({{i['location']}} "{{i['title']}}")

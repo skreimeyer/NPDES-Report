@@ -24,7 +24,7 @@ annexations = {
 'title': 'Annexations',
 'contents': {
 'title': 'Recent Annexations in the City of Little Rock',
-'caption': 'Lands incorporated into the City of Little Rock within the report year',
+'caption': 'Lands incorporated into the City of Little Rock within the report year. A total of 284 acres was annexed in 2018',
 'location':'figures/annexations.png'
 }
 }
