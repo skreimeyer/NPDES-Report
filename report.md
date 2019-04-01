@@ -772,7 +772,7 @@ I certify that the above Annual Report is true and correct to the best of my kno
 
 
 
-===
+---
 Samuel Kreimeyer
 Civil Engineer I
 Cognizant Official
@@ -780,7 +780,7 @@ City of Little Rock Public Works
 
 
 
-===
+---
 Mark Headley, P.E.
 District 6 Engineer
 Arkansas Dept. of Transportation
@@ -1389,7 +1389,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Ag.png "")
 
 
 
@@ -1397,7 +1397,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Cyanide.png "")
 
 
 
@@ -1405,7 +1405,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-E.Coli.png "")
 
 
 
@@ -1413,7 +1413,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Cd.png "")
 
 
 
@@ -1421,7 +1421,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-CaCO3.png "")
 
 
 
@@ -1429,7 +1429,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Oil.png "")
 
 
 
@@ -1437,7 +1437,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Ni.png "")
 
 
 
@@ -1445,7 +1445,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-BOD, C.png "")
 
 
 
@@ -1453,7 +1453,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Cu.png "")
 
 
 
@@ -1461,7 +1461,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-N.png "")
 
 
 
@@ -1469,7 +1469,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Streptococci.png "")
 
 
 
@@ -1477,7 +1477,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Cr.png "")
 
 
 
@@ -1485,7 +1485,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Se.png "")
 
 
 
@@ -1493,7 +1493,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-pH.png "")
 
 
 
@@ -1501,7 +1501,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Hg.png "")
 
 
 
@@ -1509,7 +1509,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Zn.png "")
 
 
 
@@ -1517,7 +1517,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Flow.png "")
 
 
 
@@ -1525,7 +1525,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-TDS.png "")
 
 
 
@@ -1533,7 +1533,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-TSS.png "")
 
 
 
@@ -1541,7 +1541,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Pb.png "")
 
 
 
@@ -1549,7 +1549,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-Be.png "")
 
 
 
@@ -1557,7 +1557,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-BOD.png "")
 
 
 
@@ -1565,7 +1565,7 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-N, Kjeldahl.png "")
 
 
 
@@ -1573,4 +1573,9 @@ Distributions of measurements are separated by region. While there does appear t
 
 
 
-![](figures/seasonal-Ag.png "")
+![](figures/regional-P.png "")
+
+
+
+
+

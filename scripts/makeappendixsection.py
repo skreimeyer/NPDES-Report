@@ -73,11 +73,11 @@ seasonalAnalysis = {
 'preamble': 'Distributions of measurements from 1997 to the present for each measured parameter are given in this section. There are no variations in these distributions of note.'
 }
 seasonallist = []
-for t in seasonal:
+for s in seasonal:
     item = {}
-    param = t.split('-')[1][:-4]
+    param = s.split('-')[1][:-4]
     # item['title'] = f'City of Little Rock Water Quality Parameters for {param} by season'
-    item['location'] = f'figures/{t}'
+    item['location'] = f'figures/{s}'
     # item['caption'] = f'Distributions of measurements for {param} from all recorded measurements grouped by season.'
     seasonallist.append(item)
 seasonalAnalysis['contents'] = seasonallist
@@ -90,9 +90,9 @@ regionalAnalysis = {
 regionallist = []
 for r in regional:
     item = {}
-    param = t.split('-')[1][:-4]
+    param = r.split('-')[1][:-4]
     # item['title'] = f'City of Little Rock Water Quality Parameters for {param} by Region'
-    item['location'] = f'figures/{t}'
+    item['location'] = f'figures/{r}'
     # item['caption'] = f'Distributions of measurements for {param} from all recorded measurements grouped by location.'
     regionallist.append(item)
 regionalAnalysis['contents'] = regionallist
@@ -113,14 +113,14 @@ educationalResources['contents'] = edimgs
 
 main = {}
 main['appendices'] = {
-'permit':permit,
-'firstReport':firstReport,
-'annexations':annexations,
-'regionalAnalysis':regionalAnalysis,
-'seasonalAnalysis':seasonalAnalysis,
-'monitoringSummary':monitoringSummary,
-'trendAnalysis':trendAnalysis,
-'educationalResources':educationalResources
+'a_permit':permit,
+'b_firstReport':firstReport,
+'c_annexations':annexations,
+'h_regionalAnalysis':regionalAnalysis,
+'g_seasonalAnalysis':seasonalAnalysis,
+'e_monitoringSummary':monitoringSummary,
+'f_trendAnalysis':trendAnalysis,
+'d_educationalResources':educationalResources
 }
 
 

@@ -1,14 +1,28 @@
 appendices:
-  annexations:
+  a_permit:
+    index: A
+    link: https://github.com/skreimeyer/NPDES-Report/blob/master/assets/ARS000002%20-%202013%20Final.pdf
+    linktitle: ARS00002
+    preamble: The contents of this report have been prepared to confirm to ADEQ discharge
+      permit ARS000002, which can be found at the link below.
+    title: City of Little Rock and ARDOT District VI NPDES Permit
+  b_firstReport:
+    index: B
+    link: assets/old-reports/Report 1997.pdf
+    linktitle: 1997 NPDES Report
+    preamble: The first report by the City of Little Rock on the status of the MS4
+      was given in 1997 and can be found in the link below.
+    title: 1997 NPDES Report
+  c_annexations:
     contents:
-      caption: Lands incorporated into the City of Little Rock within the report year.
+    - caption: Lands incorporated into the City of Little Rock within the report year.
         A total of 284 acres was annexed in 2018
       index: C
       location: figures/annexations.png
       preamble: All annexations for the permit year are given in this section.
       title: Recent Annexations in the City of Little Rock
     title: Annexations
-  educationalResources:
+  d_educationalResources:
     contents:
     - caption: Example promotional and educational material used by the City of Little
         Rock to promote water qualtiy.
@@ -51,14 +65,7 @@ appendices:
       work to promote education about water quality. Several of the publications used
       by the City are given in this section.
     title: Educational and Outreach Material
-  firstReport:
-    index: B
-    link: assets/old-reports/Report 1997.pdf
-    linktitle: 1997 NPDES Report
-    preamble: The first report by the City of Little Rock on the status of the MS4
-      was given in 1997 and can be found in the link below.
-    title: 1997 NPDES Report
-  monitoringSummary:
+  e_monitoringSummary:
     contents:
     - location: figures/radar_2018.png
     - location: figures/radar_2017.png
@@ -70,76 +77,7 @@ appendices:
       section. Radar charts are given for their expressive visualization of the large
       number of measured parameters.
     title: Monitoring Summary
-  permit:
-    index: A
-    link: https://github.com/skreimeyer/NPDES-Report/blob/master/assets/ARS000002%20-%202013%20Final.pdf
-    linktitle: ARS00002
-    preamble: The contents of this report have been prepared to confirm to ADEQ discharge
-      permit ARS000002, which can be found at the link below.
-    title: City of Little Rock and ARDOT District VI NPDES Permit
-  regionalAnalysis:
-    contents:
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    - location: figures/seasonal-Ag.png
-    index: H
-    preamble: Distributions of measurements are separated by region. While there does
-      appear to be some regional variation in some of the measured parameters, these
-      variations do not appear to be indicative of significant water quality concerns.
-    title: Regional Analysis
-  seasonalAnalysis:
-    contents:
-    - location: figures/seasonal-Hg.png
-    - location: figures/seasonal-Zn.png
-    - location: figures/seasonal-N.png
-    - location: figures/seasonal-BOD.png
-    - location: figures/seasonal-Ni.png
-    - location: figures/seasonal-TSS.png
-    - location: figures/seasonal-Pb.png
-    - location: figures/seasonal-P.png
-    - location: figures/seasonal-Streptococci.png
-    - location: figures/seasonal-Cyanide.png
-    - location: figures/seasonal-TDS.png
-    - location: figures/seasonal-Oil.png
-    - location: figures/seasonal-Cr.png
-    - location: figures/seasonal-Se.png
-    - location: figures/seasonal-Cd.png
-    - location: figures/seasonal-E.Coli.png
-    - location: figures/seasonal-N, Kjeldahl.png
-    - location: figures/seasonal-BOD, C.png
-    - location: figures/seasonal-CaCO3.png
-    - location: figures/seasonal-Flow.png
-    - location: figures/seasonal-Be.png
-    - location: figures/seasonal-pH.png
-    - location: figures/seasonal-Cu.png
-    - location: figures/seasonal-Ag.png
-    index: G
-    preamble: Distributions of measurements from 1997 to the present for each measured
-      parameter are given in this section. There are no variations in these distributions
-      of note.
-    title: Seasonal Analysis
-  trendAnalysis:
+  f_trendAnalysis:
     contents:
     - location: figures/time-series-Flow.png
     - location: figures/time-series-Cr.png
@@ -171,3 +109,65 @@ appendices:
       useful information from the high levels of noise, the median value of measurements
       is provided with a savgol filter.
     title: Water Quality Trend Analysis
+  g_seasonalAnalysis:
+    contents:
+    - location: figures/seasonal-Hg.png
+    - location: figures/seasonal-Zn.png
+    - location: figures/seasonal-N.png
+    - location: figures/seasonal-BOD.png
+    - location: figures/seasonal-Ni.png
+    - location: figures/seasonal-TSS.png
+    - location: figures/seasonal-Pb.png
+    - location: figures/seasonal-P.png
+    - location: figures/seasonal-Streptococci.png
+    - location: figures/seasonal-Cyanide.png
+    - location: figures/seasonal-TDS.png
+    - location: figures/seasonal-Oil.png
+    - location: figures/seasonal-Cr.png
+    - location: figures/seasonal-Se.png
+    - location: figures/seasonal-Cd.png
+    - location: figures/seasonal-E.Coli.png
+    - location: figures/seasonal-N, Kjeldahl.png
+    - location: figures/seasonal-BOD, C.png
+    - location: figures/seasonal-CaCO3.png
+    - location: figures/seasonal-Flow.png
+    - location: figures/seasonal-Be.png
+    - location: figures/seasonal-pH.png
+    - location: figures/seasonal-Cu.png
+    - location: figures/seasonal-Ag.png
+    index: G
+    preamble: Distributions of measurements from 1997 to the present for each measured
+      parameter are given in this section. There are no variations in these distributions
+      of note.
+    title: Seasonal Analysis
+  h_regionalAnalysis:
+    contents:
+    - location: figures/regional-Ag.png
+    - location: figures/regional-Cyanide.png
+    - location: figures/regional-E.Coli.png
+    - location: figures/regional-Cd.png
+    - location: figures/regional-CaCO3.png
+    - location: figures/regional-Oil.png
+    - location: figures/regional-Ni.png
+    - location: figures/regional-BOD, C.png
+    - location: figures/regional-Cu.png
+    - location: figures/regional-N.png
+    - location: figures/regional-Streptococci.png
+    - location: figures/regional-Cr.png
+    - location: figures/regional-Se.png
+    - location: figures/regional-pH.png
+    - location: figures/regional-Hg.png
+    - location: figures/regional-Zn.png
+    - location: figures/regional-Flow.png
+    - location: figures/regional-TDS.png
+    - location: figures/regional-TSS.png
+    - location: figures/regional-Pb.png
+    - location: figures/regional-Be.png
+    - location: figures/regional-BOD.png
+    - location: figures/regional-N, Kjeldahl.png
+    - location: figures/regional-P.png
+    index: H
+    preamble: Distributions of measurements are separated by region. While there does
+      appear to be some regional variation in some of the measured parameters, these
+      variations do not appear to be indicative of significant water quality concerns.
+    title: Regional Analysis
