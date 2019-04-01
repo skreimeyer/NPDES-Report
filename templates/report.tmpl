@@ -96,21 +96,9 @@
 
 # Appendices<a name="Appendices"></a>
 
-[1997 Annual Report](#1997-Annual-Report)
-
-[Recently Annexed Areas](#Recently-Annexed-Areas)
-
-[Monitoring Data Summary](#Monitoring-Data-Summary)
-
-[Monitoring Data Analysis](#Monitoring-Data-Analysis)
-
-[Key Parameter Trend Analysis](#Key-Parameter-Trend-Analysis)
-
-[Seasonal Trend Analysis](#Seasonal-Trend-Analysis)
-
-[Storm Water Inlet Stencil & Flyer](#Storm-Water-Inlet-Stencil-&-Flyer)
-
-[Disturbed Area](#Disturbed-Area)
+{% for key,val in appendices.items() %}
+{{val.title}}(#{{val.title|slugify}})
+{% endfor %}
 
 # Table of Figures<a name="Table-of-Figures"></a>
 
@@ -502,3 +490,14 @@ District 6 Engineer
 Arkansas Dept. of Transportation
 
 # 6.0 Appendices<a name="6.0-Appendices"></a>
+
+{% for key,val in appendices.items() %}
+## {{val['title']}}<a name="{{val.title|slugify}}"></a>
+
+{% for k,i in val['items'].items %}
+{{i['title']}}
+![{{i['title']}}]({{i['location']}} "{{i['title']}}")
+{{i['caption']}}
+{% endfor %}
+
+{% endfor %}

@@ -1,0 +1,10 @@
+- &id001
+  caption: Radar chart showing all parameters measured during 2015 normalized to available
+    EPA water quality recommendations for the area. Where specific guidance is absent,
+    measurements are normalized to the 95th percentile of all previous measures
+  location: figures/radar_2015.png
+  title: City of Little Rock Water Quality Parameters for 2015
+- *id001
+- *id001
+- *id001
+- *id001
