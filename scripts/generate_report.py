@@ -8,6 +8,7 @@ from jinja2 import FileSystemLoader, Environment
 import yaml
 import csv
 import os
+import subprocess
 
 testmeta = {"index":1,"title":"This is the title","caption":"a caption","filename":"../data/csv/test.csv"}
 
@@ -93,3 +94,5 @@ templateH = environment.get_template("appendixH.tmpl")
 # render and write to appendixE.md in the report folder
 with open("../report/appendixH.md", "w") as outfile:
     outfile.write(templateH.render(regional_images))
+
+# We're done with markdown. Call pandoc, generate pdfs and merge into top level
