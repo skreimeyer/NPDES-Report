@@ -198,7 +198,7 @@ Figure 1 presents all reported measurements represented as a percentage of recom
 
 
 <a name="Water-Quality-Parameters-for-2018"></a>
-![Water Quality Parameters for 2018](figures/radar_2018.png "Water Quality Parameters for 2018")
+![Water Quality Parameters for 2018](../figures/radar_2018.png "Water Quality Parameters for 2018")
 
 Figure 1: Normalized measurements of water quality parameters
 
@@ -278,7 +278,7 @@ Little Rock TV (LRTV) is a municipal government access channel where the City of
 
 
 <a name="UAEX-education-video"></a>
-![UAEX education video](assets/images/Sammy and Wayne.png "UAEX education video")
+![UAEX education video](../assets/images/Sammy and Wayne.png "UAEX education video")
 
 Figure 2: Educational video developed by UAEX to promote water quality education shown on LRTV.
 
@@ -324,7 +324,7 @@ The City of Little Rock Public Works also participated in the 2018-05-10 Forests
 
 
 <a name="Forests-to-Faucets-Festival"></a>
-![Forests to Faucets Festival](assets/images/Forests to Faucets.jpg "Forests to Faucets Festival")
+![Forests to Faucets Festival](../assets/images/Forests to Faucets.jpg "Forests to Faucets Festival")
 
 Figure 3: Public Works staff demonstrates a small model storm sewer system to 5th grade students.
 
@@ -443,7 +443,7 @@ ARDOT spent $19,511.89 to machine clean and reshape existing ditches, remove and
 
 *Operations*
 
-The City of Little Rock Public Works Operations provides preventative and complaint-driven maintenance for the MS4. Annual inspections for inadequate drainage are conducted for each of the seven wards as well as periodic inspections of streets and drainage by the street foremen. The 3-1-1 service provides residence with the ability to create and document requests for service and also acts as a scheduling tool for maintenance activity. Over !!TODO!! requests for service were made in 2018 for repairs and maintenance to the MS4.
+The City of Little Rock Public Works Operations provides preventative and complaint-driven maintenance for the MS4. Annual inspections for inadequate drainage are conducted for each of the seven wards as well as periodic inspections of streets and drainage by the street foremen. The 3-1-1 service provides residence with the ability to create and document requests for service and also acts as a scheduling tool for maintenance activity. Over 2500 requests for service were made in 2018 for repairs and maintenance to the MS4.
 
 ### 3-1-1 Maintenance Requests for City of Little Rock MS4<a name="3-1-1-Maintenance-Requests-for-City-of-Little-Rock-MS4"></a>
 | Type of Request | Number of Requests |
@@ -576,7 +576,6 @@ ARDOT reports no flood control projects for 2018.
 
 ## 3.11.2 Little Rock Flood Control<a name="3.11.2-Little-Rock-Flood-Control"></a>
 The City of Little Rock reports no flood control projects for 2018.
-!!TODO!!
 
 ## 3.12 Spill Prevention and Response<a name="3.12-Spill-Prevention-and-Response"></a>
 **Requirement:**

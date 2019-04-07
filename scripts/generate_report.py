@@ -10,8 +10,7 @@ import csv
 import os
 import subprocess
 
-testmeta = {"index":1,"title":"This is the title","caption":"a caption","filename":"../data/csv/test.csv"}
-
+import pdb
 
 environment = Environment(loader=FileSystemLoader("../templates"))
 # Custom slugify filter
@@ -96,11 +95,34 @@ with open("../report/appendixH.md", "w") as outfile:
     outfile.write(templateH.render(regional_images))
 
 # We're done with markdown. Call pandoc, generate pdfs and merge into top level
+wd = os.path.join(os.path.dirname(os.getcwd()),'report') # we can't do directory transversal with the cwd kwarg
+
 targets = [
-'narrative.md'
+'narrative.md',
 'appendixC.md',
 'appendixD.md',
 'appendixE.md',
 'appendixF.md',
 'appendixG.md',
+'appendixH.md'
 ]
+subprocess.run(["pwd"],cwd=wd)
+for t in targets:
+    outputname = t.split('.')[0]+'.pdf'
+    try:
+        subprocess.run(["pandoc",f'{t}','-o',f'tmp/{outputname}'], cwd=wd)
+        print(f'Wrote {outputname}')
+    except:
+        print(f'Failed to write component pdf file {outputname}')
+# pdb.set_trace()
+all_pdfs = [f'tmp/{f}' for f in sorted(os.listdir('../report/tmp'))]
+# move narrative to the front
+all_pdfs.insert(0,all_pdfs.pop())
+pdfunite_args = ['pdfunite']+all_pdfs+['../report.pdf']
+try:
+    subprocess.run(pdfunite_args, cwd=wd)
+    print('PDFs merged . . . exiting')
+except:
+    print("Failed to merge pdfs")
+
+quit(0)

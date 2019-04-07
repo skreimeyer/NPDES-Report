@@ -97,6 +97,7 @@ CLR:
   f2f:
     date: 2018-05-10
     students: 185
+  serviceRequests: 2500
 tables:
   operatingExpenses:
     filename: "../data/csv/operatingExpenses.csv"
@@ -178,17 +179,17 @@ figures:
     index: 1
     title: "Water Quality Parameters for 2018"
     caption: "Normalized measurements of water quality parameters"
-    location: "figures/radar_2018.png"
+    location: "../figures/radar_2018.png"
   uaex:
     index: 2
     title: "UAEX education video"
     caption: "Educational video developed by UAEX to promote water quality education shown on LRTV."
-    location: "assets/images/Sammy and Wayne.png"
+    location: "../assets/images/Sammy and Wayne.png"
   f2f:
     index: 3
     title: "Forests to Faucets Festival"
     caption: "Public Works staff demonstrates a small model storm sewer system to 5th grade students."
-    location: "assets/images/Forests to Faucets.jpg"
+    location: "../assets/images/Forests to Faucets.jpg"
 appendices:
   - index: "A"
     name: City of Little Rock and ARDOT District VI NPDES Permit
