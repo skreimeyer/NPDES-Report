@@ -1,0 +1,14 @@
+# Appendix D
+
+## Educational and Outreach material
+
+Some examples of the educational material disseminated during the report year are shown below:
+
+{% for img in images %}
+### {{img.title}}
+
+![{{img.title}}]({{img.path}} "{{img.title}}")
+
+{{img.description}}
+
+{% endfor %}

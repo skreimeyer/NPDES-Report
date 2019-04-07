@@ -7,6 +7,7 @@ from the report-data.yml file in the data folder. Nothing more, nothing less.
 from jinja2 import FileSystemLoader, Environment
 import yaml
 import csv
+import os
 
 testmeta = {"index":1,"title":"This is the title","caption":"a caption","filename":"../data/csv/test.csv"}
 
@@ -42,7 +43,53 @@ environment.filters["maketable"] = maketable
 with open("../data/report-data.yml", "r") as infile:
     report_data = yaml.load(infile)
 # load template
-template = environment.get_template("report.tmpl")
-# render and write to report.md in the top folder
-with open("../report.md", "w") as outfile:
+template = environment.get_template("narrative.tmpl")
+# render and write to narrative.md in the report folder
+with open("../report/narrative.md", "w") as outfile:
     outfile.write(template.render(report_data))
+
+templateC = environment.get_template("appendixC.tmpl")
+# render and write to appendixC.md in the report folder
+with open("../report/appendixC.md", "w") as outfile:
+    outfile.write(templateC.render(report_data))
+
+# load education data
+with open("../data/education-data.yml","r") as infile:
+    education_data = yaml.load(infile)
+
+templateD = environment.get_template("appendixD.tmpl")
+# render and write to appendixD.md in the report folder
+with open("../report/appendixD.md", "w") as outfile:
+    outfile.write(templateD.render(education_data))
+
+# fetch all radar chart images.
+radar_imgs = {'images':[i for i in os.listdir("../figures") if "radar" in i]}
+
+templateE = environment.get_template("appendixE.tmpl")
+# render and write to appendixE.md in the report folder
+with open("../report/appendixE.md", "w") as outfile:
+    outfile.write(templateE.render(radar_imgs))
+
+# fetch all time-series chart images.
+time_imgs = {'images':[i for i in os.listdir("../figures") if "time" in i]}
+
+templateF = environment.get_template("appendixF.tmpl")
+# render and write to appendixF.md in the report folder
+with open("../report/appendixF.md", "w") as outfile:
+    outfile.write(templateF.render(time_imgs))
+
+# fetch all regional box plot images.
+seasonal_images = {'images':[i for i in os.listdir("../figures") if "seasonal" in i]}
+
+templateG = environment.get_template("appendixG.tmpl")
+# render and write to appendixE.md in the report folder
+with open("../report/appendixG.md", "w") as outfile:
+    outfile.write(templateG.render(seasonal_images))
+
+# fetch all seasonal box plot images.
+regional_images = {'images':[i for i in os.listdir("../figures") if "regional" in i]}
+
+templateH = environment.get_template("appendixH.tmpl")
+# render and write to appendixE.md in the report folder
+with open("../report/appendixH.md", "w") as outfile:
+    outfile.write(templateH.render(regional_images))
