@@ -96,3 +96,11 @@ with open("../report/appendixH.md", "w") as outfile:
     outfile.write(templateH.render(regional_images))
 
 # We're done with markdown. Call pandoc, generate pdfs and merge into top level
+targets = [
+'narrative.md'
+'appendixC.md',
+'appendixD.md',
+'appendixE.md',
+'appendixF.md',
+'appendixG.md',
+]
